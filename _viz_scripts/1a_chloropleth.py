@@ -3,14 +3,13 @@ import geopandas as gpd
 import matplotlib.pyplot as plt
 import pandas as pd
 import os
-import zipfile
 
-def create_choropleth_map(json_file, shapefile_zip):
+def create_choropleth_map(json_file, shapefile_path):
     # Get the directory of the script
     script_dir = os.path.dirname(os.path.abspath(__file__))
     
     # Create output folder
-    output_dir = os.path.join(script_dir, 'output')
+    output_dir = os.path.join(script_dir, '1a_output')
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
 
@@ -39,38 +38,22 @@ def create_choropleth_map(json_file, shapefile_zip):
     }).reset_index()
     county_data['Poor Percentage'] = (county_data['Poor Status'] / county_data['BIN']) * 100
 
-    # Extract the shapefile from the zip
-    shapefile_path = os.path.join(script_dir, 'references', shapefile_zip)
-    print(f"Extracting shapefile from: {shapefile_path}")
-    try:
-        with zipfile.ZipFile(shapefile_path, 'r') as zip_ref:
-            zip_ref.extractall(os.path.dirname(shapefile_path))
-    except FileNotFoundError:
-        print(f"Error: The shapefile zip {shapefile_path} was not found.")
-        return
-    except zipfile.BadZipFile:
-        print(f"Error: The file {shapefile_path} is not a valid zip file.")
-        return
-
-    # Find the .shp file in the extracted contents
-    shapefile_dir = os.path.dirname(shapefile_path)
-    shp_files = [f for f in os.listdir(shapefile_dir) if f.endswith('.shp')]
-    if not shp_files:
-        print(f"Error: No .shp file found in {shapefile_dir}")
-        return
-    shapefile_name = shp_files[0]
-
     # Load the shapefile
-    shapefile_full_path = os.path.join(shapefile_dir, shapefile_name)
-    print(f"Loading shapefile: {shapefile_full_path}")
+    print(f"Loading shapefile: {shapefile_path}")
     try:
-        ny_counties = gpd.read_file(shapefile_full_path)
+        ny_counties = gpd.read_file(shapefile_path)
     except Exception as e:
         print(f"Error loading shapefile: {str(e)}")
         return
 
-    # Merge shapefile with our data
+    # Print column names of the shapefile
+    print("Columns in the shapefile:", ny_counties.columns)
+
+    # Assuming the county name column in the shapefile is 'NAME'
+    # Adjust this if it's different in your shapefile
     ny_counties['NAME'] = ny_counties['NAME'].str.upper()
+    
+    # Merge shapefile with our data
     merged = ny_counties.merge(county_data, left_on='NAME', right_on='County', how='left')
 
     # Create the plot
@@ -93,5 +76,5 @@ def create_choropleth_map(json_file, shapefile_zip):
 # Run the function
 if __name__ == "__main__":
     json_file = 'bridge_conditions.json'
-    shapefile_zip = 'NYS_Civil_Boundaries.shp.zip'
-    create_choropleth_map(json_file, shapefile_zip)
+    shapefile_path = '/Users/andrewsmith/Documents/GitHub/bridge_data/_viz_scripts/references/Counties.shp'
+    create_choropleth_map(json_file, shapefile_path)
