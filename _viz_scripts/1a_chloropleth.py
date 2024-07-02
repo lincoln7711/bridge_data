@@ -15,14 +15,28 @@ def download_ny_counties_shapefile():
     return gpd.read_file("ny_counties_shapefile/tl_2019_36_county.shp")
 
 def create_choropleth_map(json_file):
+    # Get the directory of the script
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    
     # Create output folder
-    if not os.path.exists('output'):
-        os.makedirs('output')
+    output_dir = os.path.join(script_dir, 'output')
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
+
+    # Construct the full path to the JSON file
+    json_path = os.path.join(script_dir, json_file)
 
     # Read the JSON file
-    print(f"Reading JSON file: {json_file}")
-    with open(json_file, 'r') as f:
-        data = json.load(f)
+    print(f"Reading JSON file: {json_path}")
+    try:
+        with open(json_path, 'r') as f:
+            data = json.load(f)
+    except FileNotFoundError:
+        print(f"Error: The file {json_path} was not found.")
+        return
+    except json.JSONDecodeError:
+        print(f"Error: The file {json_path} is not a valid JSON file.")
+        return
 
     # Convert to DataFrame
     df = pd.DataFrame(data)
@@ -52,7 +66,7 @@ def create_choropleth_map(json_file):
     ax.axis('off')
 
     # Save the plot
-    output_path = 'output/ny_bridge_condition_choropleth.png'
+    output_path = os.path.join(output_dir, 'ny_bridge_condition_choropleth.png')
     plt.savefig(output_path, dpi=300, bbox_inches='tight')
     plt.close()
 
