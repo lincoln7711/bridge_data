@@ -14,6 +14,7 @@ def analyze_average_bridge_age(json_file_path):
     current_year = datetime.now().year
     owner_ages = defaultdict(list)
     region_ages = defaultdict(list)
+    county_ages = defaultdict(list)
 
     for bridge in bridges:
         year_built = bridge['Year Built or Replaced']
@@ -21,9 +22,11 @@ def analyze_average_bridge_age(json_file_path):
             age = current_year - int(year_built)
             owner = bridge['Owner']
             region = bridge['Region']
+            county = bridge['County']
             
             owner_ages[owner].append(age)
             region_ages[region].append(age)
+            county_ages[county].append(age)
 
     # Calculate average age by owner
     with open('6b_data/average_age_by_owner.txt', 'w') as f:
@@ -40,6 +43,14 @@ def analyze_average_bridge_age(json_file_path):
         for region, ages in sorted(region_ages.items(), key=lambda x: sum(x[1])/len(x[1]), reverse=True):
             avg_age = sum(ages) / len(ages)
             f.write(f"{region}, {avg_age:.2f}, {len(ages)}\n")
+
+    # Calculate average age by county
+    with open('6b_data/average_age_by_county.txt', 'w') as f:
+        f.write("Average Bridge Age by County:\n")
+        f.write("County, Average Age (years), Number of Bridges\n")
+        for county, ages in sorted(county_ages.items(), key=lambda x: sum(x[1])/len(x[1]), reverse=True):
+            avg_age = sum(ages) / len(ages)
+            f.write(f"{county}, {avg_age:.2f}, {len(ages)}\n")
 
     print("Average age analysis complete. Results saved in the '6b_data' folder.")
 
