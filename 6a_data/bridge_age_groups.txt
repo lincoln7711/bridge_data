@@ -1,0 +1,8 @@
+Bridge Age Group Distribution:
+Age Group, Number of Bridges
+0-9 years, 628
+10-24 years, 2426
+25-49 years, 4528
+50-74 years, 6093
+75-99 years, 2946
+100+ years, 911
