@@ -38,26 +38,26 @@ def create_choropleth_map(json_file, shapefile_path):
     # Merge shapefile with our data
     merged = ny_counties.merge(county_data, left_on='NAME', right_on='County', how='left')
 
-    # Create a new column with county name and percentage
-    merged['County_Percentage'] = merged['NAME'] + ' (' + merged['Poor Percentage'].round(2).astype(str) + '%)'
-
     # Create the plot
     fig, ax = plt.subplots(1, 1, figsize=(15, 10))
     merged.plot(column='Poor Percentage', ax=ax, legend=True, 
                 legend_kwds={'label': 'Percentage of Poor Condition Bridges'},
                 cmap='YlOrRd', missing_kwds={'color': 'lightgrey'})
 
-    # Add labels with county name and percentage
+    # Add labels with percentage only
     for idx, row in merged.iterrows():
-        ax.annotate(row['County_Percentage'], xy=(row['geometry'].centroid.x, row['geometry'].centroid.y),
-                    xytext=(3, 3), textcoords="offset points", fontsize=6, ha='center', va='center')
+        if pd.notnull(row['Poor Percentage']):
+            ax.annotate(f"{row['Poor Percentage']:.1f}%", 
+                        xy=(row['geometry'].centroid.x, row['geometry'].centroid.y),
+                        xytext=(3, 3), textcoords="offset points", 
+                        fontsize=8, ha='center', va='center')
 
     # Customize the plot
     ax.set_title('Percentage of Poor Condition Bridges by County in New York State', fontsize=16)
     ax.axis('off')
 
     # Save the plot with a new filename
-    output_path = os.path.join(output_dir, 'ny_bridge_condition_choropleth_with_percentages.png')
+    output_path = os.path.join(output_dir, 'ny_bridge_condition_choropleth_percentages_only.png')
     plt.savefig(output_path, dpi=300, bbox_inches='tight')
     plt.close()
 
