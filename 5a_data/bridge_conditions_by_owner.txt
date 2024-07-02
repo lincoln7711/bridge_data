@@ -1,0 +1,36 @@
+Bridge Conditions by Owner:
+Owner, Total Bridges, Poor Condition, Not Poor Condition, Poor %, Not Poor %
+NYSDOT, 7534, 544, 6990, 7.22%, 92.78%
+County, 6132, 648, 5484, 10.57%, 89.43%
+Town, 1299, 217, 1082, 16.71%, 83.29%
+City, 1022, 110, 912, 10.76%, 89.24%
+NYS Thruway Authority, 767, 98, 669, 12.78%, 87.22%
+Village, 140, 23, 117, 16.43%, 83.57%
+Port Authority of NY and NJ, 124, 0, 124, 0.00%, 100.00%
+Railroad, 87, 25, 62, 28.74%, 71.26%
+Palisades Interstate Park Commission, 64, 3, 61, 4.69%, 95.31%
+State - Other, 50, 1, 49, 2.00%, 98.00%
+MTA Bridges and Tunnels (aka TBTA), 48, 4, 44, 8.33%, 91.67%
+NYC Dept of Water Supply, Gas and Electric, 45, 3, 42, 6.67%, 93.33%
+Transit Authority, 43, 4, 39, 9.30%, 90.70%
+NYS Dept of Environmental Conservation, 35, 4, 31, 11.43%, 88.57%
+Niagara Frontier State Park Commission, 26, 4, 22, 15.38%, 84.62%
+Metropolitan Transportation Authority, 21, 1, 20, 4.76%, 95.24%
+Alleghany State Park Authority, 14, 3, 11, 21.43%, 78.57%
+Other, 14, 0, 14, 0.00%, 100.00%
+NYS Power Authority, 13, 0, 13, 0.00%, 100.00%
+National Park Service, 9, 3, 6, 33.33%, 66.67%
+NYS Bridge Authority, 9, 1, 8, 11.11%, 88.89%
+Finger Lakes Parks and Recreation Commission, 6, 0, 6, 0.00%, 100.00%
+Authority or Commission - Other, 6, 0, 6, 0.00%, 100.00%
+Thousand Islands Bridge Authority, 5, 0, 5, 0.00%, 100.00%
+Genesee State Parks and Recreation Commission, 5, 0, 5, 0.00%, 100.00%
+Niagara Falls Bridge Commission, 4, 0, 4, 0.00%, 100.00%
+City of NY State Park Commission, 3, 0, 3, 0.00%, 100.00%
+Peace Bridge Authority (aka Buffalo And Ft. Erie Pub Br.Auth), 1, 0, 1, 0.00%, 100.00%
+Nassau County Bridge Authority, 1, 0, 1, 0.00%, 100.00%
+Private - Utility, 1, 1, 0, 100.00%, 0.00%
+Central NY State Park Commission, 1, 0, 1, 0.00%, 100.00%
+Federal (Other than those listed below), 1, 1, 0, 100.00%, 0.00%
+Seaway International Bridge Authority, 1, 0, 1, 0.00%, 100.00%
+Ogdensburg Bridge and Port Authority, 1, 0, 1, 0.00%, 100.00%
