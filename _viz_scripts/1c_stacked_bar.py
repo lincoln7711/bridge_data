@@ -1,9 +1,8 @@
 import json
 import pandas as pd
-import matplotlib.pyplot as plt
 import os
 
-def create_stacked_bar_chart(json_file):
+def create_bridge_condition_table(json_file):
     # Get the directory of the script
     script_dir = os.path.dirname(os.path.abspath(__file__))
     
@@ -28,44 +27,38 @@ def create_stacked_bar_chart(json_file):
         'BIN': 'count',
         'Poor Status': lambda x: (x == 'Y').sum()
     }).reset_index()
+    
+    # Calculate good condition bridges and percentages
     county_data['Good Condition'] = county_data['BIN'] - county_data['Poor Status']
+    county_data['Good Percentage'] = (county_data['Good Condition'] / county_data['BIN'] * 100).round(2)
+    county_data['Poor Percentage'] = (county_data['Poor Status'] / county_data['BIN'] * 100).round(2)
 
     # Sort by total number of bridges
     county_data = county_data.sort_values('BIN', ascending=False)
 
-    # Create the figure with two subplots
-    fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(20, 10), gridspec_kw={'width_ratios': [3, 1]})
+    # Rename columns for clarity
+    county_data = county_data.rename(columns={
+        'BIN': 'Total Bridges',
+        'Poor Status': 'Poor Condition',
+        'Good Percentage': 'Good Condition %',
+        'Poor Percentage': 'Poor Condition %'
+    })
 
-    # Create the stacked bar chart
-    bars_good = ax1.bar(county_data['County'], county_data['Good Condition'], label='Good Condition')
-    bars_poor = ax1.bar(county_data['County'], county_data['Poor Status'], bottom=county_data['Good Condition'], label='Poor Condition')
+    # Reorder columns
+    column_order = ['County', 'Total Bridges', 'Good Condition', 'Poor Condition', 
+                    'Good Condition %', 'Poor Condition %']
+    county_data = county_data[column_order]
 
-    # Customize the plot
-    ax1.set_xlabel('County', fontsize=12)
-    ax1.set_ylabel('Number of Bridges', fontsize=12)
-    ax1.set_title('Bridge Conditions by County in New York State', fontsize=16)
-    ax1.legend(loc='upper right')
-    plt.setp(ax1.get_xticklabels(), rotation=90, ha='right')
+    # Save the table as a CSV file
+    output_path = os.path.join(output_dir, 'bridge_condition_table.csv')
+    county_data.to_csv(output_path, index=False)
 
-    # Create the chart with good condition ratios
-    ratio_data = county_data.sort_values('Good Condition', ascending=True).tail(20)  # Top 20 counties
-    ax2.barh(ratio_data['County'], ratio_data['Good Condition'] / ratio_data['BIN'])
-    ax2.set_xlim(0, 1)
-    ax2.set_title('Ratio of Bridges in Good Condition', fontsize=14)
-    ax2.set_xlabel('Ratio', fontsize=12)
+    print(f"Bridge condition table saved as: {output_path}")
 
-    # Add text labels to the ratio bars
-    for i, (county, good, total) in enumerate(zip(ratio_data['County'], ratio_data['Good Condition'], ratio_data['BIN'])):
-        ax2.text(good/total, i, f'{county} {good}/{total}', va='center', fontsize=8)
-
-    # Adjust layout and save
-    plt.tight_layout()
-    output_path = os.path.join(output_dir, 'bridge_condition_stacked_bar_with_ratio_chart.png')
-    plt.savefig(output_path, dpi=300, bbox_inches='tight')
-    plt.close()
-
-    print(f"Stacked bar chart with ratio chart saved as: {output_path}")
+    # Display the table in the console
+    print("\nBridge Condition Table:")
+    print(county_data.to_string(index=False))
 
 # Run the function
 if __name__ == "__main__":
-    create_stacked_bar_chart('bridge_conditions.json')
+    create_bridge_condition_table('bridge_conditions.json')
