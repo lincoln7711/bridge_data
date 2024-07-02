@@ -2,31 +2,25 @@ import pandas as pd
 import geopandas as gpd
 import matplotlib.pyplot as plt
 import os
+import requests
+import zipfile
+import io
 
-def find_csv_file(filename):
-    # List of possible locations
-    locations = [
-        os.path.join('..', filename),  # One directory up
-        filename,  # In the current directory
-        os.path.join('..', '..', filename),  # Two directories up
-        os.path.join(os.path.expanduser('~'), 'Documents', 'GitHub', 'bridge_data', filename)  # Full path to the repository
-    ]
-    
-    for location in locations:
-        if os.path.exists(location):
-            return location
-    
-    raise FileNotFoundError(f"Could not find {filename} in any of the expected locations.")
+def download_ny_counties_shapefile():
+    url = "https://www2.census.gov/geo/tiger/TIGER2019/COUNTY/tl_2019_36_county.zip"
+    response = requests.get(url)
+    z = zipfile.ZipFile(io.BytesIO(response.content))
+    z.extractall("ny_counties_shapefile")
+    return gpd.read_file("ny_counties_shapefile/tl_2019_36_county.shp")
 
 def create_choropleth_map(csv_file):
     # Create output folder in the main repository
     if not os.path.exists('../1a_output'):
         os.makedirs('../1a_output')
 
-    # Find and read the CSV file
-    csv_path = find_csv_file(csv_file)
-    print(f"Reading CSV file from: {csv_path}")
-    df = pd.read_csv(csv_path)
+    # Read the CSV file
+    print(f"Reading CSV file from: {csv_file}")
+    df = pd.read_csv(csv_file)
 
     # Group by county and calculate poor bridge percentage
     county_data = df.groupby('County').agg({
@@ -35,9 +29,9 @@ def create_choropleth_map(csv_file):
     }).reset_index()
     county_data['Poor Percentage'] = (county_data['Poor Status'] / county_data['BIN']) * 100
 
-    # Load New York county shapefile
-    ny_counties = gpd.read_file(gpd.datasets.get_path('usa-counties'))
-    ny_counties = ny_counties[ny_counties['STATE_NAME'] == 'New York']
+    # Download and load New York county shapefile
+    print("Downloading New York county shapefile...")
+    ny_counties = download_ny_counties_shapefile()
 
     # Merge shapefile with our data
     merged = ny_counties.merge(county_data, left_on='NAME', right_on='County', how='left')
