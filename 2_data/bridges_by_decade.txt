@@ -1,0 +1,21 @@
+Bridges by Decade:
+1800s: Total: 1, Poor: 0, Percentage: 0.00%
+1820s: Total: 1, Poor: 0, Percentage: 0.00%
+1840s: Total: 1, Poor: 0, Percentage: 0.00%
+1850s: Total: 9, Poor: 0, Percentage: 0.00%
+1860s: Total: 15, Poor: 1, Percentage: 6.67%
+1870s: Total: 17, Poor: 5, Percentage: 29.41%
+1880s: Total: 57, Poor: 12, Percentage: 21.05%
+1890s: Total: 73, Poor: 22, Percentage: 30.14%
+1900s: Total: 263, Poor: 64, Percentage: 24.33%
+1910s: Total: 303, Poor: 84, Percentage: 27.72%
+1920s: Total: 552, Poor: 134, Percentage: 24.28%
+1930s: Total: 1764, Poor: 367, Percentage: 20.80%
+1940s: Total: 801, Poor: 128, Percentage: 15.98%
+1950s: Total: 2075, Poor: 278, Percentage: 13.40%
+1960s: Total: 2844, Poor: 258, Percentage: 9.07%
+1970s: Total: 1784, Poor: 154, Percentage: 8.63%
+1980s: Total: 1689, Poor: 115, Percentage: 6.81%
+1990s: Total: 2229, Poor: 59, Percentage: 2.65%
+2000s: Total: 1676, Poor: 9, Percentage: 0.54%
+2010s: Total: 1378, Poor: 8, Percentage: 0.58%
