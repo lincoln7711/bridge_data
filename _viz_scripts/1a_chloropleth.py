@@ -3,6 +3,16 @@ import geopandas as gpd
 import matplotlib.pyplot as plt
 import pandas as pd
 import os
+import requests
+import zipfile
+import io
+
+def download_ny_counties_shapefile():
+    url = "https://www2.census.gov/geo/tiger/TIGER2019/COUNTY/tl_2019_36_county.zip"
+    response = requests.get(url)
+    z = zipfile.ZipFile(io.BytesIO(response.content))
+    z.extractall("ny_counties_shapefile")
+    return gpd.read_file("ny_counties_shapefile/tl_2019_36_county.shp")
 
 def create_choropleth_map(json_file):
     # Get the directory of the script
@@ -38,10 +48,9 @@ def create_choropleth_map(json_file):
     }).reset_index()
     county_data['Poor Percentage'] = (county_data['Poor Status'] / county_data['BIN']) * 100
 
-    # Load US counties shapefile and filter for New York
-    print("Loading New York county shapefile...")
-    us_counties = gpd.read_file(gpd.datasets.get_path('usa-counties'))
-    ny_counties = us_counties[us_counties['STATE_NAME'] == 'New York']
+    # Download and load New York county shapefile
+    print("Downloading New York county shapefile...")
+    ny_counties = download_ny_counties_shapefile()
 
     # Merge shapefile with our data
     merged = ny_counties.merge(county_data, left_on='NAME', right_on='County', how='left')
