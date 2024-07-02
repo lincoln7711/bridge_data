@@ -29,7 +29,8 @@ def create_interactive_map():
 
     # Create a heatmap of poor condition bridges
     poor_bridges = merged_gdf[merged_gdf['Poor Status'] == 'Y']
-    HeatMap(data=poor_bridges[['geometry.y', 'geometry.x']], radius=15).add_to(m)
+    heat_data = [[point.y, point.x] for point in poor_bridges.geometry]
+    HeatMap(heat_data, radius=15).add_to(m)
 
     # Save the map
     m.save('3c_data/bridge_condition_map.html')
