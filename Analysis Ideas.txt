@@ -1,63 +1,59 @@
-percentage of poor condition bridges relative to total
-comparisons of year built to condition
-geolocation of bridges and conditions based on county/city
-last inspection date comparisons
-relative list of owners and the status of their bridges
+*1* Percentage of poor condition bridges relative to total
+*2* Comparisons of year built to condition
 
-1. Temporal analysis of inspections:
-   - Frequency of inspections by owner or region
-   - Average time between inspections
-   - Correlation between inspection frequency and bridge condition
+    Correlation between bridge age and poor status
+    Identification of the oldest bridges still in good condition
 
-2. Age analysis:
-   - Distribution of bridge ages
-   - Correlation between age and poor status
-   - Identification of the oldest bridges still in good condition
+*3* Geolocation of bridges and conditions based on county/city
 
-3. Owner performance:
-   - Comparison of bridge conditions across different owners
-   - Average age of bridges by owner
-   - Percentage of poor condition bridges by owner
+    Regional comparisons of bridge conditions
+    Identification of areas with higher concentrations of poor condition bridges
 
-4. Regional comparisons:
-   - Bridge density by county or municipality
-   - Comparison of bridge conditions across different regions
-   - Identification of regions with the oldest or newest bridge infrastructure
+*4* Last inspection date analysis
 
-5. Feature analysis:
-   - Most common features carried or crossed by bridges
-   - Correlation between feature type and bridge condition
+    Distribution of last inspection dates
+    Identification of bridges that may be overdue for inspection (based on a predetermined threshold)
 
-6. Historical trends:
-   - Bridge construction patterns over time
-   - Changes in bridge design or materials based on construction year
+*5* Relative list of owners and the status of their bridges
 
-7. Maintenance patterns:
-   - Correlation between year built/replaced and inspection frequency
-   - Identification of bridges overdue for inspection
+    Comparison of bridge conditions across different owners
+    Percentage of poor condition bridges by owner
 
-8. Critical infrastructure:
-   - Identification of bridges on major routes or crossing significant features
-   - Analysis of condition for these critical bridges
+*6* Age analysis
 
-9. Material analysis (if data is available):
-   - Comparison of bridge conditions based on construction materials
-   - Longevity of different bridge materials
+    Distribution of bridge ages
+    Average age of bridges by owner or region
 
-10. Environmental impact:
-    - Correlation between bridge condition and proximity to water bodies
-    - Analysis of bridges crossing environmentally sensitive areas
+*7* Feature analysis
 
-11. Traffic impact (if data is available):
-    - Correlation between bridge condition and traffic volume
-    - Identification of high-traffic bridges in poor condition
+    Most common features carried or crossed by bridges
+    Correlation between feature type and bridge condition
 
-12. Budget allocation analysis:
-    - Estimation of required maintenance based on age and condition
-    - Prioritization of bridges for repair or replacement
+*8* Historical trends
 
-13. Predictive modeling:
-    - Development of models to predict future bridge conditions based on current data
+    Bridge construction patterns over time
+    Changes in bridge design based on construction year
+
+*9* Critical infrastructure identification
+
+    Analysis of bridges on major routes or crossing significant features
+    Condition assessment of these critical bridges
+
+*10* Regional comparisons
+
+    Bridge density by county or municipality
+    Comparison of average bridge age across different regions
+
+*11* Owner performance metrics
+
+    Average age of bridges by owner
+    Percentage of poor condition bridges by owner
+
+*12* Year built/replaced analysis
+
+    Identification of periods with high bridge construction activity
+    Comparison of condition for bridges built in different eras
+
 
 These analyses can provide valuable insights into the state of bridge infrastructure, help prioritize maintenance and replacement efforts, and inform policy decisions regarding infrastructure investment.
 
@@ -67,3 +63,39 @@ Citations:
 Additional Data Sets to Exp;ore: 
 https://data.ny.gov/Transportation/Traffic-Counts-for-Select-Bridges-Beginning-1933/5qpa-id23/about_data
 
+***Notes on Geolocation***
+You're right to focus on option 3, using the BIN (Bridge Identification Number) for cross-referencing. This is likely the most reliable method to obtain accurate geolocation data for the bridges. Here are some potential datasets and resources that could be used for cross-referencing:
+
+1. New York State GIS Clearinghouse:
+The NYS GIS Clearinghouse provides various geospatial datasets, including some related to transportation infrastructure. They have a dataset called "NYS Bridge Points" which includes BINs and coordinates[1].
+
+2. NYS Department of Transportation (NYSDOT) Data:
+NYSDOT maintains several datasets that might be useful:
+
+   a. Highway Data Services: They provide various data files, including bridge data that might contain geolocation information[1].
+   
+   b. NYSDOT Bridge Data: While not directly accessible, you might be able to request more detailed bridge data, including coordinates, from NYSDOT using the BINs as reference.
+
+3. National Bridge Inventory (NBI):
+The Federal Highway Administration maintains the NBI, which includes location data for bridges. You could potentially match the BINs from your dataset with the NBI data[1].
+
+4. OpenStreetMap (OSM) Data:
+While not official, OSM often includes detailed information about infrastructure, including bridges. You might be able to match some bridges based on their features and approximate locations.
+
+5. NYS Office of Information Technology Services (ITS):
+They might have access to more detailed GIS data for state infrastructure that isn't publicly available. You could inquire about accessing this data for research purposes.
+
+6. County and Municipal GIS Departments:
+Many counties and larger municipalities maintain their own GIS data, which might include more detailed information about local bridges.
+
+To use these resources:
+
+1. Start with the NYS GIS Clearinghouse "NYS Bridge Points" dataset, as it's likely to be the most comprehensive and official source.
+
+2. For any missing data, cross-reference with the NBI dataset.
+
+3. For remaining gaps, consider reaching out to NYSDOT or NYS ITS directly for assistance.
+
+4. As a last resort, use the county and municipality information to check local GIS resources.
+
+Remember that accessing some of these datasets might require official requests or permissions, especially for detailed infrastructure data. Always ensure you're using the data in compliance with any usage agreements or restrictions.
