@@ -7,8 +7,8 @@ def analyze_ownership_patterns(json_file_path):
         bridges = json.load(json_file)
 
     # Create 8a_data folder if it doesn't exist
-    if not os.path.exists('8a_data'):
-        os.makedirs('8a_data')
+    if not os.path.exists('8b_data'):
+        os.makedirs('8b_data')
 
     # Group bridges by decade and owner
     decades = defaultdict(lambda: defaultdict(int))
@@ -22,7 +22,7 @@ def analyze_ownership_patterns(json_file_path):
             decades[decade][owner] += 1
 
     # Write results to file
-    with open('8a_data/ownership_patterns_over_time.txt', 'w') as f:
+    with open('8b_data/ownership_patterns_over_time.txt', 'w') as f:
         f.write("Bridge Ownership Patterns Over Time:\n\n")
         for decade in sorted(decades.keys()):
             f.write(f"Decade: {decade}s\n")
@@ -32,7 +32,7 @@ def analyze_ownership_patterns(json_file_path):
                 f.write(f"{owner}: {count} ({percentage:.2f}%)\n")
             f.write("\n")
 
-    print("Ownership patterns over time analysis complete. Results saved in the '8a_data' folder.")
+    print("Ownership patterns over time analysis complete. Results saved in the '8b_data' folder.")
 
 # Usage
 json_file_path = 'bridge_conditions.json'
