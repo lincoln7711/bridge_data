@@ -10,12 +10,12 @@ def create_choropleth_map(json_file, shapefile_zip):
     script_dir = os.path.dirname(os.path.abspath(__file__))
     
     # Create output folder
-    output_dir = os.path.join(script_dir, '1a_output')
+    output_dir = os.path.join(script_dir, 'output')
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
 
     # Construct the full path to the JSON file
-    json_path = os.path.join(script_dir, json_file)
+    json_path = os.path.join(script_dir, 'references', json_file)
 
     # Read the JSON file
     print(f"Reading JSON file: {json_path}")
@@ -40,12 +40,13 @@ def create_choropleth_map(json_file, shapefile_zip):
     county_data['Poor Percentage'] = (county_data['Poor Status'] / county_data['BIN']) * 100
 
     # Extract the shapefile from the zip
-    with zipfile.ZipFile(shapefile_zip, 'r') as zip_ref:
-        zip_ref.extractall(os.path.dirname(shapefile_zip))
+    shapefile_path = os.path.join(script_dir, 'references', shapefile_zip)
+    with zipfile.ZipFile(shapefile_path, 'r') as zip_ref:
+        zip_ref.extractall(os.path.dirname(shapefile_path))
 
     # Load the shapefile
-    shapefile_path = shapefile_zip.replace('.zip', '')
-    ny_counties = gpd.read_file(shapefile_path)
+    shapefile_name = shapefile_zip.replace('.zip', '')
+    ny_counties = gpd.read_file(os.path.join(script_dir, 'references', shapefile_name))
 
     # Merge shapefile with our data
     ny_counties['NAME'] = ny_counties['NAME'].str.upper()
@@ -71,5 +72,5 @@ def create_choropleth_map(json_file, shapefile_zip):
 # Run the function
 if __name__ == "__main__":
     json_file = 'bridge_conditions.json'
-    shapefile_zip = 'references/NYS_Civil_Boundaries.shp.zip'
+    shapefile_zip = 'NYS_Civil_Boundaries.shp.zip'
     create_choropleth_map(json_file, shapefile_zip)
