@@ -1,0 +1,4 @@
+Overall Statistics:
+Total bridges: 17532
+Poor condition bridges: 1698
+Percentage in poor condition: 9.69%

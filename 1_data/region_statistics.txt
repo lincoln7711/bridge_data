@@ -1,0 +1,12 @@
+Statistics by Region:
+Region 1: Total: 1755, Poor: 161, Percentage: 9.17%
+Region 6: Total: 1444, Poor: 112, Percentage: 7.76%
+Region 11: Total: 1470, Poor: 105, Percentage: 7.14%
+Region 9: Total: 2194, Poor: 180, Percentage: 8.20%
+Region 5: Total: 2199, Poor: 175, Percentage: 7.96%
+Region 3: Total: 1297, Poor: 173, Percentage: 13.34%
+Region 7: Total: 1166, Poor: 155, Percentage: 13.29%
+Region 8: Total: 2544, Poor: 338, Percentage: 13.29%
+Region 2: Total: 1290, Poor: 146, Percentage: 11.32%
+Region 4: Total: 1482, Poor: 144, Percentage: 9.72%
+Region 10: Total: 691, Poor: 9, Percentage: 1.30%

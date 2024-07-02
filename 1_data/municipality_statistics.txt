@@ -1,0 +1,1369 @@
+Statistics by Municipality:
+Albany (City): Total: 122, Poor: 2, Percentage: 1.64%
+Berne (Town): Total: 16, Poor: 1, Percentage: 6.25%
+Bethlehem (Town): Total: 31, Poor: 2, Percentage: 6.45%
+Coeymans (Town): Total: 22, Poor: 4, Percentage: 18.18%
+Cohoes (City): Total: 6, Poor: 0, Percentage: 0.00%
+Colonie (Town): Total: 35, Poor: 3, Percentage: 8.57%
+Colonie (Village): Total: 3, Poor: 0, Percentage: 0.00%
+Green Island (Village): Total: 6, Poor: 0, Percentage: 0.00%
+Guilderland (Town): Total: 27, Poor: 2, Percentage: 7.41%
+Knox (Town): Total: 6, Poor: 1, Percentage: 16.67%
+Menands (Village): Total: 8, Poor: 1, Percentage: 12.50%
+New Scotland (Town): Total: 15, Poor: 1, Percentage: 6.67%
+Ravena (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Rensselaerville (Town): Total: 24, Poor: 2, Percentage: 8.33%
+Schodack (Town): Total: 61, Poor: 3, Percentage: 4.92%
+Voorheesville (Village): Total: 3, Poor: 0, Percentage: 0.00%
+Watervliet (City): Total: 4, Poor: 0, Percentage: 0.00%
+Westerlo (Town): Total: 12, Poor: 0, Percentage: 0.00%
+: Total: 187, Poor: 5, Percentage: 2.67%
+Alfred (Town): Total: 9, Poor: 1, Percentage: 11.11%
+Alfred (Village): Total: 4, Poor: 2, Percentage: 50.00%
+Allen (Town): Total: 6, Poor: 0, Percentage: 0.00%
+Alma (Town): Total: 4, Poor: 0, Percentage: 0.00%
+Almond (Town): Total: 19, Poor: 4, Percentage: 21.05%
+Almond (Village): Total: 5, Poor: 0, Percentage: 0.00%
+Amity (Town): Total: 16, Poor: 2, Percentage: 12.50%
+Andover (Town): Total: 15, Poor: 0, Percentage: 0.00%
+Andover (Village): Total: 7, Poor: 1, Percentage: 14.29%
+Angelica (Town): Total: 17, Poor: 2, Percentage: 11.76%
+Angelica (Village): Total: 9, Poor: 3, Percentage: 33.33%
+Belfast (Town): Total: 14, Poor: 2, Percentage: 14.29%
+Belmont (Village): Total: 5, Poor: 1, Percentage: 20.00%
+Birdsall (Town): Total: 10, Poor: 0, Percentage: 0.00%
+Bolivar (Town): Total: 4, Poor: 1, Percentage: 25.00%
+Bolivar (Village): Total: 5, Poor: 0, Percentage: 0.00%
+Burns (Town): Total: 13, Poor: 1, Percentage: 7.69%
+Canaseraga (Village): Total: 3, Poor: 0, Percentage: 0.00%
+Caneadea (Town): Total: 10, Poor: 1, Percentage: 10.00%
+Centerville (Town): Total: 9, Poor: 1, Percentage: 11.11%
+Clarksville (Town): Total: 6, Poor: 0, Percentage: 0.00%
+Cuba (Town): Total: 19, Poor: 0, Percentage: 0.00%
+Cuba (Village): Total: 10, Poor: 1, Percentage: 10.00%
+Friendship (Town): Total: 19, Poor: 0, Percentage: 0.00%
+Genesee (Town): Total: 8, Poor: 0, Percentage: 0.00%
+Granger (Town): Total: 6, Poor: 0, Percentage: 0.00%
+Grove (Town): Total: 5, Poor: 0, Percentage: 0.00%
+Hume (Town): Total: 17, Poor: 3, Percentage: 17.65%
+Independence (Town): Total: 13, Poor: 2, Percentage: 15.38%
+New Hudson (Town): Total: 7, Poor: 0, Percentage: 0.00%
+Richburg (Village): Total: 3, Poor: 1, Percentage: 33.33%
+Rushford (Town): Total: 17, Poor: 0, Percentage: 0.00%
+Scio (Town): Total: 19, Poor: 0, Percentage: 0.00%
+Ward (Town): Total: 13, Poor: 1, Percentage: 7.69%
+Wellsville (Town): Total: 13, Poor: 2, Percentage: 15.38%
+Wellsville (Village): Total: 8, Poor: 0, Percentage: 0.00%
+West Almond (Town): Total: 12, Poor: 0, Percentage: 0.00%
+Willing (Town): Total: 16, Poor: 2, Percentage: 12.50%
+Wirt (Town): Total: 6, Poor: 1, Percentage: 16.67%
+New York (City): Total: 1428, Poor: 105, Percentage: 7.35%
+Barker (Town): Total: 15, Poor: 0, Percentage: 0.00%
+Binghamton (City): Total: 34, Poor: 0, Percentage: 0.00%
+Binghamton (Town): Total: 12, Poor: 0, Percentage: 0.00%
+Chenango (Town): Total: 31, Poor: 3, Percentage: 9.68%
+Colesville (Town): Total: 44, Poor: 1, Percentage: 2.27%
+Conklin (Town): Total: 14, Poor: 1, Percentage: 7.14%
+Deposit (Village): Total: 4, Poor: 0, Percentage: 0.00%
+Dickinson (Town): Total: 9, Poor: 1, Percentage: 11.11%
+Endicott (Village): Total: 3, Poor: 0, Percentage: 0.00%
+Fenton (Town): Total: 17, Poor: 2, Percentage: 11.76%
+Johnson City (Village): Total: 19, Poor: 0, Percentage: 0.00%
+Kirkwood (Town): Total: 51, Poor: 1, Percentage: 1.96%
+Lisle (Town): Total: 14, Poor: 1, Percentage: 7.14%
+Lisle (Village): Total: 2, Poor: 0, Percentage: 0.00%
+Maine (Town): Total: 17, Poor: 1, Percentage: 5.88%
+Nanticoke (Town): Total: 7, Poor: 0, Percentage: 0.00%
+Port Dickinson (Village): Total: 4, Poor: 0, Percentage: 0.00%
+Sanford (Town): Total: 25, Poor: 2, Percentage: 8.00%
+Triangle (Town): Total: 10, Poor: 1, Percentage: 10.00%
+Union (Town): Total: 34, Poor: 0, Percentage: 0.00%
+Vestal (Town): Total: 49, Poor: 3, Percentage: 6.12%
+Whitney Point (Village): Total: 9, Poor: 0, Percentage: 0.00%
+Windsor (Town): Total: 33, Poor: 1, Percentage: 3.03%
+Windsor (Village): Total: 7, Poor: 0, Percentage: 0.00%
+Allegany (Town): Total: 27, Poor: 0, Percentage: 0.00%
+Allegany (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Ashford (Town): Total: 19, Poor: 1, Percentage: 5.26%
+Carrollton (Town): Total: 16, Poor: 0, Percentage: 0.00%
+Cattaraugus (Village): Total: 1, Poor: 1, Percentage: 100.00%
+Coldspring (Town): Total: 25, Poor: 5, Percentage: 20.00%
+Conewango (Town): Total: 19, Poor: 1, Percentage: 5.26%
+Dayton (Town): Total: 6, Poor: 0, Percentage: 0.00%
+Delevan (Village): Total: 3, Poor: 0, Percentage: 0.00%
+East Otto (Town): Total: 13, Poor: 1, Percentage: 7.69%
+Ellicottville (Town): Total: 17, Poor: 2, Percentage: 11.76%
+Ellicottville (Village): Total: 4, Poor: 0, Percentage: 0.00%
+Farmersville (Town): Total: 10, Poor: 1, Percentage: 10.00%
+Franklinville (Town): Total: 17, Poor: 0, Percentage: 0.00%
+Franklinville (Village): Total: 3, Poor: 1, Percentage: 33.33%
+Freedom (Town): Total: 21, Poor: 2, Percentage: 9.52%
+Gowanda (Village): Total: 8, Poor: 0, Percentage: 0.00%
+Great Valley (Town): Total: 13, Poor: 0, Percentage: 0.00%
+Hinsdale (Town): Total: 29, Poor: 2, Percentage: 6.90%
+Humphrey (Town): Total: 13, Poor: 1, Percentage: 7.69%
+Ischua (Town): Total: 13, Poor: 1, Percentage: 7.69%
+Leon (Town): Total: 22, Poor: 2, Percentage: 9.09%
+Little Valley (Town): Total: 10, Poor: 0, Percentage: 0.00%
+Little Valley (Village): Total: 7, Poor: 0, Percentage: 0.00%
+Lyndon (Town): Total: 4, Poor: 0, Percentage: 0.00%
+Machias (Town): Total: 8, Poor: 0, Percentage: 0.00%
+Mansfield (Town): Total: 12, Poor: 3, Percentage: 25.00%
+Napoli (Town): Total: 6, Poor: 0, Percentage: 0.00%
+New Albion (Town): Total: 13, Poor: 0, Percentage: 0.00%
+Olean (City): Total: 15, Poor: 0, Percentage: 0.00%
+Olean (Town): Total: 11, Poor: 0, Percentage: 0.00%
+Otto (Town): Total: 8, Poor: 1, Percentage: 12.50%
+Perrysburg (Town): Total: 2, Poor: 0, Percentage: 0.00%
+Persia (Town): Total: 3, Poor: 1, Percentage: 33.33%
+Portville (Town): Total: 11, Poor: 0, Percentage: 0.00%
+Portville (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Randolph (Town): Total: 20, Poor: 1, Percentage: 5.00%
+Red House (Town): Total: 20, Poor: 1, Percentage: 5.00%
+Salamanca (City): Total: 10, Poor: 1, Percentage: 10.00%
+Salamanca (Town): Total: 4, Poor: 0, Percentage: 0.00%
+South Dayton (Village): Total: 1, Poor: 0, Percentage: 0.00%
+South Valley (Town): Total: 6, Poor: 1, Percentage: 16.67%
+Yorkshire (Town): Total: 10, Poor: 0, Percentage: 0.00%
+Auburn (City): Total: 16, Poor: 0, Percentage: 0.00%
+Aurelius (Town): Total: 6, Poor: 0, Percentage: 0.00%
+Aurora (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Brutus (Town): Total: 18, Poor: 4, Percentage: 22.22%
+Cato (Town): Total: 3, Poor: 0, Percentage: 0.00%
+Conquest (Town): Total: 1, Poor: 0, Percentage: 0.00%
+Fleming (Town): Total: 3, Poor: 1, Percentage: 33.33%
+Genoa (Town): Total: 9, Poor: 2, Percentage: 22.22%
+Ledyard (Town): Total: 1, Poor: 0, Percentage: 0.00%
+Locke (Town): Total: 12, Poor: 2, Percentage: 16.67%
+Mentz (Town): Total: 9, Poor: 1, Percentage: 11.11%
+Montezuma (Town): Total: 7, Poor: 4, Percentage: 57.14%
+Moravia (Town): Total: 3, Poor: 1, Percentage: 33.33%
+Moravia (Village): Total: 6, Poor: 0, Percentage: 0.00%
+Niles (Town): Total: 2, Poor: 0, Percentage: 0.00%
+Owasco (Town): Total: 5, Poor: 1, Percentage: 20.00%
+Port Byron (Village): Total: 3, Poor: 0, Percentage: 0.00%
+Scipio (Town): Total: 1, Poor: 0, Percentage: 0.00%
+Sempronius (Town): Total: 1, Poor: 0, Percentage: 0.00%
+Sennett (Town): Total: 1, Poor: 0, Percentage: 0.00%
+Springport (Town): Total: 5, Poor: 1, Percentage: 20.00%
+Sterling (Town): Total: 12, Poor: 4, Percentage: 33.33%
+Summerhill (Town): Total: 6, Poor: 0, Percentage: 0.00%
+Throop (Town): Total: 8, Poor: 2, Percentage: 25.00%
+Venice (Town): Total: 4, Poor: 3, Percentage: 75.00%
+Victory (Town): Total: 2, Poor: 0, Percentage: 0.00%
+Weedsport (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Arkwright (Town): Total: 6, Poor: 0, Percentage: 0.00%
+Brocton (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Busti (Town): Total: 22, Poor: 2, Percentage: 9.09%
+Carroll (Town): Total: 17, Poor: 2, Percentage: 11.76%
+Cassadaga (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Celoron (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Charlotte (Town): Total: 13, Poor: 0, Percentage: 0.00%
+Chautauqua (Town): Total: 22, Poor: 2, Percentage: 9.09%
+Cherry Creek (Town): Total: 8, Poor: 0, Percentage: 0.00%
+Cherry Creek (Village): Total: 4, Poor: 0, Percentage: 0.00%
+Clymer (Town): Total: 15, Poor: 1, Percentage: 6.67%
+Dunkirk (City): Total: 4, Poor: 0, Percentage: 0.00%
+Dunkirk (Town): Total: 8, Poor: 0, Percentage: 0.00%
+Ellery (Town): Total: 34, Poor: 2, Percentage: 5.88%
+Ellicott (Town): Total: 29, Poor: 2, Percentage: 6.90%
+Ellington (Town): Total: 23, Poor: 3, Percentage: 13.04%
+Falconer (Village): Total: 8, Poor: 2, Percentage: 25.00%
+Forestville (Village): Total: 3, Poor: 0, Percentage: 0.00%
+Fredonia (Village): Total: 5, Poor: 0, Percentage: 0.00%
+French Creek (Town): Total: 11, Poor: 2, Percentage: 18.18%
+Gerry (Town): Total: 7, Poor: 0, Percentage: 0.00%
+Hanover (Town): Total: 30, Poor: 0, Percentage: 0.00%
+Harmony (Town): Total: 13, Poor: 2, Percentage: 15.38%
+Jamestown (City): Total: 16, Poor: 2, Percentage: 12.50%
+Kiantone (Town): Total: 10, Poor: 1, Percentage: 10.00%
+Lakewood (Village): Total: 2, Poor: 1, Percentage: 50.00%
+Mayville (Village): Total: 2, Poor: 0, Percentage: 0.00%
+Mina (Town): Total: 14, Poor: 0, Percentage: 0.00%
+North Harmony (Town): Total: 28, Poor: 2, Percentage: 7.14%
+Panama (Village): Total: 3, Poor: 0, Percentage: 0.00%
+Poland (Town): Total: 31, Poor: 2, Percentage: 6.45%
+Pomfret (Town): Total: 24, Poor: 4, Percentage: 16.67%
+Portland (Town): Total: 22, Poor: 0, Percentage: 0.00%
+Ripley (Town): Total: 10, Poor: 1, Percentage: 10.00%
+Sheridan (Town): Total: 14, Poor: 1, Percentage: 7.14%
+Sherman (Town): Total: 20, Poor: 1, Percentage: 5.00%
+Sherman (Village): Total: 3, Poor: 1, Percentage: 33.33%
+Silver Creek (Village): Total: 4, Poor: 0, Percentage: 0.00%
+Sinclairville (Village): Total: 6, Poor: 0, Percentage: 0.00%
+Stockton (Town): Total: 24, Poor: 1, Percentage: 4.17%
+Villenova (Town): Total: 13, Poor: 3, Percentage: 23.08%
+Westfield (Town): Total: 17, Poor: 1, Percentage: 5.88%
+Westfield (Village): Total: 6, Poor: 0, Percentage: 0.00%
+Ashland (Town): Total: 11, Poor: 1, Percentage: 9.09%
+Baldwin (Town): Total: 7, Poor: 1, Percentage: 14.29%
+Big Flats (Town): Total: 37, Poor: 5, Percentage: 13.51%
+Catlin (Town): Total: 17, Poor: 0, Percentage: 0.00%
+Chemung (Town): Total: 39, Poor: 5, Percentage: 12.82%
+Elmira (City): Total: 14, Poor: 0, Percentage: 0.00%
+Elmira (Town): Total: 7, Poor: 0, Percentage: 0.00%
+Erin (Town): Total: 11, Poor: 0, Percentage: 0.00%
+Horseheads (Town): Total: 30, Poor: 3, Percentage: 10.00%
+Horseheads (Village): Total: 13, Poor: 0, Percentage: 0.00%
+Millport (Village): Total: 2, Poor: 0, Percentage: 0.00%
+Southport (Town): Total: 24, Poor: 4, Percentage: 16.67%
+Van Etten (Town): Total: 17, Poor: 2, Percentage: 11.76%
+Van Etten (Village): Total: 4, Poor: 0, Percentage: 0.00%
+Veteran (Town): Total: 22, Poor: 5, Percentage: 22.73%
+Wellsburg (Village): Total: 2, Poor: 1, Percentage: 50.00%
+Afton (Town): Total: 16, Poor: 2, Percentage: 12.50%
+Afton (Village): Total: 3, Poor: 0, Percentage: 0.00%
+Bainbridge (Town): Total: 17, Poor: 0, Percentage: 0.00%
+Bainbridge (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Columbus (Town): Total: 5, Poor: 1, Percentage: 20.00%
+Coventry (Town): Total: 7, Poor: 0, Percentage: 0.00%
+Earlville (Village): Total: 1, Poor: 0, Percentage: 0.00%
+German (Town): Total: 4, Poor: 0, Percentage: 0.00%
+Greene (Town): Total: 24, Poor: 1, Percentage: 4.17%
+Greene (Village): Total: 5, Poor: 1, Percentage: 20.00%
+Guilford (Town): Total: 10, Poor: 0, Percentage: 0.00%
+Lincklaen (Town): Total: 3, Poor: 0, Percentage: 0.00%
+Mcdonough (Town): Total: 8, Poor: 1, Percentage: 12.50%
+New Berlin (Town): Total: 9, Poor: 1, Percentage: 11.11%
+New Berlin (Village): Total: 2, Poor: 0, Percentage: 0.00%
+North Norwich (Town): Total: 9, Poor: 1, Percentage: 11.11%
+Norwich (City): Total: 1, Poor: 0, Percentage: 0.00%
+Norwich (Town): Total: 21, Poor: 0, Percentage: 0.00%
+Otselic (Town): Total: 8, Poor: 0, Percentage: 0.00%
+Oxford (Town): Total: 14, Poor: 1, Percentage: 7.14%
+Oxford (Village): Total: 2, Poor: 0, Percentage: 0.00%
+Pharsalia (Town): Total: 3, Poor: 0, Percentage: 0.00%
+Pitcher (Town): Total: 12, Poor: 1, Percentage: 8.33%
+Plymouth (Town): Total: 10, Poor: 0, Percentage: 0.00%
+Preston (Town): Total: 7, Poor: 1, Percentage: 14.29%
+Sherburne (Town): Total: 19, Poor: 3, Percentage: 15.79%
+Sherburne (Village): Total: 6, Poor: 0, Percentage: 0.00%
+Smithville (Town): Total: 14, Poor: 3, Percentage: 21.43%
+Smyrna (Town): Total: 11, Poor: 1, Percentage: 9.09%
+Smyrna (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Altona (Town): Total: 10, Poor: 3, Percentage: 30.00%
+Au Sable (Town): Total: 10, Poor: 0, Percentage: 0.00%
+Beekmantown (Town): Total: 5, Poor: 0, Percentage: 0.00%
+Black Brook (Town): Total: 6, Poor: 0, Percentage: 0.00%
+Champlain (Town): Total: 18, Poor: 4, Percentage: 22.22%
+Champlain (Village): Total: 4, Poor: 1, Percentage: 25.00%
+Chazy (Town): Total: 20, Poor: 3, Percentage: 15.00%
+Clinton (Town): Total: 22, Poor: 3, Percentage: 13.64%
+Dannemora (Town): Total: 5, Poor: 0, Percentage: 0.00%
+Ellenburg (Town): Total: 12, Poor: 1, Percentage: 8.33%
+Keeseville (Village): Total: 3, Poor: 1, Percentage: 33.33%
+Mooers (Town): Total: 24, Poor: 5, Percentage: 20.83%
+Peru (Town): Total: 19, Poor: 1, Percentage: 5.26%
+Plattsburgh (City): Total: 7, Poor: 0, Percentage: 0.00%
+Plattsburgh (Town): Total: 24, Poor: 0, Percentage: 0.00%
+Saranac (Town): Total: 18, Poor: 2, Percentage: 11.11%
+Schuyler Falls (Town): Total: 12, Poor: 1, Percentage: 8.33%
+Ancram (Town): Total: 6, Poor: 1, Percentage: 16.67%
+Austerlitz (Town): Total: 16, Poor: 1, Percentage: 6.25%
+Canaan (Town): Total: 19, Poor: 0, Percentage: 0.00%
+Chatham (Town): Total: 44, Poor: 10, Percentage: 22.73%
+Chatham (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Claverack (Town): Total: 23, Poor: 2, Percentage: 8.70%
+Clermont (Town): Total: 3, Poor: 1, Percentage: 33.33%
+Copake (Town): Total: 20, Poor: 5, Percentage: 25.00%
+Gallatin (Town): Total: 12, Poor: 3, Percentage: 25.00%
+Germantown (Town): Total: 2, Poor: 0, Percentage: 0.00%
+Ghent (Town): Total: 13, Poor: 2, Percentage: 15.38%
+Greenport (Town): Total: 6, Poor: 0, Percentage: 0.00%
+Hillsdale (Town): Total: 17, Poor: 6, Percentage: 35.29%
+Hudson (City): Total: 2, Poor: 1, Percentage: 50.00%
+Kinderhook (Town): Total: 5, Poor: 1, Percentage: 20.00%
+Kinderhook (Village): Total: 2, Poor: 1, Percentage: 50.00%
+Livingston (Town): Total: 10, Poor: 3, Percentage: 30.00%
+New Lebanon (Town): Total: 18, Poor: 2, Percentage: 11.11%
+Philmont (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Stockport (Town): Total: 6, Poor: 2, Percentage: 33.33%
+Stuyvesant (Town): Total: 2, Poor: 1, Percentage: 50.00%
+Taghkanic (Town): Total: 11, Poor: 4, Percentage: 36.36%
+Valatie (Village): Total: 2, Poor: 0, Percentage: 0.00%
+Cincinnatus (Town): Total: 9, Poor: 1, Percentage: 11.11%
+Cortland (City): Total: 13, Poor: 2, Percentage: 15.38%
+Cortlandville (Town): Total: 26, Poor: 6, Percentage: 23.08%
+Cuyler (Town): Total: 9, Poor: 2, Percentage: 22.22%
+Freetown (Town): Total: 2, Poor: 1, Percentage: 50.00%
+Harford (Town): Total: 11, Poor: 4, Percentage: 36.36%
+Homer (Town): Total: 19, Poor: 1, Percentage: 5.26%
+Homer (Village): Total: 11, Poor: 2, Percentage: 18.18%
+Lapeer (Town): Total: 5, Poor: 1, Percentage: 20.00%
+Marathon (Town): Total: 9, Poor: 3, Percentage: 33.33%
+Marathon (Village): Total: 6, Poor: 1, Percentage: 16.67%
+Mcgraw (Village): Total: 2, Poor: 1, Percentage: 50.00%
+Preble (Town): Total: 12, Poor: 0, Percentage: 0.00%
+Scott (Town): Total: 5, Poor: 0, Percentage: 0.00%
+Solon (Town): Total: 6, Poor: 0, Percentage: 0.00%
+Taylor (Town): Total: 5, Poor: 0, Percentage: 0.00%
+Truxton (Town): Total: 16, Poor: 3, Percentage: 18.75%
+Virgil (Town): Total: 17, Poor: 2, Percentage: 11.76%
+Willet (Town): Total: 9, Poor: 1, Percentage: 11.11%
+Andes (Town): Total: 17, Poor: 0, Percentage: 0.00%
+Bovina (Town): Total: 12, Poor: 0, Percentage: 0.00%
+Colchester (Town): Total: 58, Poor: 2, Percentage: 3.45%
+Davenport (Town): Total: 17, Poor: 0, Percentage: 0.00%
+Delhi (Town): Total: 20, Poor: 3, Percentage: 15.00%
+Delhi (Village): Total: 3, Poor: 0, Percentage: 0.00%
+Deposit (Town): Total: 14, Poor: 3, Percentage: 21.43%
+Fleischmanns (Village): Total: 5, Poor: 1, Percentage: 20.00%
+Franklin (Town): Total: 32, Poor: 6, Percentage: 18.75%
+Franklin (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Hamden (Town): Total: 8, Poor: 0, Percentage: 0.00%
+Hancock (Town): Total: 75, Poor: 5, Percentage: 6.67%
+Hancock (Village): Total: 6, Poor: 0, Percentage: 0.00%
+Harpersfield (Town): Total: 5, Poor: 1, Percentage: 20.00%
+Hobart (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Kortright (Town): Total: 18, Poor: 0, Percentage: 0.00%
+Margaretville (Village): Total: 4, Poor: 1, Percentage: 25.00%
+Masonville (Town): Total: 6, Poor: 0, Percentage: 0.00%
+Meredith (Town): Total: 13, Poor: 0, Percentage: 0.00%
+Middletown (Town): Total: 40, Poor: 3, Percentage: 7.50%
+Roxbury (Town): Total: 18, Poor: 6, Percentage: 33.33%
+Sidney (Town): Total: 30, Poor: 1, Percentage: 3.33%
+Sidney (Village): Total: 3, Poor: 1, Percentage: 33.33%
+Stamford (Town): Total: 15, Poor: 1, Percentage: 6.67%
+Tompkins (Town): Total: 18, Poor: 0, Percentage: 0.00%
+Walton (Town): Total: 17, Poor: 3, Percentage: 17.65%
+Walton (Village): Total: 8, Poor: 1, Percentage: 12.50%
+Amenia (Town): Total: 14, Poor: 1, Percentage: 7.14%
+Beacon (City): Total: 6, Poor: 0, Percentage: 0.00%
+Beekman (Town): Total: 11, Poor: 2, Percentage: 18.18%
+Dover (Town): Total: 16, Poor: 2, Percentage: 12.50%
+East Fishkill (Town): Total: 37, Poor: 4, Percentage: 10.81%
+Fishkill (Town): Total: 19, Poor: 2, Percentage: 10.53%
+Hyde Park (Town): Total: 17, Poor: 3, Percentage: 17.65%
+La Grange (Town): Total: 24, Poor: 1, Percentage: 4.17%
+Milan (Town): Total: 12, Poor: 2, Percentage: 16.67%
+Millbrook (Village): Total: 2, Poor: 0, Percentage: 0.00%
+Millerton (Village): Total: 1, Poor: 0, Percentage: 0.00%
+North East (Town): Total: 10, Poor: 1, Percentage: 10.00%
+Pawling (Town): Total: 9, Poor: 1, Percentage: 11.11%
+Pawling (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Pine Plains (Town): Total: 5, Poor: 2, Percentage: 40.00%
+Pleasant Valley (Town): Total: 11, Poor: 2, Percentage: 18.18%
+Poughkeepsie (City): Total: 32, Poor: 3, Percentage: 9.38%
+Poughkeepsie (Town): Total: 13, Poor: 1, Percentage: 7.69%
+Red Hook (Town): Total: 18, Poor: 4, Percentage: 22.22%
+Rhinebeck (Town): Total: 10, Poor: 2, Percentage: 20.00%
+Rhinebeck (Village): Total: 1, Poor: 1, Percentage: 100.00%
+Stanford (Town): Total: 13, Poor: 5, Percentage: 38.46%
+Tivoli (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Union Vale (Town): Total: 8, Poor: 2, Percentage: 25.00%
+Wappingers Falls (Village): Total: 2, Poor: 0, Percentage: 0.00%
+Wappinger (Town): Total: 13, Poor: 0, Percentage: 0.00%
+Washington (Town): Total: 8, Poor: 1, Percentage: 12.50%
+Akron (Village): Total: 7, Poor: 2, Percentage: 28.57%
+Alden (Town): Total: 19, Poor: 3, Percentage: 15.79%
+Alden (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Amherst (Town): Total: 90, Poor: 10, Percentage: 11.11%
+Angola (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Aurora (Town): Total: 24, Poor: 1, Percentage: 4.17%
+Blasdell (Village): Total: 4, Poor: 0, Percentage: 0.00%
+Boston (Town): Total: 18, Poor: 2, Percentage: 11.11%
+Brant (Town): Total: 13, Poor: 1, Percentage: 7.69%
+Buffalo (City): Total: 142, Poor: 14, Percentage: 9.86%
+Cheektowaga (Town): Total: 56, Poor: 4, Percentage: 7.14%
+Clarence (Town): Total: 30, Poor: 0, Percentage: 0.00%
+Colden (Town): Total: 9, Poor: 1, Percentage: 11.11%
+Collins (Town): Total: 15, Poor: 2, Percentage: 13.33%
+Concord (Town): Total: 27, Poor: 5, Percentage: 18.52%
+Depew (Village): Total: 9, Poor: 0, Percentage: 0.00%
+East Aurora (Village): Total: 6, Poor: 0, Percentage: 0.00%
+Eden (Town): Total: 14, Poor: 2, Percentage: 14.29%
+Elma (Town): Total: 26, Poor: 2, Percentage: 7.69%
+Evans (Town): Total: 33, Poor: 4, Percentage: 12.12%
+Grand Island (Town): Total: 20, Poor: 2, Percentage: 10.00%
+Hamburg (Town): Total: 36, Poor: 8, Percentage: 22.22%
+Hamburg (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Holland (Town): Total: 11, Poor: 1, Percentage: 9.09%
+Lackawanna (City): Total: 17, Poor: 1, Percentage: 5.88%
+Lancaster (Town): Total: 32, Poor: 4, Percentage: 12.50%
+Lancaster (Village): Total: 6, Poor: 0, Percentage: 0.00%
+Marilla (Town): Total: 11, Poor: 3, Percentage: 27.27%
+Newstead (Town): Total: 21, Poor: 0, Percentage: 0.00%
+North Collins (Town): Total: 10, Poor: 1, Percentage: 10.00%
+North Collins (Village): Total: 1, Poor: 1, Percentage: 100.00%
+Orchard Park (Town): Total: 55, Poor: 2, Percentage: 3.64%
+Orchard Park (Village): Total: 3, Poor: 0, Percentage: 0.00%
+Sardinia (Town): Total: 13, Poor: 0, Percentage: 0.00%
+Springville (Village): Total: 3, Poor: 0, Percentage: 0.00%
+Tonawanda (City): Total: 12, Poor: 1, Percentage: 8.33%
+Tonawanda (Town): Total: 31, Poor: 0, Percentage: 0.00%
+Wales (Town): Total: 13, Poor: 0, Percentage: 0.00%
+West Seneca (Town): Total: 46, Poor: 5, Percentage: 10.87%
+Williamsville (Village): Total: 3, Poor: 0, Percentage: 0.00%
+Chesterfield (Town): Total: 17, Poor: 3, Percentage: 17.65%
+Crown Point (Town): Total: 11, Poor: 1, Percentage: 9.09%
+Elizabethtown (Town): Total: 21, Poor: 5, Percentage: 23.81%
+Essex (Town): Total: 4, Poor: 0, Percentage: 0.00%
+Jay (Town): Total: 7, Poor: 0, Percentage: 0.00%
+Keene (Town): Total: 37, Poor: 2, Percentage: 5.41%
+Lake Placid (Village): Total: 2, Poor: 0, Percentage: 0.00%
+Lewis (Town): Total: 31, Poor: 2, Percentage: 6.45%
+Minerva (Town): Total: 13, Poor: 1, Percentage: 7.69%
+Moriah (Town): Total: 8, Poor: 1, Percentage: 12.50%
+Newcomb (Town): Total: 9, Poor: 1, Percentage: 11.11%
+North Elba (Town): Total: 7, Poor: 0, Percentage: 0.00%
+North Hudson (Town): Total: 20, Poor: 1, Percentage: 5.00%
+Port Henry (Village): Total: 5, Poor: 1, Percentage: 20.00%
+Saranac Lake (Village): Total: 7, Poor: 2, Percentage: 28.57%
+Schroon (Town): Total: 21, Poor: 1, Percentage: 4.76%
+St. Armand (Town): Total: 6, Poor: 0, Percentage: 0.00%
+Ticonderoga (Town): Total: 9, Poor: 0, Percentage: 0.00%
+Westport (Town): Total: 9, Poor: 1, Percentage: 11.11%
+Willsboro (Town): Total: 6, Poor: 0, Percentage: 0.00%
+Wilmington (Town): Total: 6, Poor: 0, Percentage: 0.00%
+Bangor (Town): Total: 12, Poor: 1, Percentage: 8.33%
+Bellmont (Town): Total: 11, Poor: 2, Percentage: 18.18%
+Bombay (Town): Total: 8, Poor: 1, Percentage: 12.50%
+Brandon (Town): Total: 4, Poor: 0, Percentage: 0.00%
+Brighton (Town): Total: 59, Poor: 4, Percentage: 6.78%
+Brushton (Village): Total: 1, Poor: 1, Percentage: 100.00%
+Burke (Town): Total: 6, Poor: 2, Percentage: 33.33%
+Burke (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Chateaugay (Town): Total: 9, Poor: 1, Percentage: 11.11%
+Chateaugay (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Constable (Town): Total: 12, Poor: 1, Percentage: 8.33%
+Duane (Town): Total: 5, Poor: 0, Percentage: 0.00%
+Fort Covington (Town): Total: 17, Poor: 2, Percentage: 11.76%
+Harrietstown (Town): Total: 5, Poor: 0, Percentage: 0.00%
+Malone (Town): Total: 17, Poor: 3, Percentage: 17.65%
+Malone (Village): Total: 5, Poor: 0, Percentage: 0.00%
+Moira (Town): Total: 21, Poor: 6, Percentage: 28.57%
+Santa Clara (Town): Total: 7, Poor: 0, Percentage: 0.00%
+Tupper Lake (Town): Total: 2, Poor: 1, Percentage: 50.00%
+Tupper Lake (Village): Total: 3, Poor: 1, Percentage: 33.33%
+Waverly (Town): Total: 4, Poor: 2, Percentage: 50.00%
+Westville (Town): Total: 8, Poor: 0, Percentage: 0.00%
+Bleecker (Town): Total: 5, Poor: 1, Percentage: 20.00%
+Broadalbin (Town): Total: 10, Poor: 1, Percentage: 10.00%
+Broadalbin (Village): Total: 4, Poor: 0, Percentage: 0.00%
+Caroga (Town): Total: 7, Poor: 1, Percentage: 14.29%
+Dolgeville (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Ephratah (Town): Total: 7, Poor: 2, Percentage: 28.57%
+Gloversville (City): Total: 9, Poor: 0, Percentage: 0.00%
+Johnstown (City): Total: 10, Poor: 2, Percentage: 20.00%
+Johnstown (Town): Total: 10, Poor: 3, Percentage: 30.00%
+Mayfield (Town): Total: 6, Poor: 0, Percentage: 0.00%
+Northampton (Town): Total: 1, Poor: 0, Percentage: 0.00%
+Northville (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Oppenheim (Town): Total: 9, Poor: 2, Percentage: 22.22%
+Perth (Town): Total: 5, Poor: 1, Percentage: 20.00%
+Stratford (Town): Total: 11, Poor: 2, Percentage: 18.18%
+Alabama (Town): Total: 10, Poor: 5, Percentage: 50.00%
+Alexander (Town): Total: 19, Poor: 3, Percentage: 15.79%
+Alexander (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Batavia (City): Total: 4, Poor: 2, Percentage: 50.00%
+Batavia (Town): Total: 14, Poor: 1, Percentage: 7.14%
+Bergen (Town): Total: 9, Poor: 1, Percentage: 11.11%
+Bethany (Town): Total: 14, Poor: 3, Percentage: 21.43%
+Byron (Town): Total: 11, Poor: 1, Percentage: 9.09%
+Corfu (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Darien (Town): Total: 11, Poor: 2, Percentage: 18.18%
+Elba (Town): Total: 6, Poor: 1, Percentage: 16.67%
+Le Roy (Town): Total: 9, Poor: 1, Percentage: 11.11%
+Le Roy (Village): Total: 3, Poor: 0, Percentage: 0.00%
+Oakfield (Town): Total: 8, Poor: 0, Percentage: 0.00%
+Pavilion (Town): Total: 5, Poor: 0, Percentage: 0.00%
+Pembroke (Town): Total: 21, Poor: 4, Percentage: 19.05%
+Stafford (Town): Total: 17, Poor: 3, Percentage: 17.65%
+Athens (Town): Total: 3, Poor: 0, Percentage: 0.00%
+Athens (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Cairo (Town): Total: 22, Poor: 3, Percentage: 13.64%
+Catskill (Town): Total: 33, Poor: 5, Percentage: 15.15%
+Catskill (Village): Total: 6, Poor: 1, Percentage: 16.67%
+Coxsackie (Town): Total: 19, Poor: 1, Percentage: 5.26%
+Coxsackie (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Durham (Town): Total: 24, Poor: 4, Percentage: 16.67%
+Greenville (Town): Total: 17, Poor: 3, Percentage: 17.65%
+Halcott (Town): Total: 3, Poor: 0, Percentage: 0.00%
+Hunter (Town): Total: 29, Poor: 2, Percentage: 6.90%
+Hunter (Village): Total: 3, Poor: 1, Percentage: 33.33%
+Jewett (Town): Total: 12, Poor: 0, Percentage: 0.00%
+Lexington (Town): Total: 22, Poor: 4, Percentage: 18.18%
+New Baltimore (Town): Total: 12, Poor: 0, Percentage: 0.00%
+Prattsville (Town): Total: 4, Poor: 0, Percentage: 0.00%
+Tannersville (Village): Total: 4, Poor: 0, Percentage: 0.00%
+Windham (Town): Total: 18, Poor: 2, Percentage: 11.11%
+Arietta (Town): Total: 13, Poor: 7, Percentage: 53.85%
+Benson (Town): Total: 5, Poor: 1, Percentage: 20.00%
+Hope (Town): Total: 3, Poor: 0, Percentage: 0.00%
+Indian Lake (Town): Total: 16, Poor: 0, Percentage: 0.00%
+Inlet (Town): Total: 6, Poor: 1, Percentage: 16.67%
+Lake Pleasant (Town): Total: 6, Poor: 1, Percentage: 16.67%
+Long Lake (Town): Total: 12, Poor: 1, Percentage: 8.33%
+Morehouse (Town): Total: 7, Poor: 3, Percentage: 42.86%
+Speculator (Village): Total: 3, Poor: 0, Percentage: 0.00%
+Wells (Town): Total: 14, Poor: 1, Percentage: 7.14%
+Cold Brook (Village): Total: 2, Poor: 0, Percentage: 0.00%
+Columbia (Town): Total: 2, Poor: 0, Percentage: 0.00%
+Danube (Town): Total: 17, Poor: 3, Percentage: 17.65%
+Fairfield (Town): Total: 3, Poor: 0, Percentage: 0.00%
+Frankfort (Town): Total: 29, Poor: 1, Percentage: 3.45%
+Frankfort (Village): Total: 2, Poor: 1, Percentage: 50.00%
+German Flatts (Town): Total: 15, Poor: 0, Percentage: 0.00%
+Herkimer (Town): Total: 10, Poor: 0, Percentage: 0.00%
+Herkimer (Village): Total: 8, Poor: 2, Percentage: 25.00%
+Ilion (Village): Total: 9, Poor: 0, Percentage: 0.00%
+Litchfield (Town): Total: 4, Poor: 0, Percentage: 0.00%
+Little Falls (City): Total: 5, Poor: 1, Percentage: 20.00%
+Little Falls (Town): Total: 4, Poor: 0, Percentage: 0.00%
+Manheim (Town): Total: 10, Poor: 0, Percentage: 0.00%
+Middleville (Village): Total: 4, Poor: 0, Percentage: 0.00%
+Mohawk (Village): Total: 3, Poor: 0, Percentage: 0.00%
+Newport (Town): Total: 8, Poor: 0, Percentage: 0.00%
+Newport (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Norway (Town): Total: 5, Poor: 1, Percentage: 20.00%
+Ohio (Town): Total: 20, Poor: 1, Percentage: 5.00%
+Poland (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Russia (Town): Total: 10, Poor: 0, Percentage: 0.00%
+Salisbury (Town): Total: 14, Poor: 2, Percentage: 14.29%
+Schuyler (Town): Total: 25, Poor: 5, Percentage: 20.00%
+Stark (Town): Total: 9, Poor: 2, Percentage: 22.22%
+Webb (Town): Total: 10, Poor: 1, Percentage: 10.00%
+West Winfield (Village): Total: 1, Poor: 1, Percentage: 100.00%
+Winfield (Town): Total: 7, Poor: 0, Percentage: 0.00%
+Adams (Town): Total: 11, Poor: 0, Percentage: 0.00%
+Adams (Village): Total: 9, Poor: 3, Percentage: 33.33%
+Alexandria Bay (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Alexandria (Town): Total: 17, Poor: 2, Percentage: 11.76%
+Antwerp (Town): Total: 4, Poor: 1, Percentage: 25.00%
+Antwerp (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Black River (Village): Total: 3, Poor: 0, Percentage: 0.00%
+Brownville (Town): Total: 7, Poor: 0, Percentage: 0.00%
+Brownville (Village): Total: 2, Poor: 0, Percentage: 0.00%
+Cape Vincent (Town): Total: 5, Poor: 0, Percentage: 0.00%
+Carthage (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Champion (Town): Total: 3, Poor: 1, Percentage: 33.33%
+Chaumont (Village): Total: 2, Poor: 2, Percentage: 100.00%
+Clayton (Town): Total: 7, Poor: 1, Percentage: 14.29%
+Clayton (Village): Total: 2, Poor: 1, Percentage: 50.00%
+Deferiet (Village): Total: 3, Poor: 1, Percentage: 33.33%
+Dexter (Village): Total: 2, Poor: 0, Percentage: 0.00%
+Ellisburg (Town): Total: 43, Poor: 7, Percentage: 16.28%
+Ellisburg (Village): Total: 3, Poor: 0, Percentage: 0.00%
+Evans Mills (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Henderson (Town): Total: 7, Poor: 2, Percentage: 28.57%
+Hounsfield (Town): Total: 13, Poor: 2, Percentage: 15.38%
+Le Ray (Town): Total: 11, Poor: 0, Percentage: 0.00%
+Lorraine (Town): Total: 9, Poor: 0, Percentage: 0.00%
+Lyme (Town): Total: 4, Poor: 1, Percentage: 25.00%
+Mannsville (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Orleans (Town): Total: 19, Poor: 1, Percentage: 5.26%
+Pamelia (Town): Total: 19, Poor: 1, Percentage: 5.26%
+Philadelphia (Town): Total: 7, Poor: 2, Percentage: 28.57%
+Philadelphia (Village): Total: 4, Poor: 1, Percentage: 25.00%
+Rodman (Town): Total: 19, Poor: 5, Percentage: 26.32%
+Rutland (Town): Total: 12, Poor: 2, Percentage: 16.67%
+Theresa (Town): Total: 6, Poor: 0, Percentage: 0.00%
+Theresa (Village): Total: 3, Poor: 0, Percentage: 0.00%
+Watertown (City): Total: 10, Poor: 3, Percentage: 30.00%
+Watertown (Town): Total: 15, Poor: 0, Percentage: 0.00%
+Wilna (Town): Total: 5, Poor: 0, Percentage: 0.00%
+Worth (Town): Total: 1, Poor: 0, Percentage: 0.00%
+Constableville (Village): Total: 2, Poor: 0, Percentage: 0.00%
+Copenhagen (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Croghan (Town): Total: 16, Poor: 3, Percentage: 18.75%
+Croghan (Village): Total: 3, Poor: 0, Percentage: 0.00%
+Denmark (Town): Total: 6, Poor: 3, Percentage: 50.00%
+Diana (Town): Total: 8, Poor: 3, Percentage: 37.50%
+Greig (Town): Total: 10, Poor: 2, Percentage: 20.00%
+Harrisburg (Town): Total: 7, Poor: 5, Percentage: 71.43%
+Harrisville (Village): Total: 4, Poor: 0, Percentage: 0.00%
+Leyden (Town): Total: 10, Poor: 2, Percentage: 20.00%
+Lowville (Town): Total: 14, Poor: 3, Percentage: 21.43%
+Lowville (Village): Total: 4, Poor: 0, Percentage: 0.00%
+Lyonsdale (Town): Total: 8, Poor: 1, Percentage: 12.50%
+Lyons Falls (Village): Total: 6, Poor: 0, Percentage: 0.00%
+Martinsburg (Town): Total: 15, Poor: 2, Percentage: 13.33%
+Montague (Town): Total: 7, Poor: 0, Percentage: 0.00%
+New Bremen (Town): Total: 6, Poor: 0, Percentage: 0.00%
+Osceola (Town): Total: 7, Poor: 1, Percentage: 14.29%
+Pinckney (Town): Total: 6, Poor: 3, Percentage: 50.00%
+Port Leyden (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Turin (Town): Total: 2, Poor: 1, Percentage: 50.00%
+Turin (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Watson (Town): Total: 2, Poor: 0, Percentage: 0.00%
+West Turin (Town): Total: 14, Poor: 3, Percentage: 21.43%
+Avon (Town): Total: 14, Poor: 0, Percentage: 0.00%
+Conesus (Town): Total: 3, Poor: 0, Percentage: 0.00%
+Dansville (Village): Total: 3, Poor: 0, Percentage: 0.00%
+Geneseo (Town): Total: 9, Poor: 0, Percentage: 0.00%
+Groveland (Town): Total: 20, Poor: 1, Percentage: 5.00%
+Leicester (Town): Total: 11, Poor: 2, Percentage: 18.18%
+Lima (Town): Total: 3, Poor: 0, Percentage: 0.00%
+Lima (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Livonia (Town): Total: 8, Poor: 1, Percentage: 12.50%
+Mount Morris (Town): Total: 6, Poor: 0, Percentage: 0.00%
+Mount Morris (Village): Total: 1, Poor: 0, Percentage: 0.00%
+North Dansville (Town): Total: 16, Poor: 1, Percentage: 6.25%
+Nunda (Town): Total: 5, Poor: 0, Percentage: 0.00%
+Nunda (Village): Total: 4, Poor: 0, Percentage: 0.00%
+Ossian (Town): Total: 8, Poor: 0, Percentage: 0.00%
+Portage (Town): Total: 8, Poor: 0, Percentage: 0.00%
+Sparta (Town): Total: 4, Poor: 0, Percentage: 0.00%
+Springwater (Town): Total: 5, Poor: 0, Percentage: 0.00%
+West Bloomfield (Town): Total: 5, Poor: 0, Percentage: 0.00%
+West Sparta (Town): Total: 16, Poor: 1, Percentage: 6.25%
+York (Town): Total: 13, Poor: 1, Percentage: 7.69%
+Brookfield (Town): Total: 8, Poor: 0, Percentage: 0.00%
+Canastota (Village): Total: 12, Poor: 3, Percentage: 25.00%
+Cazenovia (Town): Total: 8, Poor: 1, Percentage: 12.50%
+Cazenovia (Village): Total: 5, Poor: 0, Percentage: 0.00%
+Chittenango (Village): Total: 4, Poor: 0, Percentage: 0.00%
+Deruyter (Town): Total: 13, Poor: 0, Percentage: 0.00%
+Deruyter (Village): Total: 3, Poor: 0, Percentage: 0.00%
+Eaton (Town): Total: 7, Poor: 1, Percentage: 14.29%
+Fenner (Town): Total: 2, Poor: 0, Percentage: 0.00%
+Georgetown (Town): Total: 6, Poor: 0, Percentage: 0.00%
+Hamilton (Town): Total: 11, Poor: 1, Percentage: 9.09%
+Lebanon (Town): Total: 14, Poor: 2, Percentage: 14.29%
+Lenox (Town): Total: 10, Poor: 3, Percentage: 30.00%
+Lincoln (Town): Total: 6, Poor: 0, Percentage: 0.00%
+Madison (Town): Total: 3, Poor: 0, Percentage: 0.00%
+Morrisville (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Munnsville (Village): Total: 2, Poor: 0, Percentage: 0.00%
+Nelson (Town): Total: 1, Poor: 1, Percentage: 100.00%
+Oneida (City): Total: 17, Poor: 5, Percentage: 29.41%
+Sherrill (City): Total: 6, Poor: 0, Percentage: 0.00%
+Smithfield (Town): Total: 6, Poor: 0, Percentage: 0.00%
+Stockbridge (Town): Total: 4, Poor: 0, Percentage: 0.00%
+Sullivan (Town): Total: 31, Poor: 5, Percentage: 16.13%
+Wampsville (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Brockport (Village): Total: 3, Poor: 0, Percentage: 0.00%
+Chili (Town): Total: 30, Poor: 7, Percentage: 23.33%
+Churchville (Village): Total: 4, Poor: 0, Percentage: 0.00%
+Clarkson (Town): Total: 15, Poor: 0, Percentage: 0.00%
+East Rochester (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Fairport (Village): Total: 8, Poor: 1, Percentage: 12.50%
+Gates (Town): Total: 53, Poor: 4, Percentage: 7.55%
+Greece (Town): Total: 73, Poor: 7, Percentage: 9.59%
+Hamlin (Town): Total: 24, Poor: 2, Percentage: 8.33%
+Henrietta (Town): Total: 32, Poor: 3, Percentage: 9.38%
+Hilton (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Honeoye Falls (Village): Total: 4, Poor: 0, Percentage: 0.00%
+Irondequoit (Town): Total: 21, Poor: 4, Percentage: 19.05%
+Mendon (Town): Total: 14, Poor: 0, Percentage: 0.00%
+Ogden (Town): Total: 14, Poor: 2, Percentage: 14.29%
+Parma (Town): Total: 21, Poor: 1, Percentage: 4.76%
+Penfield (Town): Total: 13, Poor: 0, Percentage: 0.00%
+Perinton (Town): Total: 24, Poor: 2, Percentage: 8.33%
+Pittsford (Town): Total: 17, Poor: 0, Percentage: 0.00%
+Pittsford (Village): Total: 3, Poor: 2, Percentage: 66.67%
+Riga (Town): Total: 11, Poor: 2, Percentage: 18.18%
+Rochester (City): Total: 97, Poor: 10, Percentage: 10.31%
+Rush (Town): Total: 16, Poor: 1, Percentage: 6.25%
+Scottsville (Village): Total: 2, Poor: 0, Percentage: 0.00%
+Spencerport (Village): Total: 2, Poor: 2, Percentage: 100.00%
+Sweden (Town): Total: 3, Poor: 0, Percentage: 0.00%
+Webster (Town): Total: 26, Poor: 0, Percentage: 0.00%
+Webster (Village): Total: 2, Poor: 0, Percentage: 0.00%
+Wheatland (Town): Total: 14, Poor: 1, Percentage: 7.14%
+Ames (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Amsterdam (City): Total: 32, Poor: 4, Percentage: 12.50%
+Amsterdam (Town): Total: 11, Poor: 2, Percentage: 18.18%
+Canajoharie (Town): Total: 18, Poor: 1, Percentage: 5.56%
+Canajoharie (Village): Total: 8, Poor: 2, Percentage: 25.00%
+Charleston (Town): Total: 5, Poor: 1, Percentage: 20.00%
+Florida (Town): Total: 19, Poor: 1, Percentage: 5.26%
+Fonda (Village): Total: 2, Poor: 1, Percentage: 50.00%
+Fort Johnson (Village): Total: 2, Poor: 1, Percentage: 50.00%
+Fort Plain (Village): Total: 7, Poor: 1, Percentage: 14.29%
+Fultonville (Village): Total: 2, Poor: 0, Percentage: 0.00%
+Glen (Town): Total: 19, Poor: 0, Percentage: 0.00%
+Hagaman (Village): Total: 2, Poor: 0, Percentage: 0.00%
+Minden (Town): Total: 24, Poor: 2, Percentage: 8.33%
+Mohawk (Town): Total: 7, Poor: 0, Percentage: 0.00%
+Nelliston (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Palatine (Town): Total: 9, Poor: 2, Percentage: 22.22%
+Root (Town): Total: 20, Poor: 1, Percentage: 5.00%
+St. Johnsville (Town): Total: 9, Poor: 0, Percentage: 0.00%
+St. Johnsville (Village): Total: 5, Poor: 1, Percentage: 20.00%
+Atlantic Beach (Village): Total: 1, Poor: 0, Percentage: 0.00%
+East Hills (Village): Total: 9, Poor: 0, Percentage: 0.00%
+East Rockaway (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Freeport (Village): Total: 3, Poor: 0, Percentage: 0.00%
+Glen Cove (City): Total: 4, Poor: 0, Percentage: 0.00%
+Great Neck Plaza (Village): Total: 3, Poor: 2, Percentage: 66.67%
+Hempstead (Town): Total: 146, Poor: 0, Percentage: 0.00%
+Hewlett Harbor (Village): Total: 1, Poor: 1, Percentage: 100.00%
+Lake Success (Village): Total: 4, Poor: 0, Percentage: 0.00%
+Lawrence (Village): Total: 4, Poor: 0, Percentage: 0.00%
+Long Beach (City): Total: 5, Poor: 0, Percentage: 0.00%
+Mill Neck (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Mineola (Village): Total: 1, Poor: 0, Percentage: 0.00%
+North Hempstead (Town): Total: 17, Poor: 0, Percentage: 0.00%
+North Hills (Village): Total: 7, Poor: 0, Percentage: 0.00%
+Old Westbury (Village): Total: 12, Poor: 0, Percentage: 0.00%
+Oyster Bay (Town): Total: 70, Poor: 0, Percentage: 0.00%
+Rockville Centre (Village): Total: 5, Poor: 0, Percentage: 0.00%
+Roslyn (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Saddle Rock (Village): Total: 2, Poor: 0, Percentage: 0.00%
+Sands Point (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Thomaston (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Valley Stream (Village): Total: 8, Poor: 0, Percentage: 0.00%
+Westbury (Village): Total: 18, Poor: 0, Percentage: 0.00%
+Barker (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Cambria (Town): Total: 3, Poor: 0, Percentage: 0.00%
+Hartland (Town): Total: 17, Poor: 1, Percentage: 5.88%
+Lewiston (Town): Total: 24, Poor: 1, Percentage: 4.17%
+Lewiston (Village): Total: 3, Poor: 0, Percentage: 0.00%
+Lockport (City): Total: 9, Poor: 1, Percentage: 11.11%
+Lockport (Town): Total: 19, Poor: 1, Percentage: 5.26%
+Middleport (Village): Total: 5, Poor: 0, Percentage: 0.00%
+Newfane (Town): Total: 12, Poor: 1, Percentage: 8.33%
+Niagara Falls (City): Total: 55, Poor: 1, Percentage: 1.82%
+Niagara (Town): Total: 9, Poor: 0, Percentage: 0.00%
+North Tonawanda (City): Total: 3, Poor: 0, Percentage: 0.00%
+Pendleton (Town): Total: 12, Poor: 1, Percentage: 8.33%
+Porter (Town): Total: 25, Poor: 6, Percentage: 24.00%
+Royalton (Town): Total: 23, Poor: 4, Percentage: 17.39%
+Somerset (Town): Total: 15, Poor: 1, Percentage: 6.67%
+Wheatfield (Town): Total: 18, Poor: 2, Percentage: 11.11%
+Wilson (Town): Total: 13, Poor: 2, Percentage: 15.38%
+Youngstown (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Annsville (Town): Total: 16, Poor: 1, Percentage: 6.25%
+Augusta (Town): Total: 2, Poor: 1, Percentage: 50.00%
+Ava (Town): Total: 3, Poor: 0, Percentage: 0.00%
+Barneveld (Village): Total: 3, Poor: 0, Percentage: 0.00%
+Boonville (Town): Total: 23, Poor: 1, Percentage: 4.35%
+Boonville (Village): Total: 2, Poor: 0, Percentage: 0.00%
+Bridgewater (Town): Total: 1, Poor: 0, Percentage: 0.00%
+Bridgewater (Village): Total: 1, Poor: 1, Percentage: 100.00%
+Camden (Town): Total: 12, Poor: 1, Percentage: 8.33%
+Camden (Village): Total: 6, Poor: 0, Percentage: 0.00%
+Clayville (Village): Total: 2, Poor: 0, Percentage: 0.00%
+Clinton (Village): Total: 1, Poor: 1, Percentage: 100.00%
+Deerfield (Town): Total: 13, Poor: 0, Percentage: 0.00%
+Florence (Town): Total: 5, Poor: 1, Percentage: 20.00%
+Floyd (Town): Total: 6, Poor: 1, Percentage: 16.67%
+Forestport (Town): Total: 12, Poor: 5, Percentage: 41.67%
+Holland Patent (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Kirkland (Town): Total: 9, Poor: 0, Percentage: 0.00%
+Lee (Town): Total: 12, Poor: 1, Percentage: 8.33%
+Marcy (Town): Total: 26, Poor: 0, Percentage: 0.00%
+Marshall (Town): Total: 9, Poor: 0, Percentage: 0.00%
+New Hartford (Town): Total: 20, Poor: 2, Percentage: 10.00%
+New Hartford (Village): Total: 2, Poor: 0, Percentage: 0.00%
+New York Mills (Village): Total: 2, Poor: 0, Percentage: 0.00%
+Oneida Castle (Village): Total: 2, Poor: 0, Percentage: 0.00%
+Oriskany Falls (Village): Total: 3, Poor: 0, Percentage: 0.00%
+Oriskany (Village): Total: 3, Poor: 0, Percentage: 0.00%
+Paris (Town): Total: 10, Poor: 0, Percentage: 0.00%
+Remsen (Town): Total: 9, Poor: 0, Percentage: 0.00%
+Remsen (Village): Total: 2, Poor: 0, Percentage: 0.00%
+Rome (City): Total: 50, Poor: 3, Percentage: 6.00%
+Sangerfield (Town): Total: 1, Poor: 0, Percentage: 0.00%
+Steuben (Town): Total: 5, Poor: 0, Percentage: 0.00%
+Trenton (Town): Total: 25, Poor: 3, Percentage: 12.00%
+Utica (City): Total: 61, Poor: 6, Percentage: 9.84%
+Vernon (Town): Total: 8, Poor: 2, Percentage: 25.00%
+Vernon (Village): Total: 2, Poor: 0, Percentage: 0.00%
+Verona (Town): Total: 47, Poor: 15, Percentage: 31.91%
+Vienna (Town): Total: 8, Poor: 1, Percentage: 12.50%
+Western (Town): Total: 16, Poor: 2, Percentage: 12.50%
+Westmoreland (Town): Total: 20, Poor: 3, Percentage: 15.00%
+Whitesboro (Village): Total: 6, Poor: 1, Percentage: 16.67%
+Whitestown (Town): Total: 9, Poor: 1, Percentage: 11.11%
+Baldwinsville (Village): Total: 4, Poor: 0, Percentage: 0.00%
+Camillus (Town): Total: 18, Poor: 0, Percentage: 0.00%
+Camillus (Village): Total: 2, Poor: 0, Percentage: 0.00%
+Cicero (Town): Total: 23, Poor: 3, Percentage: 13.04%
+Clay (Town): Total: 21, Poor: 1, Percentage: 4.76%
+De Witt (Town): Total: 49, Poor: 5, Percentage: 10.20%
+East Syracuse (Village): Total: 7, Poor: 0, Percentage: 0.00%
+Elbridge (Town): Total: 17, Poor: 0, Percentage: 0.00%
+Elbridge (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Fabius (Town): Total: 2, Poor: 0, Percentage: 0.00%
+Fayetteville (Village): Total: 4, Poor: 1, Percentage: 25.00%
+Geddes (Town): Total: 31, Poor: 6, Percentage: 19.35%
+Jordan (Village): Total: 4, Poor: 1, Percentage: 25.00%
+Lafayette (Town): Total: 19, Poor: 2, Percentage: 10.53%
+Liverpool (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Lysander (Town): Total: 6, Poor: 0, Percentage: 0.00%
+Manlius (Town): Total: 29, Poor: 4, Percentage: 13.79%
+Manlius (Village): Total: 2, Poor: 0, Percentage: 0.00%
+Marcellus (Town): Total: 15, Poor: 2, Percentage: 13.33%
+Marcellus (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Minoa (Village): Total: 1, Poor: 0, Percentage: 0.00%
+North Syracuse (Village): Total: 5, Poor: 0, Percentage: 0.00%
+Onondaga (Town): Total: 11, Poor: 3, Percentage: 27.27%
+Otisco (Town): Total: 1, Poor: 0, Percentage: 0.00%
+Pompey (Town): Total: 11, Poor: 3, Percentage: 27.27%
+Salina (Town): Total: 26, Poor: 3, Percentage: 11.54%
+Skaneateles (Town): Total: 10, Poor: 0, Percentage: 0.00%
+Skaneateles (Village): Total: 4, Poor: 2, Percentage: 50.00%
+Syracuse (City): Total: 118, Poor: 10, Percentage: 8.47%
+Tully (Town): Total: 2, Poor: 0, Percentage: 0.00%
+Van Buren (Town): Total: 21, Poor: 2, Percentage: 9.52%
+Bristol (Town): Total: 9, Poor: 0, Percentage: 0.00%
+Canadice (Town): Total: 1, Poor: 0, Percentage: 0.00%
+Canandaigua (City): Total: 11, Poor: 0, Percentage: 0.00%
+Canandaigua (Town): Total: 8, Poor: 0, Percentage: 0.00%
+East Bloomfield (Town): Total: 8, Poor: 0, Percentage: 0.00%
+Farmington (Town): Total: 10, Poor: 0, Percentage: 0.00%
+Geneva (City): Total: 4, Poor: 1, Percentage: 25.00%
+Geneva (Town): Total: 4, Poor: 0, Percentage: 0.00%
+Gorham (Town): Total: 7, Poor: 2, Percentage: 28.57%
+Hopewell (Town): Total: 4, Poor: 0, Percentage: 0.00%
+Manchester (Town): Total: 17, Poor: 4, Percentage: 23.53%
+Manchester (Village): Total: 2, Poor: 0, Percentage: 0.00%
+Naples (Town): Total: 5, Poor: 0, Percentage: 0.00%
+Naples (Village): Total: 4, Poor: 1, Percentage: 25.00%
+Phelps (Town): Total: 24, Poor: 3, Percentage: 12.50%
+Phelps (Village): Total: 5, Poor: 0, Percentage: 0.00%
+Richmond (Town): Total: 9, Poor: 0, Percentage: 0.00%
+Rushville (Village): Total: 3, Poor: 1, Percentage: 33.33%
+Seneca (Town): Total: 11, Poor: 1, Percentage: 9.09%
+Shortsville (Village): Total: 1, Poor: 0, Percentage: 0.00%
+South Bristol (Town): Total: 4, Poor: 1, Percentage: 25.00%
+Victor (Town): Total: 23, Poor: 0, Percentage: 0.00%
+Victor (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Blooming Grove (Town): Total: 24, Poor: 3, Percentage: 12.50%
+Chester (Town): Total: 27, Poor: 1, Percentage: 3.70%
+Chester (Village): Total: 11, Poor: 1, Percentage: 9.09%
+Cornwall On Hudson (Village): Total: 3, Poor: 0, Percentage: 0.00%
+Cornwall (Town): Total: 21, Poor: 7, Percentage: 33.33%
+Crawford (Town): Total: 16, Poor: 2, Percentage: 12.50%
+Deerpark (Town): Total: 25, Poor: 3, Percentage: 12.00%
+Florida (Village): Total: 1, Poor: 1, Percentage: 100.00%
+Goshen (Town): Total: 11, Poor: 1, Percentage: 9.09%
+Goshen (Village): Total: 7, Poor: 0, Percentage: 0.00%
+Greenwood Lake (Village): Total: 2, Poor: 0, Percentage: 0.00%
+Hamptonburgh (Town): Total: 12, Poor: 2, Percentage: 16.67%
+Harriman (Village): Total: 3, Poor: 0, Percentage: 0.00%
+Highland Falls (Village): Total: 5, Poor: 0, Percentage: 0.00%
+Highlands (Town): Total: 10, Poor: 1, Percentage: 10.00%
+Middletown (City): Total: 1, Poor: 0, Percentage: 0.00%
+Minisink (Town): Total: 15, Poor: 1, Percentage: 6.67%
+Monroe (Town): Total: 6, Poor: 0, Percentage: 0.00%
+Monroe (Village): Total: 3, Poor: 0, Percentage: 0.00%
+Montgomery (Town): Total: 23, Poor: 6, Percentage: 26.09%
+Mount Hope (Town): Total: 10, Poor: 3, Percentage: 30.00%
+Newburgh (City): Total: 8, Poor: 3, Percentage: 37.50%
+Newburgh (Town): Total: 43, Poor: 4, Percentage: 9.30%
+New Windsor (Town): Total: 13, Poor: 5, Percentage: 38.46%
+Otisville (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Port Jervis (City): Total: 8, Poor: 1, Percentage: 12.50%
+Tuxedo (Town): Total: 13, Poor: 1, Percentage: 7.69%
+Walden (Village): Total: 5, Poor: 1, Percentage: 20.00%
+Wallkill (Town): Total: 49, Poor: 4, Percentage: 8.16%
+Warwick (Town): Total: 23, Poor: 3, Percentage: 13.04%
+Warwick (Village): Total: 7, Poor: 2, Percentage: 28.57%
+Washingtonville (Village): Total: 2, Poor: 0, Percentage: 0.00%
+Wawayanda (Town): Total: 30, Poor: 4, Percentage: 13.33%
+Woodbury (Town): Total: 24, Poor: 5, Percentage: 20.83%
+Albion (Town): Total: 14, Poor: 2, Percentage: 14.29%
+Albion (Village): Total: 3, Poor: 0, Percentage: 0.00%
+Barre (Town): Total: 2, Poor: 0, Percentage: 0.00%
+Carlton (Town): Total: 32, Poor: 5, Percentage: 15.62%
+Clarendon (Town): Total: 1, Poor: 0, Percentage: 0.00%
+Gaines (Town): Total: 10, Poor: 0, Percentage: 0.00%
+Holley (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Kendall (Town): Total: 18, Poor: 0, Percentage: 0.00%
+Lyndonville (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Medina (Village): Total: 6, Poor: 1, Percentage: 16.67%
+Murray (Town): Total: 18, Poor: 4, Percentage: 22.22%
+Ridgeway (Town): Total: 19, Poor: 2, Percentage: 10.53%
+Shelby (Town): Total: 6, Poor: 0, Percentage: 0.00%
+Yates (Town): Total: 9, Poor: 0, Percentage: 0.00%
+Boylston (Town): Total: 1, Poor: 0, Percentage: 0.00%
+Central Square (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Constantia (Town): Total: 8, Poor: 3, Percentage: 37.50%
+Fulton (City): Total: 4, Poor: 0, Percentage: 0.00%
+Granby (Town): Total: 8, Poor: 2, Percentage: 25.00%
+Hannibal (Town): Total: 11, Poor: 2, Percentage: 18.18%
+Hannibal (Village): Total: 3, Poor: 0, Percentage: 0.00%
+Hastings (Town): Total: 22, Poor: 0, Percentage: 0.00%
+Lacona (Village): Total: 4, Poor: 3, Percentage: 75.00%
+Mexico (Town): Total: 20, Poor: 3, Percentage: 15.00%
+Mexico (Village): Total: 4, Poor: 0, Percentage: 0.00%
+Minetto (Town): Total: 1, Poor: 0, Percentage: 0.00%
+New Haven (Town): Total: 10, Poor: 1, Percentage: 10.00%
+Orwell (Town): Total: 2, Poor: 0, Percentage: 0.00%
+Oswego (City): Total: 8, Poor: 2, Percentage: 25.00%
+Oswego (Town): Total: 12, Poor: 3, Percentage: 25.00%
+Palermo (Town): Total: 3, Poor: 0, Percentage: 0.00%
+Parish (Town): Total: 11, Poor: 1, Percentage: 9.09%
+Parish (Village): Total: 3, Poor: 1, Percentage: 33.33%
+Phoenix (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Pulaski (Village): Total: 8, Poor: 0, Percentage: 0.00%
+Redfield (Town): Total: 9, Poor: 2, Percentage: 22.22%
+Richland (Town): Total: 19, Poor: 2, Percentage: 10.53%
+Sandy Creek (Town): Total: 9, Poor: 2, Percentage: 22.22%
+Sandy Creek (Village): Total: 5, Poor: 0, Percentage: 0.00%
+Schroeppel (Town): Total: 15, Poor: 1, Percentage: 6.67%
+Scriba (Town): Total: 1, Poor: 0, Percentage: 0.00%
+Volney (Town): Total: 9, Poor: 0, Percentage: 0.00%
+West Monroe (Town): Total: 8, Poor: 0, Percentage: 0.00%
+Williamstown (Town): Total: 3, Poor: 0, Percentage: 0.00%
+Burlington (Town): Total: 9, Poor: 1, Percentage: 11.11%
+Butternuts (Town): Total: 8, Poor: 2, Percentage: 25.00%
+Cherry Valley (Town): Total: 8, Poor: 4, Percentage: 50.00%
+Cooperstown (Village): Total: 3, Poor: 1, Percentage: 33.33%
+Decatur (Town): Total: 2, Poor: 0, Percentage: 0.00%
+Edmeston (Town): Total: 4, Poor: 0, Percentage: 0.00%
+Exeter (Town): Total: 13, Poor: 0, Percentage: 0.00%
+Gilbertsville (Village): Total: 5, Poor: 2, Percentage: 40.00%
+Hartwick (Town): Total: 13, Poor: 4, Percentage: 30.77%
+Laurens (Town): Total: 10, Poor: 1, Percentage: 10.00%
+Maryland (Town): Total: 14, Poor: 4, Percentage: 28.57%
+Middlefield (Town): Total: 10, Poor: 0, Percentage: 0.00%
+Milford (Town): Total: 17, Poor: 0, Percentage: 0.00%
+Morris (Town): Total: 5, Poor: 1, Percentage: 20.00%
+Morris (Village): Total: 1, Poor: 0, Percentage: 0.00%
+New Lisbon (Town): Total: 9, Poor: 1, Percentage: 11.11%
+Oneonta (City): Total: 11, Poor: 0, Percentage: 0.00%
+Oneonta (Town): Total: 20, Poor: 0, Percentage: 0.00%
+Otego (Town): Total: 18, Poor: 2, Percentage: 11.11%
+Otego (Village): Total: 2, Poor: 1, Percentage: 50.00%
+Otsego (Town): Total: 11, Poor: 0, Percentage: 0.00%
+Pittsfield (Town): Total: 3, Poor: 0, Percentage: 0.00%
+Plainfield (Town): Total: 8, Poor: 1, Percentage: 12.50%
+Richfield Springs (Village): Total: 6, Poor: 0, Percentage: 0.00%
+Richfield (Town): Total: 4, Poor: 0, Percentage: 0.00%
+Roseboom (Town): Total: 5, Poor: 0, Percentage: 0.00%
+Springfield (Town): Total: 4, Poor: 0, Percentage: 0.00%
+Unadilla (Town): Total: 12, Poor: 1, Percentage: 8.33%
+Unadilla (Village): Total: 6, Poor: 2, Percentage: 33.33%
+Westford (Town): Total: 4, Poor: 1, Percentage: 25.00%
+Worcester (Town): Total: 24, Poor: 3, Percentage: 12.50%
+Brewster (Village): Total: 2, Poor: 1, Percentage: 50.00%
+Carmel (Town): Total: 8, Poor: 1, Percentage: 12.50%
+Cold Spring (Village): Total: 1, Poor: 1, Percentage: 100.00%
+Kent (Town): Total: 17, Poor: 1, Percentage: 5.88%
+Patterson (Town): Total: 13, Poor: 2, Percentage: 15.38%
+Philipstown (Town): Total: 14, Poor: 2, Percentage: 14.29%
+Putnam Valley (Town): Total: 11, Poor: 3, Percentage: 27.27%
+Southeast (Town): Total: 37, Poor: 1, Percentage: 2.70%
+Berlin (Town): Total: 10, Poor: 4, Percentage: 40.00%
+Brunswick (Town): Total: 11, Poor: 0, Percentage: 0.00%
+East Greenbush (Town): Total: 14, Poor: 1, Percentage: 7.14%
+East Nassau (Village): Total: 6, Poor: 2, Percentage: 33.33%
+Grafton (Town): Total: 1, Poor: 0, Percentage: 0.00%
+Hoosick Falls (Village): Total: 3, Poor: 0, Percentage: 0.00%
+Hoosick (Town): Total: 16, Poor: 1, Percentage: 6.25%
+Nassau (Town): Total: 11, Poor: 1, Percentage: 9.09%
+Nassau (Village): Total: 1, Poor: 0, Percentage: 0.00%
+North Greenbush (Town): Total: 4, Poor: 0, Percentage: 0.00%
+Petersburg (Town): Total: 16, Poor: 2, Percentage: 12.50%
+Pittstown (Town): Total: 18, Poor: 5, Percentage: 27.78%
+Poestenkill (Town): Total: 15, Poor: 2, Percentage: 13.33%
+Rensselaer (City): Total: 18, Poor: 1, Percentage: 5.56%
+Sand Lake (Town): Total: 13, Poor: 3, Percentage: 23.08%
+Schaghticoke (Town): Total: 13, Poor: 3, Percentage: 23.08%
+Schaghticoke (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Stephentown (Town): Total: 18, Poor: 7, Percentage: 38.89%
+Troy (City): Total: 16, Poor: 1, Percentage: 6.25%
+Valley Falls (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Airmont (Village): Total: 3, Poor: 0, Percentage: 0.00%
+Chestnut Ridge (Village): Total: 12, Poor: 3, Percentage: 25.00%
+Clarkstown (Town): Total: 57, Poor: 1, Percentage: 1.75%
+Haverstraw (Town): Total: 13, Poor: 2, Percentage: 15.38%
+Haverstraw (Village): Total: 4, Poor: 0, Percentage: 0.00%
+Hillburn (Village): Total: 9, Poor: 0, Percentage: 0.00%
+Montebello (Village): Total: 6, Poor: 0, Percentage: 0.00%
+Nyack (Village): Total: 3, Poor: 2, Percentage: 66.67%
+Orangetown (Town): Total: 55, Poor: 0, Percentage: 0.00%
+Piermont (Village): Total: 3, Poor: 0, Percentage: 0.00%
+Ramapo (Town): Total: 22, Poor: 4, Percentage: 18.18%
+Sloatsburg (Village): Total: 11, Poor: 0, Percentage: 0.00%
+South Nyack (Village): Total: 5, Poor: 0, Percentage: 0.00%
+Spring Valley (Village): Total: 6, Poor: 2, Percentage: 33.33%
+Stony Point (Town): Total: 22, Poor: 1, Percentage: 4.55%
+Suffern (Village): Total: 9, Poor: 2, Percentage: 22.22%
+West Haverstraw (Village): Total: 3, Poor: 0, Percentage: 0.00%
+Ballston Spa (Village): Total: 8, Poor: 0, Percentage: 0.00%
+Ballston (Town): Total: 11, Poor: 0, Percentage: 0.00%
+Charlton (Town): Total: 6, Poor: 0, Percentage: 0.00%
+Clifton Park (Town): Total: 17, Poor: 1, Percentage: 5.88%
+Corinth (Town): Total: 3, Poor: 0, Percentage: 0.00%
+Corinth (Village): Total: 2, Poor: 0, Percentage: 0.00%
+Day (Town): Total: 8, Poor: 1, Percentage: 12.50%
+Edinburg (Town): Total: 6, Poor: 1, Percentage: 16.67%
+Galway (Town): Total: 3, Poor: 0, Percentage: 0.00%
+Greenfield (Town): Total: 9, Poor: 0, Percentage: 0.00%
+Hadley (Town): Total: 5, Poor: 0, Percentage: 0.00%
+Halfmoon (Town): Total: 8, Poor: 1, Percentage: 12.50%
+Malta (Town): Total: 20, Poor: 0, Percentage: 0.00%
+Mechanicville (City): Total: 6, Poor: 0, Percentage: 0.00%
+Milton (Town): Total: 10, Poor: 0, Percentage: 0.00%
+Moreau (Town): Total: 11, Poor: 0, Percentage: 0.00%
+Northumberland (Town): Total: 5, Poor: 1, Percentage: 20.00%
+Providence (Town): Total: 13, Poor: 0, Percentage: 0.00%
+Round Lake (Village): Total: 4, Poor: 0, Percentage: 0.00%
+Saratoga (Town): Total: 9, Poor: 1, Percentage: 11.11%
+Schuylerville (Village): Total: 3, Poor: 0, Percentage: 0.00%
+South Glens Falls (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Stillwater (Town): Total: 6, Poor: 1, Percentage: 16.67%
+Stillwater (Village): Total: 2, Poor: 1, Percentage: 50.00%
+Victory (Village): Total: 2, Poor: 0, Percentage: 0.00%
+Waterford (Town): Total: 5, Poor: 1, Percentage: 20.00%
+Waterford (Village): Total: 8, Poor: 1, Percentage: 12.50%
+Wilton (Town): Total: 14, Poor: 0, Percentage: 0.00%
+Delanson (Village): Total: 2, Poor: 0, Percentage: 0.00%
+Duanesburg (Town): Total: 22, Poor: 1, Percentage: 4.55%
+Glenville (Town): Total: 10, Poor: 0, Percentage: 0.00%
+Niskayuna (Town): Total: 3, Poor: 0, Percentage: 0.00%
+Princetown (Town): Total: 14, Poor: 0, Percentage: 0.00%
+Rotterdam (Town): Total: 47, Poor: 2, Percentage: 4.26%
+Schenectady (City): Total: 15, Poor: 4, Percentage: 26.67%
+Scotia (Village): Total: 2, Poor: 1, Percentage: 50.00%
+Blenheim (Town): Total: 8, Poor: 0, Percentage: 0.00%
+Broome (Town): Total: 14, Poor: 0, Percentage: 0.00%
+Carlisle (Town): Total: 3, Poor: 1, Percentage: 33.33%
+Cobleskill (Town): Total: 10, Poor: 1, Percentage: 10.00%
+Cobleskill (Village): Total: 12, Poor: 3, Percentage: 25.00%
+Conesville (Town): Total: 10, Poor: 0, Percentage: 0.00%
+Esperance (Town): Total: 5, Poor: 2, Percentage: 40.00%
+Fulton (Town): Total: 16, Poor: 0, Percentage: 0.00%
+Gilboa (Town): Total: 3, Poor: 0, Percentage: 0.00%
+Jefferson (Town): Total: 4, Poor: 1, Percentage: 25.00%
+Middleburgh (Town): Total: 10, Poor: 1, Percentage: 10.00%
+Middleburgh (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Richmondville (Town): Total: 25, Poor: 1, Percentage: 4.00%
+Richmondville (Village): Total: 9, Poor: 0, Percentage: 0.00%
+Schoharie (Town): Total: 12, Poor: 1, Percentage: 8.33%
+Schoharie (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Seward (Town): Total: 7, Poor: 2, Percentage: 28.57%
+Sharon (Town): Total: 7, Poor: 2, Percentage: 28.57%
+Summit (Town): Total: 4, Poor: 2, Percentage: 50.00%
+Wright (Town): Total: 9, Poor: 0, Percentage: 0.00%
+Burdett (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Catharine (Town): Total: 9, Poor: 0, Percentage: 0.00%
+Cayuta (Town): Total: 12, Poor: 0, Percentage: 0.00%
+Dix (Town): Total: 4, Poor: 0, Percentage: 0.00%
+Hector (Town): Total: 28, Poor: 2, Percentage: 7.14%
+Montour Falls (Village): Total: 10, Poor: 0, Percentage: 0.00%
+Montour (Town): Total: 7, Poor: 0, Percentage: 0.00%
+Odessa (Village): Total: 4, Poor: 1, Percentage: 25.00%
+Orange (Town): Total: 10, Poor: 2, Percentage: 20.00%
+Reading (Town): Total: 4, Poor: 0, Percentage: 0.00%
+Tyrone (Town): Total: 6, Poor: 1, Percentage: 16.67%
+Watkins Glen (Village): Total: 4, Poor: 1, Percentage: 25.00%
+Covert (Town): Total: 5, Poor: 1, Percentage: 20.00%
+Fayette (Town): Total: 5, Poor: 1, Percentage: 20.00%
+Junius (Town): Total: 5, Poor: 0, Percentage: 0.00%
+Lodi (Town): Total: 5, Poor: 1, Percentage: 20.00%
+Lodi (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Ovid (Town): Total: 8, Poor: 5, Percentage: 62.50%
+Romulus (Town): Total: 1, Poor: 0, Percentage: 0.00%
+Seneca Falls (Town): Total: 6, Poor: 0, Percentage: 0.00%
+Tyre (Town): Total: 18, Poor: 4, Percentage: 22.22%
+Varick (Town): Total: 1, Poor: 0, Percentage: 0.00%
+Waterloo (Village): Total: 4, Poor: 1, Percentage: 25.00%
+Addison (Town): Total: 3, Poor: 0, Percentage: 0.00%
+Addison (Village): Total: 2, Poor: 0, Percentage: 0.00%
+Arkport (Village): Total: 5, Poor: 1, Percentage: 20.00%
+Avoca (Town): Total: 49, Poor: 1, Percentage: 2.04%
+Avoca (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Bath (Town): Total: 49, Poor: 3, Percentage: 6.12%
+Bath (Village): Total: 9, Poor: 0, Percentage: 0.00%
+Bradford (Town): Total: 9, Poor: 2, Percentage: 22.22%
+Cameron (Town): Total: 7, Poor: 1, Percentage: 14.29%
+Campbell (Town): Total: 42, Poor: 4, Percentage: 9.52%
+Canisteo (Town): Total: 24, Poor: 1, Percentage: 4.17%
+Canisteo (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Caton (Town): Total: 3, Poor: 0, Percentage: 0.00%
+Cohocton (Town): Total: 18, Poor: 1, Percentage: 5.56%
+Cohocton (Village): Total: 3, Poor: 0, Percentage: 0.00%
+Corning (City): Total: 14, Poor: 0, Percentage: 0.00%
+Corning (Town): Total: 20, Poor: 1, Percentage: 5.00%
+Dansville (Town): Total: 8, Poor: 2, Percentage: 25.00%
+Erwin (Town): Total: 35, Poor: 2, Percentage: 5.71%
+Fremont (Town): Total: 30, Poor: 2, Percentage: 6.67%
+Greenwood (Town): Total: 19, Poor: 1, Percentage: 5.26%
+Hammondsport (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Hartsville (Town): Total: 20, Poor: 0, Percentage: 0.00%
+Hornby (Town): Total: 10, Poor: 2, Percentage: 20.00%
+Hornell (City): Total: 20, Poor: 3, Percentage: 15.00%
+Hornellsville (Town): Total: 36, Poor: 3, Percentage: 8.33%
+Howard (Town): Total: 13, Poor: 2, Percentage: 15.38%
+Jasper (Town): Total: 18, Poor: 0, Percentage: 0.00%
+Lindley (Town): Total: 28, Poor: 2, Percentage: 7.14%
+North Hornell (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Painted Post (Village): Total: 2, Poor: 0, Percentage: 0.00%
+Prattsburg (Town): Total: 14, Poor: 2, Percentage: 14.29%
+Pulteney (Town): Total: 5, Poor: 1, Percentage: 20.00%
+Rathbone (Town): Total: 13, Poor: 2, Percentage: 15.38%
+Riverside (Village): Total: 11, Poor: 0, Percentage: 0.00%
+Savona (Village): Total: 4, Poor: 0, Percentage: 0.00%
+South Corning (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Thurston (Town): Total: 5, Poor: 2, Percentage: 40.00%
+Troupsburg (Town): Total: 16, Poor: 0, Percentage: 0.00%
+Tuscarora (Town): Total: 9, Poor: 0, Percentage: 0.00%
+Urbana (Town): Total: 9, Poor: 0, Percentage: 0.00%
+Wayland (Town): Total: 11, Poor: 0, Percentage: 0.00%
+West Union (Town): Total: 9, Poor: 0, Percentage: 0.00%
+Wheeler (Town): Total: 16, Poor: 1, Percentage: 6.25%
+Woodhull (Town): Total: 16, Poor: 1, Percentage: 6.25%
+Brasher (Town): Total: 12, Poor: 3, Percentage: 25.00%
+Canton (Town): Total: 19, Poor: 1, Percentage: 5.26%
+Canton (Village): Total: 2, Poor: 0, Percentage: 0.00%
+Clare (Town): Total: 7, Poor: 0, Percentage: 0.00%
+Clifton (Town): Total: 5, Poor: 0, Percentage: 0.00%
+Colton (Town): Total: 12, Poor: 0, Percentage: 0.00%
+De Kalb (Town): Total: 11, Poor: 1, Percentage: 9.09%
+De Peyster (Town): Total: 1, Poor: 1, Percentage: 100.00%
+Edwards (Town): Total: 6, Poor: 1, Percentage: 16.67%
+Fine (Town): Total: 9, Poor: 1, Percentage: 11.11%
+Fowler (Town): Total: 17, Poor: 1, Percentage: 5.88%
+Gouverneur (Town): Total: 6, Poor: 0, Percentage: 0.00%
+Gouverneur (Village): Total: 2, Poor: 0, Percentage: 0.00%
+Hammond (Town): Total: 6, Poor: 0, Percentage: 0.00%
+Hermon (Town): Total: 6, Poor: 0, Percentage: 0.00%
+Hermon (Village): Total: 2, Poor: 0, Percentage: 0.00%
+Heuvelton (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Hopkinton (Town): Total: 4, Poor: 2, Percentage: 50.00%
+Lawrence (Town): Total: 16, Poor: 1, Percentage: 6.25%
+Lisbon (Town): Total: 2, Poor: 0, Percentage: 0.00%
+Louisville (Town): Total: 5, Poor: 0, Percentage: 0.00%
+Macomb (Town): Total: 2, Poor: 2, Percentage: 100.00%
+Madrid (Town): Total: 8, Poor: 1, Percentage: 12.50%
+Massena (Town): Total: 8, Poor: 0, Percentage: 0.00%
+Massena (Village): Total: 3, Poor: 0, Percentage: 0.00%
+Morristown (Town): Total: 5, Poor: 2, Percentage: 40.00%
+Morristown (Village): Total: 1, Poor: 1, Percentage: 100.00%
+Norfolk (Town): Total: 10, Poor: 2, Percentage: 20.00%
+Norwood (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Ogdensburg (City): Total: 5, Poor: 0, Percentage: 0.00%
+Oswegatchie (Town): Total: 10, Poor: 1, Percentage: 10.00%
+Parishville (Town): Total: 3, Poor: 0, Percentage: 0.00%
+Piercefield (Town): Total: 3, Poor: 0, Percentage: 0.00%
+Pierrepont (Town): Total: 7, Poor: 1, Percentage: 14.29%
+Pitcairn (Town): Total: 8, Poor: 2, Percentage: 25.00%
+Potsdam (Town): Total: 24, Poor: 0, Percentage: 0.00%
+Potsdam (Village): Total: 3, Poor: 0, Percentage: 0.00%
+Rensselaer Falls (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Richville (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Rossie (Town): Total: 9, Poor: 0, Percentage: 0.00%
+Russell (Town): Total: 12, Poor: 4, Percentage: 33.33%
+Stockholm (Town): Total: 25, Poor: 2, Percentage: 8.00%
+Waddington (Town): Total: 12, Poor: 1, Percentage: 8.33%
+Waddington (Village): Total: 3, Poor: 0, Percentage: 0.00%
+Babylon (Town): Total: 37, Poor: 0, Percentage: 0.00%
+Babylon (Village): Total: 4, Poor: 0, Percentage: 0.00%
+Brightwaters (Village): Total: 4, Poor: 0, Percentage: 0.00%
+Brookhaven (Town): Total: 91, Poor: 2, Percentage: 2.20%
+East Hampton (Town): Total: 2, Poor: 0, Percentage: 0.00%
+East Hampton (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Huntington (Town): Total: 30, Poor: 0, Percentage: 0.00%
+Islandia (Village): Total: 3, Poor: 0, Percentage: 0.00%
+Islip (Town): Total: 100, Poor: 2, Percentage: 2.00%
+North Haven (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Patchogue (Village): Total: 2, Poor: 0, Percentage: 0.00%
+Quogue (Village): Total: 2, Poor: 0, Percentage: 0.00%
+Riverhead (Town): Total: 14, Poor: 1, Percentage: 7.14%
+Shelter Island (Town): Total: 2, Poor: 0, Percentage: 0.00%
+Smithtown (Town): Total: 28, Poor: 0, Percentage: 0.00%
+Southampton (Town): Total: 28, Poor: 1, Percentage: 3.57%
+Southold (Town): Total: 11, Poor: 0, Percentage: 0.00%
+Westhampton Beach (Village): Total: 4, Poor: 0, Percentage: 0.00%
+Bethel (Town): Total: 9, Poor: 1, Percentage: 11.11%
+Callicoon (Town): Total: 18, Poor: 2, Percentage: 11.11%
+Cochecton (Town): Total: 7, Poor: 1, Percentage: 14.29%
+Delaware (Town): Total: 20, Poor: 2, Percentage: 10.00%
+Fallsburg (Town): Total: 23, Poor: 4, Percentage: 17.39%
+Forestburgh (Town): Total: 12, Poor: 2, Percentage: 16.67%
+Highland (Town): Total: 13, Poor: 4, Percentage: 30.77%
+Jeffersonville (Village): Total: 3, Poor: 0, Percentage: 0.00%
+Liberty (Town): Total: 54, Poor: 6, Percentage: 11.11%
+Liberty (Village): Total: 4, Poor: 0, Percentage: 0.00%
+Lumberland (Town): Total: 4, Poor: 0, Percentage: 0.00%
+Mamakating (Town): Total: 30, Poor: 2, Percentage: 6.67%
+Monticello (Village): Total: 2, Poor: 0, Percentage: 0.00%
+Neversink (Town): Total: 37, Poor: 7, Percentage: 18.92%
+Rockland (Town): Total: 61, Poor: 5, Percentage: 8.20%
+Thompson (Town): Total: 35, Poor: 2, Percentage: 5.71%
+Tusten (Town): Total: 9, Poor: 1, Percentage: 11.11%
+Wurtsboro (Village): Total: 2, Poor: 0, Percentage: 0.00%
+Barton (Town): Total: 28, Poor: 2, Percentage: 7.14%
+Berkshire (Town): Total: 9, Poor: 3, Percentage: 33.33%
+Candor (Town): Total: 23, Poor: 2, Percentage: 8.70%
+Candor (Village): Total: 2, Poor: 0, Percentage: 0.00%
+Newark Valley (Town): Total: 11, Poor: 2, Percentage: 18.18%
+Newark Valley (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Nichols (Town): Total: 31, Poor: 2, Percentage: 6.45%
+Owego (Town): Total: 40, Poor: 3, Percentage: 7.50%
+Owego (Village): Total: 6, Poor: 0, Percentage: 0.00%
+Richford (Town): Total: 8, Poor: 1, Percentage: 12.50%
+Spencer (Town): Total: 16, Poor: 3, Percentage: 18.75%
+Spencer (Village): Total: 4, Poor: 0, Percentage: 0.00%
+Tioga (Town): Total: 19, Poor: 1, Percentage: 5.26%
+Waverly (Village): Total: 16, Poor: 0, Percentage: 0.00%
+Caroline (Town): Total: 18, Poor: 2, Percentage: 11.11%
+Danby (Town): Total: 5, Poor: 1, Percentage: 20.00%
+Dryden (Town): Total: 25, Poor: 6, Percentage: 24.00%
+Dryden (Village): Total: 8, Poor: 1, Percentage: 12.50%
+Enfield (Town): Total: 10, Poor: 0, Percentage: 0.00%
+Freeville (Village): Total: 3, Poor: 0, Percentage: 0.00%
+Groton (Town): Total: 17, Poor: 1, Percentage: 5.88%
+Groton (Village): Total: 3, Poor: 0, Percentage: 0.00%
+Ithaca (City): Total: 30, Poor: 3, Percentage: 10.00%
+Ithaca (Town): Total: 18, Poor: 1, Percentage: 5.56%
+Lansing (Town): Total: 15, Poor: 4, Percentage: 26.67%
+Lansing (Village): Total: 2, Poor: 0, Percentage: 0.00%
+Newfield (Town): Total: 21, Poor: 5, Percentage: 23.81%
+Trumansburg (Village): Total: 4, Poor: 1, Percentage: 25.00%
+Ulysses (Town): Total: 16, Poor: 2, Percentage: 12.50%
+Denning (Town): Total: 21, Poor: 8, Percentage: 38.10%
+Ellenville (Village): Total: 9, Poor: 2, Percentage: 22.22%
+Esopus (Town): Total: 11, Poor: 4, Percentage: 36.36%
+Gardiner (Town): Total: 12, Poor: 4, Percentage: 33.33%
+Hardenburgh (Town): Total: 22, Poor: 5, Percentage: 22.73%
+Hurley (Town): Total: 2, Poor: 0, Percentage: 0.00%
+Kingston (City): Total: 10, Poor: 2, Percentage: 20.00%
+Kingston (Town): Total: 2, Poor: 0, Percentage: 0.00%
+Lloyd (Town): Total: 10, Poor: 0, Percentage: 0.00%
+Marbletown (Town): Total: 11, Poor: 3, Percentage: 27.27%
+Marlborough (Town): Total: 1, Poor: 0, Percentage: 0.00%
+New Paltz (Town): Total: 8, Poor: 2, Percentage: 25.00%
+New Paltz (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Olive (Town): Total: 14, Poor: 5, Percentage: 35.71%
+Plattekill (Town): Total: 3, Poor: 0, Percentage: 0.00%
+Rochester (Town): Total: 33, Poor: 12, Percentage: 36.36%
+Rosendale (Town): Total: 12, Poor: 4, Percentage: 33.33%
+Saugerties (Town): Total: 26, Poor: 5, Percentage: 19.23%
+Saugerties (Village): Total: 2, Poor: 1, Percentage: 50.00%
+Shandaken (Town): Total: 65, Poor: 14, Percentage: 21.54%
+Shawangunk (Town): Total: 21, Poor: 3, Percentage: 14.29%
+Ulster (Town): Total: 29, Poor: 0, Percentage: 0.00%
+Wawarsing (Town): Total: 32, Poor: 5, Percentage: 15.62%
+Woodstock (Town): Total: 28, Poor: 5, Percentage: 17.86%
+Bolton (Town): Total: 8, Poor: 1, Percentage: 12.50%
+Glens Falls (City): Total: 4, Poor: 0, Percentage: 0.00%
+Hague (Town): Total: 3, Poor: 0, Percentage: 0.00%
+Horicon (Town): Total: 8, Poor: 2, Percentage: 25.00%
+Hudson Falls (Village): Total: 4, Poor: 1, Percentage: 25.00%
+Johnsburg (Town): Total: 34, Poor: 4, Percentage: 11.76%
+Lake George (Town): Total: 13, Poor: 4, Percentage: 30.77%
+Lake George (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Lake Luzerne (Town): Total: 5, Poor: 0, Percentage: 0.00%
+Queensbury (Town): Total: 16, Poor: 2, Percentage: 12.50%
+Stony Creek (Town): Total: 11, Poor: 1, Percentage: 9.09%
+Thurman (Town): Total: 6, Poor: 0, Percentage: 0.00%
+Warrensburg (Town): Total: 8, Poor: 3, Percentage: 37.50%
+Argyle (Town): Total: 5, Poor: 0, Percentage: 0.00%
+Argyle (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Cambridge (Town): Total: 6, Poor: 2, Percentage: 33.33%
+Cambridge (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Dresden (Town): Total: 2, Poor: 0, Percentage: 0.00%
+Easton (Town): Total: 12, Poor: 4, Percentage: 33.33%
+Fort Ann (Town): Total: 19, Poor: 0, Percentage: 0.00%
+Fort Ann (Village): Total: 3, Poor: 0, Percentage: 0.00%
+Fort Edward (Town): Total: 11, Poor: 3, Percentage: 27.27%
+Fort Edward (Village): Total: 5, Poor: 1, Percentage: 20.00%
+Granville (Town): Total: 13, Poor: 2, Percentage: 15.38%
+Granville (Village): Total: 3, Poor: 0, Percentage: 0.00%
+Greenwich (Town): Total: 5, Poor: 1, Percentage: 20.00%
+Greenwich (Village): Total: 2, Poor: 0, Percentage: 0.00%
+Hampton (Town): Total: 4, Poor: 0, Percentage: 0.00%
+Hartford (Town): Total: 2, Poor: 0, Percentage: 0.00%
+Hebron (Town): Total: 11, Poor: 0, Percentage: 0.00%
+Jackson (Town): Total: 4, Poor: 1, Percentage: 25.00%
+Kingsbury (Town): Total: 11, Poor: 1, Percentage: 9.09%
+Putnam (Town): Total: 2, Poor: 1, Percentage: 50.00%
+Salem (Town): Total: 19, Poor: 4, Percentage: 21.05%
+Salem (Village): Total: 3, Poor: 0, Percentage: 0.00%
+White Creek (Town): Total: 21, Poor: 1, Percentage: 4.76%
+Whitehall (Town): Total: 7, Poor: 2, Percentage: 28.57%
+Whitehall (Village): Total: 6, Poor: 0, Percentage: 0.00%
+Arcadia (Town): Total: 7, Poor: 3, Percentage: 42.86%
+Butler (Town): Total: 3, Poor: 1, Percentage: 33.33%
+Clyde (Village): Total: 1, Poor: 1, Percentage: 100.00%
+Galen (Town): Total: 5, Poor: 2, Percentage: 40.00%
+Huron (Town): Total: 4, Poor: 0, Percentage: 0.00%
+Lyons (Town): Total: 3, Poor: 1, Percentage: 33.33%
+Lyons (Village): Total: 7, Poor: 0, Percentage: 0.00%
+Macedon (Town): Total: 11, Poor: 1, Percentage: 9.09%
+Macedon (Village): Total: 2, Poor: 0, Percentage: 0.00%
+Newark (Village): Total: 5, Poor: 0, Percentage: 0.00%
+Ontario (Town): Total: 4, Poor: 0, Percentage: 0.00%
+Palmyra (Town): Total: 9, Poor: 2, Percentage: 22.22%
+Palmyra (Village): Total: 2, Poor: 1, Percentage: 50.00%
+Red Creek (Village): Total: 3, Poor: 0, Percentage: 0.00%
+Savannah (Town): Total: 7, Poor: 0, Percentage: 0.00%
+Sodus (Town): Total: 11, Poor: 3, Percentage: 27.27%
+Walworth (Town): Total: 1, Poor: 0, Percentage: 0.00%
+Williamson (Town): Total: 3, Poor: 0, Percentage: 0.00%
+Wolcott (Town): Total: 7, Poor: 0, Percentage: 0.00%
+Ardsley (Village): Total: 5, Poor: 0, Percentage: 0.00%
+Bedford (Town): Total: 42, Poor: 2, Percentage: 4.76%
+Briarcliff Manor (Village): Total: 12, Poor: 1, Percentage: 8.33%
+Bronxville (Village): Total: 4, Poor: 2, Percentage: 50.00%
+Buchanan (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Cortlandt (Town): Total: 24, Poor: 4, Percentage: 16.67%
+Croton-On-Hudson (Village): Total: 7, Poor: 0, Percentage: 0.00%
+Dobbs Ferry (Village): Total: 4, Poor: 2, Percentage: 50.00%
+Eastchester (Town): Total: 12, Poor: 1, Percentage: 8.33%
+Elmsford (Village): Total: 20, Poor: 1, Percentage: 5.00%
+Greenburgh (Town): Total: 45, Poor: 3, Percentage: 6.67%
+Harrison (Town): Total: 1, Poor: 0, Percentage: 0.00%
+Harrison (Village): Total: 38, Poor: 1, Percentage: 2.63%
+Hastings-On-Hudson (Village): Total: 8, Poor: 0, Percentage: 0.00%
+Irvington (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Larchmont (Village): Total: 2, Poor: 0, Percentage: 0.00%
+Lewisboro (Town): Total: 8, Poor: 2, Percentage: 25.00%
+Mamaroneck (Town): Total: 12, Poor: 2, Percentage: 16.67%
+Mamaroneck (Village): Total: 24, Poor: 5, Percentage: 20.83%
+Mount Kisco (Village): Total: 8, Poor: 1, Percentage: 12.50%
+Mount Pleasant (Town): Total: 53, Poor: 2, Percentage: 3.77%
+Mount Vernon (City): Total: 36, Poor: 8, Percentage: 22.22%
+New Castle (Town): Total: 11, Poor: 0, Percentage: 0.00%
+New Rochelle (City): Total: 27, Poor: 4, Percentage: 14.81%
+North Castle (Town): Total: 18, Poor: 0, Percentage: 0.00%
+North Salem (Town): Total: 16, Poor: 3, Percentage: 18.75%
+Ossining (Town): Total: 6, Poor: 0, Percentage: 0.00%
+Ossining (Village): Total: 8, Poor: 2, Percentage: 25.00%
+Peekskill (City): Total: 13, Poor: 0, Percentage: 0.00%
+Pelham Manor (Village): Total: 7, Poor: 0, Percentage: 0.00%
+Pelham (Village): Total: 5, Poor: 0, Percentage: 0.00%
+Pleasantville (Village): Total: 7, Poor: 0, Percentage: 0.00%
+Port Chester (Village): Total: 7, Poor: 2, Percentage: 28.57%
+Pound Ridge (Town): Total: 5, Poor: 0, Percentage: 0.00%
+Rye Brook (Village): Total: 7, Poor: 0, Percentage: 0.00%
+Rye (City): Total: 32, Poor: 3, Percentage: 9.38%
+Rye (Town): Total: 3, Poor: 0, Percentage: 0.00%
+Scarsdale (Village): Total: 13, Poor: 1, Percentage: 7.69%
+Sleepy Hollow (Village): Total: 6, Poor: 0, Percentage: 0.00%
+Somers (Town): Total: 15, Poor: 0, Percentage: 0.00%
+Tarrytown (Village): Total: 5, Poor: 0, Percentage: 0.00%
+Tuckahoe (Village): Total: 4, Poor: 0, Percentage: 0.00%
+White Plains (City): Total: 46, Poor: 0, Percentage: 0.00%
+Yonkers (City): Total: 100, Poor: 12, Percentage: 12.00%
+Yorktown (Town): Total: 37, Poor: 3, Percentage: 8.11%
+Arcade (Town): Total: 5, Poor: 1, Percentage: 20.00%
+Arcade (Village): Total: 6, Poor: 0, Percentage: 0.00%
+Attica (Town): Total: 5, Poor: 0, Percentage: 0.00%
+Attica (Village): Total: 3, Poor: 0, Percentage: 0.00%
+Bennington (Town): Total: 15, Poor: 2, Percentage: 13.33%
+Castile (Town): Total: 3, Poor: 0, Percentage: 0.00%
+Covington (Town): Total: 5, Poor: 1, Percentage: 20.00%
+Eagle (Town): Total: 10, Poor: 1, Percentage: 10.00%
+Gainesville (Town): Total: 6, Poor: 0, Percentage: 0.00%
+Gainesville (Village): Total: 1, Poor: 1, Percentage: 100.00%
+Genesee Falls (Town): Total: 2, Poor: 0, Percentage: 0.00%
+Java (Town): Total: 9, Poor: 0, Percentage: 0.00%
+Middlebury (Town): Total: 7, Poor: 0, Percentage: 0.00%
+Orangeville (Town): Total: 7, Poor: 1, Percentage: 14.29%
+Perry (Town): Total: 2, Poor: 0, Percentage: 0.00%
+Pike (Town): Total: 11, Poor: 3, Percentage: 27.27%
+Sheldon (Town): Total: 14, Poor: 1, Percentage: 7.14%
+Warsaw (Town): Total: 7, Poor: 1, Percentage: 14.29%
+Warsaw (Village): Total: 10, Poor: 0, Percentage: 0.00%
+Wethersfield (Town): Total: 4, Poor: 0, Percentage: 0.00%
+Wyoming (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Barrington (Town): Total: 7, Poor: 1, Percentage: 14.29%
+Benton (Town): Total: 4, Poor: 0, Percentage: 0.00%
+Dresden (Village): Total: 2, Poor: 0, Percentage: 0.00%
+Dundee (Village): Total: 1, Poor: 0, Percentage: 0.00%
+Italy (Town): Total: 5, Poor: 0, Percentage: 0.00%
+Jerusalem (Town): Total: 5, Poor: 0, Percentage: 0.00%
+Middlesex (Town): Total: 8, Poor: 1, Percentage: 12.50%
+Milo (Town): Total: 5, Poor: 0, Percentage: 0.00%
+Penn Yan (Village): Total: 4, Poor: 0, Percentage: 0.00%
+Potter (Town): Total: 6, Poor: 0, Percentage: 0.00%
+Starkey (Town): Total: 5, Poor: 0, Percentage: 0.00%
+Torrey (Town): Total: 1, Poor: 0, Percentage: 0.00%
