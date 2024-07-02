@@ -1,0 +1,69 @@
+percentage of poor condition bridges relative to total
+comparisons of year built to condition
+geolocation of bridges and conditions based on county/city
+last inspection date comparisons
+relative list of owners and the status of their bridges
+
+1. Temporal analysis of inspections:
+   - Frequency of inspections by owner or region
+   - Average time between inspections
+   - Correlation between inspection frequency and bridge condition
+
+2. Age analysis:
+   - Distribution of bridge ages
+   - Correlation between age and poor status
+   - Identification of the oldest bridges still in good condition
+
+3. Owner performance:
+   - Comparison of bridge conditions across different owners
+   - Average age of bridges by owner
+   - Percentage of poor condition bridges by owner
+
+4. Regional comparisons:
+   - Bridge density by county or municipality
+   - Comparison of bridge conditions across different regions
+   - Identification of regions with the oldest or newest bridge infrastructure
+
+5. Feature analysis:
+   - Most common features carried or crossed by bridges
+   - Correlation between feature type and bridge condition
+
+6. Historical trends:
+   - Bridge construction patterns over time
+   - Changes in bridge design or materials based on construction year
+
+7. Maintenance patterns:
+   - Correlation between year built/replaced and inspection frequency
+   - Identification of bridges overdue for inspection
+
+8. Critical infrastructure:
+   - Identification of bridges on major routes or crossing significant features
+   - Analysis of condition for these critical bridges
+
+9. Material analysis (if data is available):
+   - Comparison of bridge conditions based on construction materials
+   - Longevity of different bridge materials
+
+10. Environmental impact:
+    - Correlation between bridge condition and proximity to water bodies
+    - Analysis of bridges crossing environmentally sensitive areas
+
+11. Traffic impact (if data is available):
+    - Correlation between bridge condition and traffic volume
+    - Identification of high-traffic bridges in poor condition
+
+12. Budget allocation analysis:
+    - Estimation of required maintenance based on age and condition
+    - Prioritization of bridges for repair or replacement
+
+13. Predictive modeling:
+    - Development of models to predict future bridge conditions based on current data
+
+These analyses can provide valuable insights into the state of bridge infrastructure, help prioritize maintenance and replacement efforts, and inform policy decisions regarding infrastructure investment.
+
+Citations:
+[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/11084046/4739702b-47aa-4f29-a3e1-6060f4333667/Bridge_Conditions__NYS_Department_of_Transportation_20240702.csv
+
+Additional Data Sets to Exp;ore: 
+https://data.ny.gov/Transportation/Traffic-Counts-for-Select-Bridges-Beginning-1933/5qpa-id23/about_data
+
