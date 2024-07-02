@@ -29,33 +29,42 @@ def create_stacked_bar_chart(json_file):
         'Poor Status': lambda x: (x == 'Y').sum()
     }).reset_index()
     county_data['Good Condition'] = county_data['BIN'] - county_data['Poor Status']
-    county_data['Good Ratio'] = county_data['Good Condition'] / county_data['BIN']
 
     # Sort by total number of bridges
     county_data = county_data.sort_values('BIN', ascending=False)
 
+    # Create the figure with two subplots
+    fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(20, 10), gridspec_kw={'width_ratios': [3, 1]})
+
     # Create the stacked bar chart
-    fig, ax = plt.subplots(figsize=(15, 10))
-    bars_good = ax.bar(county_data['County'], county_data['Good Condition'], label='Good Condition')
-    bars_poor = ax.bar(county_data['County'], county_data['Poor Status'], bottom=county_data['Good Condition'], label='Poor Condition')
+    bars_good = ax1.bar(county_data['County'], county_data['Good Condition'], label='Good Condition')
+    bars_poor = ax1.bar(county_data['County'], county_data['Poor Status'], bottom=county_data['Good Condition'], label='Poor Condition')
 
     # Customize the plot
-    ax.set_xlabel('County', fontsize=12)
-    ax.set_ylabel('Number of Bridges', fontsize=12)
-    ax.set_title('Bridge Conditions by County in New York State', fontsize=16)
-    plt.xticks(rotation=90, ha='right')
+    ax1.set_xlabel('County', fontsize=12)
+    ax1.set_ylabel('Number of Bridges', fontsize=12)
+    ax1.set_title('Bridge Conditions by County in New York State', fontsize=16)
+    ax1.legend(loc='upper right')
+    plt.setp(ax1.get_xticklabels(), rotation=90, ha='right')
 
-    # Create legend with good condition ratios
-    legend_labels = [f"{county}: {good_ratio:.2f}" for county, good_ratio in zip(county_data['County'], county_data['Good Ratio'])]
-    ax.legend(bars_good, legend_labels, title='Good Condition Ratio', loc='upper right', bbox_to_anchor=(1.25, 1), fontsize=8)
+    # Create the chart with good condition ratios
+    ratio_data = county_data.sort_values('Good Condition', ascending=True).tail(20)  # Top 20 counties
+    ax2.barh(ratio_data['County'], ratio_data['Good Condition'] / ratio_data['BIN'])
+    ax2.set_xlim(0, 1)
+    ax2.set_title('Ratio of Bridges in Good Condition', fontsize=14)
+    ax2.set_xlabel('Ratio', fontsize=12)
+
+    # Add text labels to the ratio bars
+    for i, (county, good, total) in enumerate(zip(ratio_data['County'], ratio_data['Good Condition'], ratio_data['BIN'])):
+        ax2.text(good/total, i, f'{county} {good}/{total}', va='center', fontsize=8)
 
     # Adjust layout and save
     plt.tight_layout()
-    output_path = os.path.join(output_dir, 'bridge_condition_stacked_bar_with_legend.png')
+    output_path = os.path.join(output_dir, 'bridge_condition_stacked_bar_with_ratio_chart.png')
     plt.savefig(output_path, dpi=300, bbox_inches='tight')
     plt.close()
 
-    print(f"Stacked bar chart saved as: {output_path}")
+    print(f"Stacked bar chart with ratio chart saved as: {output_path}")
 
 # Run the function
 if __name__ == "__main__":
