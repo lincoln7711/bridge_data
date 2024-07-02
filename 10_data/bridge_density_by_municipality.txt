@@ -1,0 +1,1449 @@
+Bridge Density by Municipality:
+County, Municipality, Number of Bridges
+Queens, New York (City), 477
+Bronx, New York (City), 315
+New York, New York (City), 243
+Kings, New York (City), 236
+Richmond, New York (City), 157
+Nassau, Hempstead (Town), 145
+Erie, Buffalo (City), 142
+Albany, Albany (City), 122
+Onondaga, Syracuse (City), 118
+Suffolk, Islip (Town), 100
+Westchester, Yonkers (City), 100
+Monroe, Rochester (City), 97
+Suffolk, Brookhaven (Town), 91
+Erie, Amherst (Town), 90
+Delaware, Hancock (Town), 75
+Monroe, Greece (Town), 73
+Nassau, Oyster Bay (Town), 70
+Ulster, Shandaken (Town), 65
+Oneida, Utica (City), 61
+Sullivan, Rockland (Town), 61
+Rensselaer, Schodack (Town), 60
+Delaware, Colchester (Town), 58
+Monroe, Brighton (Town), 58
+Rockland, Clarkstown (Town), 57
+Erie, Cheektowaga (Town), 56
+Erie, Orchard Park (Town), 55
+Niagara, Niagara Falls (City), 55
+Rockland, Orangetown (Town), 55
+Sullivan, Liberty (Town), 54
+Monroe, Gates (Town), 53
+Westchester, Mount Pleasant (Town), 53
+Broome, Kirkwood (Town), 51
+Oneida, Rome (City), 50
+Broome, Vestal (Town), 49
+Onondaga, De Witt (Town), 49
+Orange, Wallkill (Town), 49
+Steuben, Avoca (Town), 49
+Steuben, Bath (Town), 49
+Oneida, Verona (Town), 47
+Schenectady, Rotterdam (Town), 47
+Erie, West Seneca (Town), 46
+Westchester, White Plains (City), 46
+Westchester, Greenburgh (Town), 45
+Broome, Colesville (Town), 44
+Columbia, Chatham (Town), 44
+Jefferson, Ellisburg (Town), 43
+Orange, Newburgh (Town), 43
+Steuben, Campbell (Town), 42
+Westchester, Bedford (Town), 42
+Delaware, Middletown (Town), 40
+Tioga, Owego (Town), 40
+Chemung, Chemung (Town), 39
+Westchester, Harrison (Village), 38
+Chemung, Big Flats (Town), 37
+Dutchess, East Fishkill (Town), 37
+Essex, Keene (Town), 37
+Putnam, Southeast (Town), 37
+Suffolk, Babylon (Town), 37
+Sullivan, Neversink (Town), 37
+Westchester, Yorktown (Town), 37
+Erie, Hamburg (Town), 36
+Steuben, Hornellsville (Town), 36
+Westchester, Mount Vernon (City), 36
+Albany, Colonie (Town), 35
+Steuben, Erwin (Town), 35
+Sullivan, Thompson (Town), 35
+Broome, Binghamton (City), 34
+Broome, Union (Town), 34
+Chautauqua, Ellery (Town), 34
+Warren, Johnsburg (Town), 34
+Broome, Windsor (Town), 33
+Erie, Evans (Town), 33
+Greene, Catskill (Town), 33
+Ulster, Rochester (Town), 33
+Dutchess, Poughkeepsie (City), 32
+Erie, Lancaster (Town), 32
+Monroe, Henrietta (Town), 32
+Montgomery, Amsterdam (City), 32
+Orleans, Carlton (Town), 32
+Ulster, Wawarsing (Town), 32
+Westchester, Rye (City), 32
+Albany, Bethlehem (Town), 31
+Broome, Chenango (Town), 31
+Chautauqua, Poland (Town), 31
+Erie, Tonawanda (Town), 31
+Madison, Sullivan (Town), 31
+Onondaga, Geddes (Town), 31
+Tioga, Nichols (Town), 31
+Chautauqua, Hanover (Town), 30
+Chemung, Horseheads (Town), 30
+Erie, Clarence (Town), 30
+Monroe, Chili (Town), 30
+Orange, Wawayanda (Town), 30
+Suffolk, Huntington (Town), 30
+Sullivan, Mamakating (Town), 30
+Tompkins, Ithaca (City), 30
+Cattaraugus, Hinsdale (Town), 29
+Chautauqua, Ellicott (Town), 29
+Greene, Hunter (Town), 29
+Herkimer, Frankfort (Town), 29
+Onondaga, Manlius (Town), 29
+Ulster, Ulster (Town), 29
+Chautauqua, North Harmony (Town), 28
+Delaware, Sidney (Town), 28
+Schuyler, Hector (Town), 28
+Steuben, Lindley (Town), 28
+Suffolk, Smithtown (Town), 28
+Suffolk, Southampton (Town), 28
+Tioga, Barton (Town), 28
+Ulster, Woodstock (Town), 28
+Albany, Guilderland (Town), 27
+Cattaraugus, Allegany (Town), 27
+Erie, Concord (Town), 27
+Westchester, New Rochelle (City), 27
+Cortland, Cortlandville (Town), 26
+Erie, Elma (Town), 26
+Monroe, Webster (Town), 26
+Oneida, Marcy (Town), 26
+Onondaga, Salina (Town), 26
+Ulster, Saugerties (Town), 26
+Broome, Sanford (Town), 25
+Cattaraugus, Coldspring (Town), 25
+Herkimer, Schuyler (Town), 25
+Niagara, Porter (Town), 25
+Oneida, Trenton (Town), 25
+Orange, Deerpark (Town), 25
+Schoharie, Richmondville (Town), 25
+St Lawrence, Stockholm (Town), 25
+Tompkins, Dryden (Town), 25
+Albany, Rensselaerville (Town), 24
+Chautauqua, Pomfret (Town), 24
+Chautauqua, Stockton (Town), 24
+Chemung, Southport (Town), 24
+Chenango, Greene (Town), 24
+Clinton, Mooers (Town), 24
+Clinton, Plattsburgh (Town), 24
+Dutchess, La Grange (Town), 24
+Erie, Aurora (Town), 24
+Essex, Lewis (Town), 24
+Greene, Durham (Town), 24
+Monroe, Hamlin (Town), 24
+Monroe, Perinton (Town), 24
+Montgomery, Minden (Town), 24
+Niagara, Lewiston (Town), 24
+Ontario, Phelps (Town), 24
+Orange, Blooming Grove (Town), 24
+Orange, Woodbury (Town), 24
+Otsego, Worcester (Town), 24
+Steuben, Canisteo (Town), 24
+St Lawrence, Potsdam (Town), 24
+Westchester, Cortlandt (Town), 24
+Westchester, Mamaroneck (Village), 24
+Chautauqua, Ellington (Town), 23
+Columbia, Claverack (Town), 23
+Niagara, Royalton (Town), 23
+Oneida, Boonville (Town), 23
+Onondaga, Cicero (Town), 23
+Ontario, Victor (Town), 23
+Orange, Montgomery (Town), 23
+Orange, Warwick (Town), 23
+Queens, , 23
+Sullivan, Fallsburg (Town), 23
+Tioga, Candor (Town), 23
+Albany, Coeymans (Town), 22
+Cattaraugus, Leon (Town), 22
+Chautauqua, Busti (Town), 22
+Chautauqua, Chautauqua (Town), 22
+Chautauqua, Portland (Town), 22
+Chemung, Veteran (Town), 22
+Greene, Cairo (Town), 22
+Greene, Lexington (Town), 22
+Oswego, Hastings (Town), 22
+Rockland, Ramapo (Town), 22
+Rockland, Stony Point (Town), 22
+Saratoga, , 22
+Schenectady, Duanesburg (Town), 22
+Ulster, Hardenburgh (Town), 22
+Cattaraugus, Freedom (Town), 21
+Chenango, Norwich (Town), 21
+Erie, Newstead (Town), 21
+Essex, Elizabethtown (Town), 21
+Essex, Schroon (Town), 21
+Franklin, Moira (Town), 21
+Genesee, Pembroke (Town), 21
+Monroe, Irondequoit (Town), 21
+Monroe, Parma (Town), 21
+Onondaga, Clay (Town), 21
+Onondaga, Van Buren (Town), 21
+Orange, Cornwall (Town), 21
+Tompkins, Newfield (Town), 21
+Ulster, Denning (Town), 21
+Ulster, Shawangunk (Town), 21
+Washington, White Creek (Town), 21
+Cattaraugus, Randolph (Town), 20
+Cattaraugus, Red House (Town), 20
+Chautauqua, Sherman (Town), 20
+Clinton, Chazy (Town), 20
+Columbia, Copake (Town), 20
+Delaware, Delhi (Town), 20
+Erie, Grand Island (Town), 20
+Essex, North Hudson (Town), 20
+Herkimer, Ohio (Town), 20
+Livingston, Groveland (Town), 20
+Montgomery, Root (Town), 20
+Oneida, New Hartford (Town), 20
+Oneida, Westmoreland (Town), 20
+Oswego, Mexico (Town), 20
+Otsego, Oneonta (Town), 20
+Saratoga, Malta (Town), 20
+Steuben, Corning (Town), 20
+Steuben, Hartsville (Town), 20
+Steuben, Hornell (City), 20
+Sullivan, Delaware (Town), 20
+Westchester, Elmsford (Village), 20
+Allegany, Almond (Town), 19
+Allegany, Cuba (Town), 19
+Allegany, Friendship (Town), 19
+Allegany, Scio (Town), 19
+Broome, Johnson City (Village), 19
+Cattaraugus, Conewango (Town), 19
+Chenango, Sherburne (Town), 19
+Clinton, Peru (Town), 19
+Columbia, Canaan (Town), 19
+Cortland, Homer (Town), 19
+Dutchess, Fishkill (Town), 19
+Genesee, Alexander (Town), 19
+Greene, Coxsackie (Town), 19
+Jefferson, Orleans (Town), 19
+Jefferson, Pamelia (Town), 19
+Jefferson, Rodman (Town), 19
+Montgomery, Florida (Town), 19
+Montgomery, Glen (Town), 19
+Niagara, Lockport (Town), 19
+Onondaga, Lafayette (Town), 19
+Orleans, Ridgeway (Town), 19
+Oswego, Richland (Town), 19
+Steuben, Greenwood (Town), 19
+St Lawrence, Canton (Town), 19
+Tioga, Tioga (Town), 19
+Washington, Fort Ann (Town), 19
+Washington, Salem (Town), 19
+Cattaraugus, Ashford (Town), 18
+Cayuga, Brutus (Town), 18
+Clinton, Champlain (Town), 18
+Clinton, Saranac (Town), 18
+Columbia, New Lebanon (Town), 18
+Delaware, Kortright (Town), 18
+Delaware, Roxbury (Town), 18
+Delaware, Tompkins (Town), 18
+Dutchess, Red Hook (Town), 18
+Erie, Alden (Town), 18
+Erie, Boston (Town), 18
+Greene, Windham (Town), 18
+Montgomery, Canajoharie (Town), 18
+Nassau, Westbury (Village), 18
+Niagara, Wheatfield (Town), 18
+Onondaga, Camillus (Town), 18
+Orleans, Kendall (Town), 18
+Orleans, Murray (Town), 18
+Otsego, Otego (Town), 18
+Rensselaer, Pittstown (Town), 18
+Rensselaer, Rensselaer (City), 18
+Rensselaer, Stephentown (Town), 18
+Seneca, Tyre (Town), 18
+Steuben, Cohocton (Town), 18
+Steuben, Jasper (Town), 18
+Sullivan, Callicoon (Town), 18
+Tompkins, Caroline (Town), 18
+Tompkins, Ithaca (Town), 18
+Warren, Chester (Town), 18
+Westchester, North Castle (Town), 18
+Allegany, Angelica (Town), 17
+Allegany, Hume (Town), 17
+Broome, Fenton (Town), 17
+Broome, Maine (Town), 17
+Cattaraugus, Ellicottville (Town), 17
+Cattaraugus, Franklinville (Town), 17
+Chautauqua, Carroll (Town), 17
+Chautauqua, Westfield (Town), 17
+Chemung, Catlin (Town), 17
+Chemung, Van Etten (Town), 17
+Chenango, Bainbridge (Town), 17
+Columbia, Hillsdale (Town), 17
+Cortland, Virgil (Town), 17
+Delaware, Andes (Town), 17
+Delaware, Davenport (Town), 17
+Delaware, Walton (Town), 17
+Dutchess, Clinton (Town), 17
+Dutchess, Hyde Park (Town), 17
+Erie, Lackawanna (City), 17
+Essex, Chesterfield (Town), 17
+Franklin, Fort Covington (Town), 17
+Franklin, Malone (Town), 17
+Genesee, Stafford (Town), 17
+Herkimer, Danube (Town), 17
+Jefferson, Alexandria (Town), 17
+Monroe, Pittsford (Town), 17
+Nassau, North Hempstead (Town), 17
+Niagara, Hartland (Town), 17
+Onondaga, Elbridge (Town), 17
+Ontario, Manchester (Town), 17
+Otsego, Milford (Town), 17
+Putnam, Kent (Town), 17
+Saratoga, Clifton Park (Town), 17
+Steuben, Fremont (Town), 17
+St Lawrence, Fowler (Town), 17
+Tompkins, Groton (Town), 17
+Albany, Berne (Town), 16
+Allegany, Amity (Town), 16
+Allegany, Rushford (Town), 16
+Allegany, Willing (Town), 16
+Cattaraugus, Carrollton (Town), 16
+Cayuga, Auburn (City), 16
+Chautauqua, Jamestown (City), 16
+Chenango, Afton (Town), 16
+Columbia, Austerlitz (Town), 16
+Cortland, Truxton (Town), 16
+Delaware, Franklin (Town), 16
+Dutchess, Dover (Town), 16
+Franklin, Franklin (Town), 16
+Hamilton, Indian Lake (Town), 16
+Lewis, Croghan (Town), 16
+Livingston, North Dansville (Town), 16
+Livingston, West Sparta (Town), 16
+Madison, Oneida (City), 16
+Monroe, Rush (Town), 16
+Oneida, Annsville (Town), 16
+Oneida, Western (Town), 16
+Rensselaer, Hoosick (Town), 16
+Rensselaer, Petersburg (Town), 16
+Rensselaer, Troy (City), 16
+Schoharie, Fulton (Town), 16
+Steuben, Troupsburg (Town), 16
+Steuben, Wheeler (Town), 16
+Steuben, Woodhull (Town), 16
+St Lawrence, Lawrence (Town), 16
+Tioga, Spencer (Town), 16
+Tioga, Waverly (Village), 16
+Tompkins, Ulysses (Town), 16
+Warren, Queensbury (Town), 16
+Westchester, North Salem (Town), 16
+Albany, New Scotland (Town), 15
+Allegany, Andover (Town), 15
+Broome, Barker (Town), 15
+Cattaraugus, Olean (City), 15
+Chautauqua, Clymer (Town), 15
+Delaware, Stamford (Town), 15
+Erie, Collins (Town), 15
+Herkimer, German Flatts (Town), 15
+Jefferson, Watertown (Town), 15
+Lewis, Martinsburg (Town), 15
+Monroe, Clarkson (Town), 15
+Niagara, Somerset (Town), 15
+Onondaga, Marcellus (Town), 15
+Orange, Crawford (Town), 15
+Orange, Minisink (Town), 15
+Oswego, Schroeppel (Town), 15
+Rensselaer, Poestenkill (Town), 15
+Schenectady, Schenectady (City), 15
+Tompkins, Lansing (Town), 15
+Westchester, Somers (Town), 15
+Wyoming, Bennington (Town), 15
+Allegany, Belfast (Town), 14
+Broome, Conklin (Town), 14
+Broome, Lisle (Town), 14
+Chautauqua, Mina (Town), 14
+Chautauqua, Sheridan (Town), 14
+Chemung, Elmira (City), 14
+Chenango, Oxford (Town), 14
+Chenango, Smithville (Town), 14
+Delaware, Deposit (Town), 14
+Dutchess, Amenia (Town), 14
+Erie, Eden (Town), 14
+Genesee, Batavia (Town), 14
+Genesee, Bethany (Town), 14
+Hamilton, Wells (Town), 14
+Herkimer, Salisbury (Town), 14
+Lewis, Lowville (Town), 14
+Lewis, West Turin (Town), 14
+Livingston, Avon (Town), 14
+Madison, Lebanon (Town), 14
+Monroe, Mendon (Town), 14
+Monroe, Ogden (Town), 14
+Monroe, Wheatland (Town), 14
+Otsego, Maryland (Town), 14
+Putnam, Philipstown (Town), 14
+Rensselaer, East Greenbush (Town), 14
+Saratoga, Wilton (Town), 14
+Schenectady, Princetown (Town), 14
+Schoharie, Broome (Town), 14
+Steuben, Corning (City), 14
+Steuben, Prattsburg (Town), 14
+Suffolk, Riverhead (Town), 14
+Ulster, Olive (Town), 14
+Wyoming, Sheldon (Town), 14
+Allegany, Burns (Town), 13
+Allegany, Independence (Town), 13
+Allegany, Ward (Town), 13
+Allegany, Wellsville (Town), 13
+Cattaraugus, East Otto (Town), 13
+Cattaraugus, Great Valley (Town), 13
+Cattaraugus, Humphrey (Town), 13
+Cattaraugus, Ischua (Town), 13
+Cattaraugus, New Albion (Town), 13
+Chautauqua, Charlotte (Town), 13
+Chautauqua, Harmony (Town), 13
+Chautauqua, Villenova (Town), 13
+Chemung, Horseheads (Village), 13
+Columbia, Ghent (Town), 13
+Cortland, Cortland (City), 13
+Delaware, Meredith (Town), 13
+Dutchess, Poughkeepsie (Town), 13
+Dutchess, Stanford (Town), 13
+Dutchess, Wappinger (Town), 13
+Erie, Brant (Town), 13
+Erie, Sardinia (Town), 13
+Erie, Wales (Town), 13
+Essex, Minerva (Town), 13
+Hamilton, Arietta (Town), 13
+Jefferson, Hounsfield (Town), 13
+Livingston, York (Town), 13
+Madison, Deruyter (Town), 13
+Monroe, Penfield (Town), 13
+Niagara, Wilson (Town), 13
+Oneida, Deerfield (Town), 13
+Orange, New Windsor (Town), 13
+Orange, Tuxedo (Town), 13
+Otsego, Exeter (Town), 13
+Otsego, Hartwick (Town), 13
+Putnam, Patterson (Town), 13
+Rensselaer, Sand Lake (Town), 13
+Rensselaer, Schaghticoke (Town), 13
+Rockland, Haverstraw (Town), 13
+Saratoga, Providence (Town), 13
+Steuben, Howard (Town), 13
+Steuben, Rathbone (Town), 13
+Sullivan, Fremont (Town), 13
+Sullivan, Highland (Town), 13
+Warren, Lake George (Town), 13
+Washington, Granville (Town), 13
+Westchester, Peekskill (City), 13
+Westchester, Scarsdale (Village), 13
+Albany, Westerlo (Town), 12
+Allegany, West Almond (Town), 12
+Broome, Binghamton (Town), 12
+Cattaraugus, Mansfield (Town), 12
+Cayuga, Locke (Town), 12
+Cayuga, Sterling (Town), 12
+Chenango, Pitcher (Town), 12
+Clinton, Ellenburg (Town), 12
+Clinton, Schuyler Falls (Town), 12
+Columbia, Gallatin (Town), 12
+Cortland, Preble (Town), 12
+Delaware, Bovina (Town), 12
+Dutchess, Milan (Town), 12
+Erie, Tonawanda (City), 12
+Franklin, Bangor (Town), 12
+Franklin, Constable (Town), 12
+Greene, Jewett (Town), 12
+Greene, New Baltimore (Town), 12
+Hamilton, Long Lake (Town), 12
+Jefferson, Rutland (Town), 12
+Madison, Canastota (Village), 12
+Nassau, Old Westbury (Village), 12
+Niagara, Newfane (Town), 12
+Niagara, Pendleton (Town), 12
+Oneida, Camden (Town), 12
+Oneida, Forestport (Town), 12
+Oneida, Lee (Town), 12
+Orange, Hamptonburgh (Town), 12
+Oswego, Oswego (Town), 12
+Otsego, Unadilla (Town), 12
+Rockland, Chestnut Ridge (Village), 12
+Schoharie, Cobleskill (Village), 12
+Schoharie, Schoharie (Town), 12
+Schuyler, Cayuta (Town), 12
+St Lawrence, Brasher (Town), 12
+St Lawrence, Colton (Town), 12
+St Lawrence, Russell (Town), 12
+St Lawrence, Waddington (Town), 12
+Sullivan, Forestburgh (Town), 12
+Ulster, Gardiner (Town), 12
+Ulster, Rosendale (Town), 12
+Washington, Easton (Town), 12
+Westchester, Briarcliff Manor (Village), 12
+Westchester, Eastchester (Town), 12
+Westchester, Mamaroneck (Town), 12
+Cattaraugus, Olean (Town), 11
+Cattaraugus, Portville (Town), 11
+Chautauqua, French Creek (Town), 11
+Chemung, Erin (Town), 11
+Chenango, Smyrna (Town), 11
+Columbia, Taghkanic (Town), 11
+Cortland, Harford (Town), 11
+Cortland, Homer (Village), 11
+Dutchess, Beekman (Town), 11
+Dutchess, Pleasant Valley (Town), 11
+Erie, Holland (Town), 11
+Erie, Marilla (Town), 11
+Essex, Crown Point (Town), 11
+Franklin, Bellmont (Town), 11
+Fulton, Stratford (Town), 11
+Genesee, Byron (Town), 11
+Genesee, Darien (Town), 11
+Jefferson, Adams (Town), 11
+Jefferson, Le Ray (Town), 11
+Livingston, Leicester (Town), 11
+Madison, Hamilton (Town), 11
+Monroe, Riga (Town), 11
+Montgomery, Amsterdam (Town), 11
+Onondaga, Onondaga (Town), 11
+Onondaga, Pompey (Town), 11
+Ontario, Canandaigua (City), 11
+Ontario, Seneca (Town), 11
+Orange, Chester (Village), 11
+Orange, Goshen (Town), 11
+Orange, Greenville (Town), 11
+Oswego, Hannibal (Town), 11
+Oswego, Parish (Town), 11
+Otsego, Oneonta (City), 11
+Otsego, Otsego (Town), 11
+Putnam, Putnam Valley (Town), 11
+Rensselaer, Brunswick (Town), 11
+Rensselaer, Nassau (Town), 11
+Rockland, Sloatsburg (Village), 11
+Saratoga, Ballston (Town), 11
+Saratoga, Moreau (Town), 11
+Steuben, Riverside (Village), 11
+Steuben, Wayland (Town), 11
+St Lawrence, De Kalb (Town), 11
+Suffolk, Southold (Town), 11
+Tioga, Newark Valley (Town), 11
+Ulster, Esopus (Town), 11
+Ulster, Marbletown (Town), 11
+Warren, Stony Creek (Town), 11
+Washington, Fort Edward (Town), 11
+Washington, Hebron (Town), 11
+Washington, Kingsbury (Town), 11
+Wayne, Macedon (Town), 11
+Wayne, Sodus (Town), 11
+Westchester, New Castle (Town), 11
+Wyoming, Pike (Town), 11
+Allegany, Birdsall (Town), 10
+Allegany, Caneadea (Town), 10
+Allegany, Cuba (Village), 10
+Broome, Triangle (Town), 10
+Cattaraugus, Farmersville (Town), 10
+Cattaraugus, Little Valley (Town), 10
+Cattaraugus, Salamanca (City), 10
+Chautauqua, Kiantone (Town), 10
+Chautauqua, Ripley (Town), 10
+Chenango, Guilford (Town), 10
+Chenango, Plymouth (Town), 10
+Clinton, Altona (Town), 10
+Clinton, Au Sable (Town), 10
+Columbia, Livingston (Town), 10
+Dutchess, North East (Town), 10
+Dutchess, Rhinebeck (Town), 10
+Erie, North Collins (Town), 10
+Fulton, Broadalbin (Town), 10
+Fulton, Johnstown (City), 10
+Fulton, Johnstown (Town), 10
+Genesee, Alabama (Town), 10
+Herkimer, Herkimer (Town), 10
+Herkimer, Manheim (Town), 10
+Herkimer, Russia (Town), 10
+Herkimer, Webb (Town), 10
+Jefferson, Watertown (City), 10
+Lewis, Greig (Town), 10
+Lewis, Leyden (Town), 10
+Madison, Lenox (Town), 10
+Oneida, Paris (Town), 10
+Onondaga, Skaneateles (Town), 10
+Ontario, Farmington (Town), 10
+Orange, Highlands (Town), 10
+Orange, Mount Hope (Town), 10
+Orleans, Gaines (Town), 10
+Oswego, New Haven (Town), 10
+Otsego, Laurens (Town), 10
+Otsego, Middlefield (Town), 10
+Rensselaer, Berlin (Town), 10
+Saratoga, Milton (Town), 10
+Schenectady, Glenville (Town), 10
+Schoharie, Cobleskill (Town), 10
+Schoharie, Conesville (Town), 10
+Schoharie, Middleburgh (Town), 10
+Schuyler, Montour Falls (Village), 10
+Schuyler, Orange (Town), 10
+Steuben, Hornby (Town), 10
+St Lawrence, Norfolk (Town), 10
+St Lawrence, Oswegatchie (Town), 10
+Tompkins, Enfield (Town), 10
+Ulster, Kingston (City), 10
+Ulster, Lloyd (Town), 10
+Wyoming, Eagle (Town), 10
+Wyoming, Warsaw (Village), 10
+Allegany, Alfred (Town), 9
+Allegany, Angelica (Village), 9
+Allegany, Centerville (Town), 9
+Broome, Whitney Point (Village), 9
+Cattaraugus, Yorkshire (Town), 9
+Cayuga, Genoa (Town), 9
+Cayuga, Mentz (Town), 9
+Chenango, New Berlin (Town), 9
+Chenango, North Norwich (Town), 9
+Cortland, Cincinnatus (Town), 9
+Cortland, Cuyler (Town), 9
+Cortland, Marathon (Town), 9
+Cortland, Willet (Town), 9
+Dutchess, Pawling (Town), 9
+Erie, Colden (Town), 9
+Erie, Depew (Village), 9
+Essex, Newcomb (Town), 9
+Essex, Ticonderoga (Town), 9
+Essex, Westport (Town), 9
+Essex, , 9
+Franklin, Chateaugay (Town), 9
+Fulton, Gloversville (City), 9
+Fulton, Oppenheim (Town), 9
+Genesee, Bergen (Town), 9
+Genesee, Le Roy (Town), 9
+Herkimer, Ilion (Village), 9
+Herkimer, Stark (Town), 9
+Jefferson, Adams (Village), 9
+Jefferson, Lorraine (Town), 9
+Livingston, Geneseo (Town), 9
+Montgomery, Palatine (Town), 9
+Montgomery, St. Johnsville (Town), 9
+Nassau, East Hills (Village), 9
+Niagara, Lockport (City), 9
+Niagara, Niagara (Town), 9
+Oneida, Kirkland (Town), 9
+Oneida, Marshall (Town), 9
+Oneida, Remsen (Town), 9
+Oneida, Whitestown (Town), 9
+Ontario, Bristol (Town), 9
+Ontario, Richmond (Town), 9
+Orange, Chester (Town), 9
+Orleans, Yates (Town), 9
+Oswego, Redfield (Town), 9
+Oswego, Sandy Creek (Town), 9
+Oswego, Volney (Town), 9
+Otsego, Burlington (Town), 9
+Otsego, New Lisbon (Town), 9
+Richmond, , 9
+Rockland, Hillburn (Village), 9
+Rockland, Suffern (Village), 9
+Saratoga, Greenfield (Town), 9
+Saratoga, Saratoga (Town), 9
+Schoharie, Richmondville (Village), 9
+Schoharie, Wright (Town), 9
+Schuyler, Catharine (Town), 9
+Steuben, Bath (Village), 9
+Steuben, Bradford (Town), 9
+Steuben, Tuscarora (Town), 9
+Steuben, Urbana (Town), 9
+Steuben, West Union (Town), 9
+St Lawrence, Fine (Town), 9
+St Lawrence, Rossie (Town), 9
+Sullivan, Bethel (Town), 9
+Sullivan, Tusten (Town), 9
+Tioga, Berkshire (Town), 9
+Ulster, Ellenville (Village), 9
+Wayne, Palmyra (Town), 9
+Wyoming, Java (Town), 9
+Albany, Menands (Village), 8
+Allegany, Genesee (Town), 8
+Allegany, Wellsville (Village), 8
+Cattaraugus, Machias (Town), 8
+Cattaraugus, Otto (Town), 8
+Cayuga, Throop (Town), 8
+Chautauqua, Cherry Creek (Town), 8
+Chautauqua, Dunkirk (Town), 8
+Chautauqua, Falconer (Village), 8
+Chenango, Mcdonough (Town), 8
+Chenango, Otselic (Town), 8
+Delaware, Hamden (Town), 8
+Delaware, Walton (Village), 8
+Dutchess, Union Vale (Town), 8
+Dutchess, Washington (Town), 8
+Essex, Moriah (Town), 8
+Franklin, Bombay (Town), 8
+Franklin, Westville (Town), 8
+Genesee, Oakfield (Town), 8
+Herkimer, Herkimer (Village), 8
+Herkimer, Newport (Town), 8
+Lewis, Diana (Town), 8
+Lewis, Lyonsdale (Town), 8
+Livingston, Livonia (Town), 8
+Livingston, Ossian (Town), 8
+Livingston, Portage (Town), 8
+Monroe, Fairport (Village), 8
+Montgomery, Canajoharie (Village), 8
+Nassau, Valley Stream (Village), 8
+Oneida, Vernon (Town), 8
+Oneida, Vienna (Town), 8
+Ontario, Canandaigua (Town), 8
+Ontario, East Bloomfield (Town), 8
+Orange, Newburgh (City), 8
+Orange, Port Jervis (City), 8
+Orleans, Albion (Town), 8
+Oswego, Constantia (Town), 8
+Oswego, Granby (Town), 8
+Oswego, Oswego (City), 8
+Oswego, Pulaski (Village), 8
+Oswego, West Monroe (Town), 8
+Otsego, Butternuts (Town), 8
+Otsego, Cherry Valley (Town), 8
+Otsego, Plainfield (Town), 8
+Putnam, Carmel (Town), 8
+Saratoga, Ballston Spa (Village), 8
+Saratoga, Day (Town), 8
+Saratoga, Halfmoon (Town), 8
+Saratoga, Waterford (Village), 8
+Schoharie, Blenheim (Town), 8
+Seneca, Ovid (Town), 8
+Steuben, Dansville (Town), 8
+St Lawrence, Madrid (Town), 8
+St Lawrence, Massena (Town), 8
+St Lawrence, Pitcairn (Town), 8
+Sullivan, , 8
+Tioga, Richford (Town), 8
+Tompkins, Dryden (Village), 8
+Ulster, New Paltz (Town), 8
+Warren, Bolton (Town), 8
+Warren, Horicon (Town), 8
+Warren, Warrensburg (Town), 8
+Westchester, Hastings-On-Hudson (Village), 8
+Westchester, Lewisboro (Town), 8
+Westchester, Mount Kisco (Village), 8
+Westchester, Ossining (Village), 8
+Yates, Middlesex (Town), 8
+Allegany, Andover (Village), 7
+Allegany, New Hudson (Town), 7
+Broome, Nanticoke (Town), 7
+Broome, Windsor (Village), 7
+Broome, , 7
+Cattaraugus, Gowanda (Village), 7
+Cattaraugus, Little Valley (Village), 7
+Cayuga, Montezuma (Town), 7
+Chautauqua, Gerry (Town), 7
+Chemung, Baldwin (Town), 7
+Chemung, Elmira (Town), 7
+Chenango, Coventry (Town), 7
+Chenango, Preston (Town), 7
+Clinton, Plattsburgh (City), 7
+Erie, Akron (Village), 7
+Essex, Jay (Town), 7
+Essex, North Elba (Town), 7
+Franklin, Santa Clara (Town), 7
+Fulton, Caroga (Town), 7
+Fulton, Ephratah (Town), 7
+Hamilton, Morehouse (Town), 7
+Herkimer, Winfield (Town), 7
+Jefferson, Brownville (Town), 7
+Jefferson, Clayton (Town), 7
+Jefferson, Henderson (Town), 7
+Jefferson, Philadelphia (Town), 7
+Lewis, Harrisburg (Town), 7
+Lewis, Lewis (Town), 7
+Lewis, Montague (Town), 7
+Lewis, Osceola (Town), 7
+Madison, Brookfield (Town), 7
+Madison, Cazenovia (Town), 7
+Madison, Eaton (Town), 7
+Montgomery, Fort Plain (Village), 7
+Montgomery, Mohawk (Town), 7
+Nassau, North Hills (Village), 7
+Onondaga, East Syracuse (Village), 7
+Ontario, Gorham (Town), 7
+Orange, Goshen (Village), 7
+Orange, Warwick (Village), 7
+Schoharie, Seward (Town), 7
+Schoharie, Sharon (Town), 7
+Schuyler, Montour (Town), 7
+Steuben, Cameron (Town), 7
+St Lawrence, Clare (Town), 7
+St Lawrence, Pierrepont (Town), 7
+Sullivan, Cochecton (Town), 7
+Washington, Whitehall (Town), 7
+Wayne, Arcadia (Town), 7
+Wayne, Lyons (Village), 7
+Wayne, Savannah (Town), 7
+Wayne, Wolcott (Town), 7
+Westchester, Croton-On-Hudson (Village), 7
+Westchester, Pelham Manor (Village), 7
+Westchester, Pleasantville (Village), 7
+Westchester, Port Chester (Village), 7
+Westchester, Rye Brook (Village), 7
+Wyoming, Middlebury (Town), 7
+Wyoming, Orangeville (Town), 7
+Wyoming, Warsaw (Town), 7
+Yates, Barrington (Town), 7
+Albany, Cohoes (City), 6
+Albany, Green Island (Village), 6
+Albany, Knox (Town), 6
+Allegany, Allen (Town), 6
+Allegany, Clarksville (Town), 6
+Allegany, Granger (Town), 6
+Allegany, Wirt (Town), 6
+Cattaraugus, Dayton (Town), 6
+Cattaraugus, Napoli (Town), 6
+Cattaraugus, South Valley (Town), 6
+Cayuga, Aurelius (Town), 6
+Cayuga, Moravia (Village), 6
+Cayuga, Summerhill (Town), 6
+Chautauqua, Arkwright (Town), 6
+Chautauqua, Sinclairville (Village), 6
+Chautauqua, Westfield (Village), 6
+Chenango, Sherburne (Village), 6
+Clinton, Black Brook (Town), 6
+Columbia, Ancram (Town), 6
+Columbia, Greenport (Town), 6
+Columbia, Stockport (Town), 6
+Cortland, Marathon (Village), 6
+Cortland, Solon (Town), 6
+Delaware, Hancock (Village), 6
+Delaware, Masonville (Town), 6
+Dutchess, Beacon (City), 6
+Erie, East Aurora (Village), 6
+Erie, Lancaster (Village), 6
+Essex, St. Armand (Town), 6
+Essex, Willsboro (Town), 6
+Essex, Wilmington (Town), 6
+Franklin, Burke (Town), 6
+Franklin, Saranac Lake (Village), 6
+Fulton, Mayfield (Town), 6
+Genesee, Elba (Town), 6
+Greene, Ashland (Town), 6
+Greene, Catskill (Village), 6
+Greene, Greenville (Town), 6
+Hamilton, Inlet (Town), 6
+Hamilton, Lake Pleasant (Town), 6
+Jefferson, Theresa (Town), 6
+Kings, , 6
+Lewis, Denmark (Town), 6
+Lewis, Lyons Falls (Village), 6
+Lewis, New Bremen (Town), 6
+Lewis, Pinckney (Town), 6
+Livingston, Mount Morris (Town), 6
+Madison, Georgetown (Town), 6
+Madison, Lincoln (Town), 6
+Madison, Smithfield (Town), 6
+Oneida, Camden (Village), 6
+Oneida, Floyd (Town), 6
+Oneida, Whitesboro (Village), 6
+Oneida, , 6
+Onondaga, Lysander (Town), 6
+Orange, Monroe (Town), 6
+Orleans, Medina (Village), 6
+Orleans, Shelby (Town), 6
+Oswego, Albion (Town), 6
+Otsego, Richfield Springs (Village), 6
+Otsego, Unadilla (Village), 6
+Rensselaer, East Nassau (Village), 6
+Rockland, Montebello (Village), 6
+Rockland, Spring Valley (Village), 6
+Saratoga, Charlton (Town), 6
+Saratoga, Edinburg (Town), 6
+Saratoga, Mechanicville (City), 6
+Saratoga, Stillwater (Town), 6
+Schuyler, Tyrone (Town), 6
+Seneca, Seneca Falls (Town), 6
+St Lawrence, Edwards (Town), 6
+St Lawrence, Gouverneur (Town), 6
+St Lawrence, Hammond (Town), 6
+St Lawrence, Hermon (Town), 6
+Tioga, Owego (Village), 6
+Warren, Thurman (Town), 6
+Washington, Cambridge (Town), 6
+Washington, Whitehall (Village), 6
+Westchester, Ossining (Town), 6
+Westchester, Sleepy Hollow (Village), 6
+Wyoming, Arcade (Village), 6
+Wyoming, Gainesville (Town), 6
+Yates, Potter (Town), 6
+Allegany, Almond (Village), 5
+Allegany, Belmont (Village), 5
+Allegany, Bolivar (Village), 5
+Allegany, Grove (Town), 5
+Broome, Dickinson (Town), 5
+Cayuga, Owasco (Town), 5
+Cayuga, Springport (Town), 5
+Chautauqua, Fredonia (Village), 5
+Chemung, Ashland (Town), 5
+Chemung, , 5
+Chenango, Columbus (Town), 5
+Chenango, Greene (Village), 5
+Clinton, Beekmantown (Town), 5
+Clinton, Clinton (Town), 5
+Clinton, Dannemora (Town), 5
+Columbia, Kinderhook (Town), 5
+Cortland, Lapeer (Town), 5
+Cortland, Scott (Town), 5
+Cortland, Taylor (Town), 5
+Delaware, Fleischmanns (Village), 5
+Delaware, Harpersfield (Town), 5
+Dutchess, Pine Plains (Town), 5
+Essex, Port Henry (Village), 5
+Franklin, Duane (Town), 5
+Franklin, Harrietstown (Town), 5
+Franklin, Malone (Village), 5
+Fulton, Bleecker (Town), 5
+Fulton, Perth (Town), 5
+Genesee, Pavilion (Town), 5
+Hamilton, Benson (Town), 5
+Herkimer, Little Falls (City), 5
+Herkimer, Norway (Town), 5
+Jefferson, Cape Vincent (Town), 5
+Jefferson, Wilna (Town), 5
+Livingston, Nunda (Town), 5
+Livingston, Springwater (Town), 5
+Madison, Cazenovia (Village), 5
+Montgomery, Charleston (Town), 5
+Montgomery, St. Johnsville (Village), 5
+Nassau, Long Beach (City), 5
+Nassau, Rockville Centre (Village), 5
+Niagara, Middleport (Village), 5
+Oneida, Florence (Town), 5
+Oneida, Sherrill (City), 5
+Oneida, Steuben (Town), 5
+Onondaga, North Syracuse (Village), 5
+Ontario, Naples (Town), 5
+Ontario, Phelps (Village), 5
+Orange, Highland Falls (Village), 5
+Orange, Walden (Village), 5
+Oswego, Sandy Creek (Village), 5
+Otsego, Gilbertsville (Village), 5
+Otsego, Morris (Town), 5
+Otsego, Roseboom (Town), 5
+Rockland, South Nyack (Village), 5
+Saratoga, Hadley (Town), 5
+Saratoga, Northumberland (Town), 5
+Saratoga, Waterford (Town), 5
+Schoharie, Esperance (Town), 5
+Seneca, Covert (Town), 5
+Seneca, Fayette (Town), 5
+Seneca, Junius (Town), 5
+Seneca, Lodi (Town), 5
+Steuben, Arkport (Village), 5
+Steuben, Pulteney (Town), 5
+Steuben, Thurston (Town), 5
+St Lawrence, Clifton (Town), 5
+St Lawrence, Louisville (Town), 5
+St Lawrence, Morristown (Town), 5
+St Lawrence, Ogdensburg (City), 5
+Tompkins, Danby (Town), 5
+Warren, Lake Luzerne (Town), 5
+Washington, Argyle (Town), 5
+Washington, Fort Edward (Village), 5
+Washington, Greenwich (Town), 5
+Wayne, Galen (Town), 5
+Wayne, Newark (Village), 5
+Westchester, Ardsley (Village), 5
+Westchester, Pelham (Village), 5
+Westchester, Pound Ridge (Town), 5
+Westchester, Tarrytown (Village), 5
+Westchester, , 5
+Wyoming, Arcade (Town), 5
+Wyoming, Attica (Town), 5
+Wyoming, Covington (Town), 5
+Yates, Italy (Town), 5
+Yates, Jerusalem (Town), 5
+Yates, Milo (Town), 5
+Yates, Starkey (Town), 5
+Albany, Watervliet (City), 4
+Allegany, Alfred (Village), 4
+Allegany, Alma (Town), 4
+Allegany, Bolivar (Town), 4
+Broome, Port Dickinson (Village), 4
+Cattaraugus, Ellicottville (Village), 4
+Cattaraugus, Lyndon (Town), 4
+Cattaraugus, Salamanca (Town), 4
+Cayuga, Venice (Town), 4
+Chautauqua, Cherry Creek (Village), 4
+Chautauqua, Dunkirk (City), 4
+Chautauqua, Silver Creek (Village), 4
+Chemung, Van Etten (Village), 4
+Chenango, German (Town), 4
+Clinton, Champlain (Village), 4
+Delaware, Margaretville (Village), 4
+Dutchess, , 4
+Erie, Blasdell (Village), 4
+Essex, Essex (Town), 4
+Franklin, Brandon (Town), 4
+Franklin, Dickinson (Town), 4
+Franklin, Waverly (Town), 4
+Fulton, Broadalbin (Village), 4
+Genesee, Batavia (City), 4
+Greene, Prattsville (Town), 4
+Greene, Tannersville (Village), 4
+Herkimer, Litchfield (Town), 4
+Herkimer, Little Falls (Town), 4
+Herkimer, Middleville (Village), 4
+Herkimer, , 4
+Jefferson, Antwerp (Town), 4
+Jefferson, Lyme (Town), 4
+Jefferson, Philadelphia (Village), 4
+Lewis, Harrisville (Village), 4
+Lewis, Lowville (Village), 4
+Livingston, Nunda (Village), 4
+Livingston, Sparta (Town), 4
+Livingston, , 4
+Madison, Chittenango (Village), 4
+Madison, Stockbridge (Town), 4
+Monroe, Churchville (Village), 4
+Monroe, Honeoye Falls (Village), 4
+Nassau, Glen Cove (City), 4
+Nassau, Lake Success (Village), 4
+Nassau, Lawrence (Village), 4
+Onondaga, Baldwinsville (Village), 4
+Onondaga, Fayetteville (Village), 4
+Onondaga, Jordan (Village), 4
+Onondaga, Skaneateles (Village), 4
+Ontario, Geneva (City), 4
+Ontario, Geneva (Town), 4
+Ontario, Hopewell (Town), 4
+Ontario, Naples (Village), 4
+Ontario, South Bristol (Town), 4
+Ontario, West Bloomfield (Town), 4
+Orange, , 4
+Oswego, Fulton (City), 4
+Oswego, Lacona (Village), 4
+Oswego, Mexico (Village), 4
+Otsego, Edmeston (Town), 4
+Otsego, Richfield (Town), 4
+Otsego, Springfield (Town), 4
+Otsego, Westford (Town), 4
+Rensselaer, North Greenbush (Town), 4
+Rockland, Haverstraw (Village), 4
+Saratoga, Round Lake (Village), 4
+Schoharie, Jefferson (Town), 4
+Schoharie, Summit (Town), 4
+Schuyler, Dix (Town), 4
+Schuyler, Odessa (Village), 4
+Schuyler, Reading (Town), 4
+Schuyler, Watkins Glen (Village), 4
+Seneca, Waterloo (Village), 4
+Steuben, Savona (Village), 4
+Steuben, , 4
+St Lawrence, Hopkinton (Town), 4
+Suffolk, Babylon (Village), 4
+Suffolk, Brightwaters (Village), 4
+Suffolk, Westhampton Beach (Village), 4
+Sullivan, Liberty (Village), 4
+Sullivan, Lumberland (Town), 4
+Tioga, Spencer (Village), 4
+Tompkins, Trumansburg (Village), 4
+Ulster, , 4
+Warren, Glens Falls (City), 4
+Washington, Hampton (Town), 4
+Washington, Jackson (Town), 4
+Wayne, Huron (Town), 4
+Wayne, Ontario (Town), 4
+Wayne, , 4
+Westchester, Bronxville (Village), 4
+Westchester, Dobbs Ferry (Village), 4
+Westchester, Tuckahoe (Village), 4
+Wyoming, Wethersfield (Town), 4
+Yates, Benton (Town), 4
+Yates, Penn Yan (Village), 4
+Albany, Colonie (Village), 3
+Albany, Voorheesville (Village), 3
+Allegany, Canaseraga (Village), 3
+Allegany, Richburg (Village), 3
+Allegany, , 3
+Broome, Endicott (Village), 3
+Cattaraugus, Delevan (Village), 3
+Cattaraugus, Franklinville (Village), 3
+Cattaraugus, Persia (Town), 3
+Cayuga, Cato (Town), 3
+Cayuga, Fleming (Town), 3
+Cayuga, Moravia (Town), 3
+Cayuga, Port Byron (Village), 3
+Chautauqua, Forestville (Village), 3
+Chautauqua, Panama (Village), 3
+Chautauqua, Sherman (Village), 3
+Chenango, Afton (Village), 3
+Chenango, Lincklaen (Town), 3
+Chenango, Pharsalia (Town), 3
+Columbia, Clermont (Town), 3
+Delaware, Delhi (Village), 3
+Delaware, Deposit (Village), 3
+Delaware, Sidney (Village), 3
+Erie, Orchard Park (Village), 3
+Erie, Springville (Village), 3
+Erie, Williamsville (Village), 3
+Erie, , 3
+Franklin, Tupper Lake (Village), 3
+Genesee, Le Roy (Village), 3
+Greene, Athens (Town), 3
+Greene, Halcott (Town), 3
+Greene, Hunter (Village), 3
+Hamilton, Hope (Town), 3
+Hamilton, Speculator (Village), 3
+Herkimer, Fairfield (Town), 3
+Herkimer, Mohawk (Village), 3
+Jefferson, Black River (Village), 3
+Jefferson, Champion (Town), 3
+Jefferson, Deferiet (Village), 3
+Jefferson, Ellisburg (Village), 3
+Jefferson, Theresa (Village), 3
+Jefferson, , 3
+Lewis, Croghan (Village), 3
+Livingston, Conesus (Town), 3
+Livingston, Dansville (Village), 3
+Livingston, Lima (Town), 3
+Madison, Deruyter (Village), 3
+Madison, Madison (Town), 3
+Monroe, Brockport (Village), 3
+Monroe, Pittsford (Village), 3
+Monroe, Sweden (Town), 3
+Monroe, , 3
+Nassau, Freeport (Village), 3
+Nassau, Great Neck Plaza (Village), 3
+New York, , 3
+Niagara, Cambria (Town), 3
+Niagara, Lewiston (Village), 3
+Niagara, North Tonawanda (City), 3
+Oneida, Ava (Town), 3
+Oneida, Barneveld (Village), 3
+Oneida, Oriskany Falls (Village), 3
+Oneida, Oriskany (Village), 3
+Onondaga, , 3
+Orange, Cornwall On Hudson (Village), 3
+Orange, Harriman (Village), 3
+Orange, Monroe (Village), 3
+Orleans, Albion (Village), 3
+Oswego, Hannibal (Village), 3
+Oswego, Palermo (Town), 3
+Oswego, Parish (Village), 3
+Oswego, Williamstown (Town), 3
+Oswego, , 3
+Otsego, Cooperstown (Village), 3
+Otsego, Pittsfield (Town), 3
+Rensselaer, Hoosick Falls (Village), 3
+Rockland, Airmont (Village), 3
+Rockland, Nyack (Village), 3
+Rockland, Piermont (Village), 3
+Rockland, West Haverstraw (Village), 3
+Rockland, , 3
+Saratoga, Corinth (Town), 3
+Saratoga, Galway (Town), 3
+Saratoga, Schuylerville (Village), 3
+Schenectady, Niskayuna (Town), 3
+Schoharie, Carlisle (Town), 3
+Schoharie, Gilboa (Town), 3
+Schoharie, , 3
+Steuben, Addison (Town), 3
+Steuben, Caton (Town), 3
+Steuben, Cohocton (Village), 3
+St Lawrence, Massena (Village), 3
+St Lawrence, Parishville (Town), 3
+St Lawrence, Piercefield (Town), 3
+St Lawrence, Potsdam (Village), 3
+St Lawrence, Waddington (Village), 3
+Suffolk, Islandia (Village), 3
+Suffolk, , 3
+Sullivan, Jeffersonville (Village), 3
+Tioga, , 3
+Tompkins, Freeville (Village), 3
+Tompkins, Groton (Village), 3
+Ulster, Plattekill (Town), 3
+Warren, Hague (Town), 3
+Washington, Fort Ann (Village), 3
+Washington, Granville (Village), 3
+Washington, Hudson Falls (Village), 3
+Washington, Salem (Village), 3
+Wayne, Butler (Town), 3
+Wayne, Lyons (Town), 3
+Wayne, Red Creek (Village), 3
+Wayne, Williamson (Town), 3
+Westchester, Rye (Town), 3
+Wyoming, Attica (Village), 3
+Wyoming, Castile (Town), 3
+Broome, Lisle (Village), 2
+Cattaraugus, Perrysburg (Town), 2
+Cattaraugus, , 2
+Cayuga, Niles (Town), 2
+Cayuga, Victory (Town), 2
+Chautauqua, Lakewood (Village), 2
+Chautauqua, Mayville (Village), 2
+Chautauqua, , 2
+Chemung, Millport (Village), 2
+Chemung, Wellsburg (Village), 2
+Chenango, New Berlin (Village), 2
+Chenango, Oxford (Village), 2
+Chenango, , 2
+Columbia, Germantown (Town), 2
+Columbia, Hudson (City), 2
+Columbia, Kinderhook (Village), 2
+Columbia, Stuyvesant (Town), 2
+Columbia, Valatie (Village), 2
+Cortland, Freetown (Town), 2
+Cortland, Mcgraw (Village), 2
+Dutchess, Millbrook (Village), 2
+Dutchess, Wappingers Falls (Village), 2
+Essex, Keeseville (Village), 2
+Essex, Lake Placid (Village), 2
+Franklin, Tupper Lake (Town), 2
+Franklin, , 2
+Hamilton, , 2
+Herkimer, Cold Brook (Village), 2
+Herkimer, Columbia (Town), 2
+Herkimer, Frankfort (Village), 2
+Jefferson, Brownville (Village), 2
+Jefferson, Chaumont (Village), 2
+Jefferson, Clayton (Village), 2
+Jefferson, Dexter (Village), 2
+Lewis, Constableville (Village), 2
+Lewis, Turin (Town), 2
+Lewis, Watson (Town), 2
+Madison, Fenner (Town), 2
+Madison, Munnsville (Village), 2
+Monroe, Scottsville (Village), 2
+Monroe, Spencerport (Village), 2
+Monroe, Webster (Village), 2
+Montgomery, Fonda (Village), 2
+Montgomery, Fort Johnson (Village), 2
+Montgomery, Fultonville (Village), 2
+Montgomery, Hagaman (Village), 2
+Nassau, Saddle Rock (Village), 2
+Oneida, Augusta (Town), 2
+Oneida, Boonville (Village), 2
+Oneida, Clayville (Village), 2
+Oneida, New Hartford (Village), 2
+Oneida, New York Mills (Village), 2
+Oneida, Oneida Castle (Village), 2
+Oneida, Remsen (Village), 2
+Oneida, Vernon (Village), 2
+Onondaga, Camillus (Village), 2
+Onondaga, Fabius (Town), 2
+Onondaga, Manlius (Village), 2
+Onondaga, Tully (Town), 2
+Ontario, Manchester (Village), 2
+Ontario, Rushville (Village), 2
+Orange, Greenwood Lake (Village), 2
+Orange, Washingtonville (Village), 2
+Orleans, Barre (Town), 2
+Oswego, Orwell (Town), 2
+Otsego, Decatur (Town), 2
+Otsego, Otego (Village), 2
+Otsego, Sidney (Town), 2
+Putnam, Brewster (Village), 2
+Saratoga, Corinth (Village), 2
+Saratoga, Stillwater (Village), 2
+Saratoga, Victory (Village), 2
+Schenectady, Delanson (Village), 2
+Schenectady, Scotia (Village), 2
+Steuben, Addison (Village), 2
+Steuben, Painted Post (Village), 2
+St Lawrence, Canton (Village), 2
+St Lawrence, Gouverneur (Village), 2
+St Lawrence, Hermon (Village), 2
+St Lawrence, Lisbon (Town), 2
+St Lawrence, Macomb (Town), 2
+Suffolk, East Hampton (Town), 2
+Suffolk, Patchogue (Village), 2
+Suffolk, Quogue (Village), 2
+Suffolk, Shelter Island (Town), 2
+Sullivan, Monticello (Village), 2
+Sullivan, Wurtsboro (Village), 2
+Tioga, Candor (Village), 2
+Tompkins, Lansing (Village), 2
+Ulster, Hurley (Town), 2
+Ulster, Kingston (Town), 2
+Ulster, Saugerties (Village), 2
+Warren, , 2
+Washington, Dresden (Town), 2
+Washington, Greenwich (Village), 2
+Washington, Hartford (Town), 2
+Washington, Putnam (Town), 2
+Washington, , 2
+Wayne, Macedon (Village), 2
+Wayne, Palmyra (Village), 2
+Westchester, Larchmont (Village), 2
+Wyoming, Genesee Falls (Town), 2
+Wyoming, Perry (Town), 2
+Yates, Dresden (Village), 2
+Albany, Ravena (Village), 1
+Albany, Schodack (Town), 1
+Albany, , 1
+Broome, Deposit (Village), 1
+Cattaraugus, Allegany (Village), 1
+Cattaraugus, Cattaraugus (Village), 1
+Cattaraugus, Portville (Village), 1
+Cattaraugus, Rushford (Town), 1
+Cattaraugus, South Dayton (Village), 1
+Cayuga, Aurora (Village), 1
+Cayuga, Conquest (Town), 1
+Cayuga, Ledyard (Town), 1
+Cayuga, Scipio (Town), 1
+Cayuga, Sempronius (Town), 1
+Cayuga, Sennett (Town), 1
+Cayuga, Weedsport (Village), 1
+Cayuga, , 1
+Chautauqua, Brocton (Village), 1
+Chautauqua, Cassadaga (Village), 1
+Chautauqua, Celoron (Village), 1
+Chenango, Bainbridge (Village), 1
+Chenango, Earlville (Village), 1
+Chenango, Norwich (City), 1
+Chenango, Smyrna (Village), 1
+Clinton, Keeseville (Village), 1
+Columbia, Chatham (Village), 1
+Columbia, Philmont (Village), 1
+Columbia, , 1
+Cortland, , 1
+Delaware, Franklin (Village), 1
+Delaware, Hobart (Village), 1
+Dutchess, Millerton (Village), 1
+Dutchess, Pawling (Village), 1
+Dutchess, Rhinebeck (Village), 1
+Dutchess, Tivoli (Village), 1
+Erie, Alden (Village), 1
+Erie, Angola (Village), 1
+Erie, Ashford (Town), 1
+Erie, Gowanda (Village), 1
+Erie, Hamburg (Village), 1
+Erie, North Collins (Village), 1
+Erie, Yorkshire (Town), 1
+Essex, Saranac Lake (Village), 1
+Franklin, Brighton (Town), 1
+Franklin, Brushton (Village), 1
+Franklin, Burke (Village), 1
+Franklin, Chateaugay (Village), 1
+Fulton, Dolgeville (Village), 1
+Fulton, Northampton (Town), 1
+Fulton, Northville (Village), 1
+Genesee, Alden (Town), 1
+Genesee, Alexander (Village), 1
+Genesee, Corfu (Village), 1
+Greene, Athens (Village), 1
+Greene, Coxsackie (Village), 1
+Herkimer, Newport (Village), 1
+Herkimer, Poland (Village), 1
+Herkimer, West Winfield (Village), 1
+Jefferson, Alexandria Bay (Village), 1
+Jefferson, Antwerp (Village), 1
+Jefferson, Carthage (Village), 1
+Jefferson, Evans Mills (Village), 1
+Jefferson, Mannsville (Village), 1
+Jefferson, Worth (Town), 1
+Lewis, Copenhagen (Village), 1
+Lewis, Port Leyden (Village), 1
+Lewis, Turin (Village), 1
+Lewis, , 1
+Livingston, Lima (Village), 1
+Livingston, Mount Morris (Village), 1
+Livingston, West Bloomfield (Town), 1
+Madison, Morrisville (Village), 1
+Madison, Nelson (Town), 1
+Madison, Sherrill (City), 1
+Madison, Wampsville (Village), 1
+Madison, , 1
+Monroe, East Rochester (Village), 1
+Monroe, Hilton (Village), 1
+Montgomery, Ames (Village), 1
+Montgomery, Nelliston (Village), 1
+Nassau, Atlantic Beach (Village), 1
+Nassau, East Rockaway (Village), 1
+Nassau, Hewlett Harbor (Village), 1
+Nassau, Mill Neck (Village), 1
+Nassau, Mineola (Village), 1
+Nassau, Roslyn (Village), 1
+Nassau, Sands Point (Village), 1
+Nassau, Thomaston (Village), 1
+Niagara, Barker (Village), 1
+Niagara, Youngstown (Village), 1
+Oneida, Bridgewater (Town), 1
+Oneida, Bridgewater (Village), 1
+Oneida, Clinton (Village), 1
+Oneida, Holland Patent (Village), 1
+Oneida, Oneida (City), 1
+Oneida, Sangerfield (Town), 1
+Onondaga, Cazenovia (Town), 1
+Onondaga, Elbridge (Village), 1
+Onondaga, Liverpool (Village), 1
+Onondaga, Marcellus (Village), 1
+Onondaga, Minoa (Village), 1
+Onondaga, Otisco (Town), 1
+Ontario, Canadice (Town), 1
+Ontario, Shortsville (Village), 1
+Ontario, Victor (Village), 1
+Ontario, , 1
+Orange, Florida (Village), 1
+Orange, Middletown (City), 1
+Orange, Otisville (Village), 1
+Orleans, Clarendon (Town), 1
+Orleans, Holley (Village), 1
+Orleans, Lyndonville (Village), 1
+Oswego, Boylston (Town), 1
+Oswego, Central Square (Village), 1
+Oswego, Minetto (Town), 1
+Oswego, Phoenix (Village), 1
+Oswego, Scriba (Town), 1
+Otsego, Brookfield (Town), 1
+Otsego, Morris (Village), 1
+Putnam, Cold Spring (Village), 1
+Queens, Hempstead (Town), 1
+Rensselaer, Grafton (Town), 1
+Rensselaer, Nassau (Village), 1
+Rensselaer, Schaghticoke (Village), 1
+Rensselaer, Valley Falls (Village), 1
+Rensselaer, , 1
+Saratoga, South Glens Falls (Village), 1
+Schoharie, Middleburgh (Village), 1
+Schoharie, Schoharie (Village), 1
+Schuyler, Burdett (Village), 1
+Schuyler, , 1
+Seneca, Lodi (Village), 1
+Seneca, Romulus (Town), 1
+Seneca, Varick (Town), 1
+Steuben, Avoca (Village), 1
+Steuben, Canisteo (Village), 1
+Steuben, Hammondsport (Village), 1
+Steuben, North Hornell (Village), 1
+Steuben, South Corning (Village), 1
+St Lawrence, De Peyster (Town), 1
+St Lawrence, Heuvelton (Village), 1
+St Lawrence, Morristown (Village), 1
+St Lawrence, Norwood (Village), 1
+St Lawrence, Rensselaer Falls (Village), 1
+St Lawrence, Richville (Village), 1
+Suffolk, East Hampton (Village), 1
+Suffolk, North Haven (Village), 1
+Tioga, Newark Valley (Village), 1
+Tompkins, , 1
+Ulster, Crawford (Town), 1
+Ulster, Marlborough (Town), 1
+Ulster, New Paltz (Village), 1
+Warren, Hudson Falls (Village), 1
+Warren, Lake George (Village), 1
+Washington, Argyle (Village), 1
+Washington, Cambridge (Village), 1
+Wayne, Clyde (Village), 1
+Wayne, Walworth (Town), 1
+Westchester, Buchanan (Village), 1
+Westchester, Harrison (Town), 1
+Westchester, Irvington (Village), 1
+Wyoming, Gainesville (Village), 1
+Wyoming, Wyoming (Village), 1
+Wyoming, , 1
+Yates, Dundee (Village), 1
+Yates, Rushville (Village), 1
+Yates, Torrey (Town), 1
+Yates, , 1
