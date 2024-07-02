@@ -30,13 +30,19 @@ def perform_spatial_analysis():
 
     # Plot the kernel density
     fig, ax = plt.subplots(figsize=(12, 8))
-    ax.imshow(np.rot90(Z), cmap=plt.cm.gist_earth_r, extent=[xmin, xmax, ymin, ymax])
-    ax.plot(x, y, 'k.', markersize=2)
+    im = ax.imshow(np.rot90(Z), cmap=plt.cm.viridis, extent=[xmin, xmax, ymin, ymax])
+    ax.plot(x, y, 'r.', markersize=2, alpha=0.5)
     ax.set_title('Kernel Density of Poor Condition Bridges')
     ax.set_xlabel('Longitude')
     ax.set_ylabel('Latitude')
-    plt.colorbar(label='Density')
-    plt.savefig('3d_data/poor_bridges_density.png')
+    plt.colorbar(im, ax=ax, label='Density')
+    
+    # Add New York state boundary
+    ny_gdf = gpd.read_file(gpd.datasets.get_path('usa-states')).query("name == 'New York'")
+    ny_gdf.boundary.plot(ax=ax, color='black', linewidth=1)
+
+    plt.tight_layout()
+    plt.savefig('3d_data/poor_bridges_density.png', dpi=300)
     plt.close()
 
     print("Spatial analysis results saved in the '3d_data' folder.")
