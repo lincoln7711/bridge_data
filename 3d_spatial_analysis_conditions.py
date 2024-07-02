@@ -1,7 +1,8 @@
 import geopandas as gpd
 import matplotlib.pyplot as plt
 from shapely.geometry import Point
-from pointpats import PointPattern, KernelDensity
+import numpy as np
+from scipy import stats
 import os
 
 def perform_spatial_analysis():
@@ -14,17 +15,29 @@ def perform_spatial_analysis():
 
     # Create a point pattern of poor condition bridges
     poor_bridges = merged_gdf[merged_gdf['Poor Status'] == 'Y']
-    poor_bridges_points = [Point(xy) for xy in zip(poor_bridges.geometry.x, poor_bridges.geometry.y)]
+    poor_bridges_points = np.array([(point.x, point.y) for point in poor_bridges.geometry])
 
     # Perform kernel density estimation
-    pp = PointPattern(poor_bridges_points)
-    kde = KernelDensity(pp)
+    x, y = poor_bridges_points.T
+    xmin, xmax = x.min(), x.max()
+    ymin, ymax = y.min(), y.max()
+
+    X, Y = np.mgrid[xmin:xmax:100j, ymin:ymax:100j]
+    positions = np.vstack([X.ravel(), Y.ravel()])
+    values = np.vstack([x, y])
+    kernel = stats.gaussian_kde(values)
+    Z = np.reshape(kernel(positions).T, X.shape)
 
     # Plot the kernel density
     fig, ax = plt.subplots(figsize=(12, 8))
-    kde.plot(ax=ax)
+    ax.imshow(np.rot90(Z), cmap=plt.cm.gist_earth_r, extent=[xmin, xmax, ymin, ymax])
+    ax.plot(x, y, 'k.', markersize=2)
     ax.set_title('Kernel Density of Poor Condition Bridges')
+    ax.set_xlabel('Longitude')
+    ax.set_ylabel('Latitude')
+    plt.colorbar(label='Density')
     plt.savefig('3d_data/poor_bridges_density.png')
+    plt.close()
 
     print("Spatial analysis results saved in the '3d_data' folder.")
 
