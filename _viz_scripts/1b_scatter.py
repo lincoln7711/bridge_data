@@ -1,15 +1,28 @@
+import json
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 import os
 
-def create_scatter_plot(csv_file):
-    # Create output folder in the main repository
-    if not os.path.exists('../1b_output'):
-        os.makedirs('../1b_output')
+def create_scatter_plot(json_file):
+    # Get the directory of the script
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    
+    # Create output folder
+    output_dir = os.path.join(script_dir, '1b_output')
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
 
-    # Read the CSV file from the main repository
-    df = pd.read_csv(os.path.join('..', csv_file))
+    # Construct the full path to the JSON file
+    json_path = os.path.join(script_dir, 'references', json_file)
+
+    # Read the JSON file
+    print(f"Reading JSON file: {json_path}")
+    with open(json_path, 'r') as f:
+        data = json.load(f)
+
+    # Convert to DataFrame
+    df = pd.DataFrame(data)
 
     # Group by county and calculate totals
     county_data = df.groupby('County').agg({
@@ -35,12 +48,13 @@ def create_scatter_plot(csv_file):
     p = np.poly1d(z)
     plt.plot(county_data['BIN'], p(county_data['BIN']), "r--", alpha=0.8)
 
-    # Save the plot in the main repository
-    plt.savefig('../1b_output/bridge_condition_scatter_plot.png', dpi=300, bbox_inches='tight')
+    # Save the plot
+    output_path = os.path.join(output_dir, 'bridge_condition_scatter_plot.png')
+    plt.savefig(output_path, dpi=300, bbox_inches='tight')
     plt.close()
 
-    print("Scatter plot saved in 1b_output folder in the main repository.")
+    print(f"Scatter plot saved as: {output_path}")
 
 # Run the function
 if __name__ == "__main__":
-    create_scatter_plot('Bridge_Conditions__NYS_Department_of_Transportation_20240702.csv')
+    create_scatter_plot('bridge_conditions.json')
