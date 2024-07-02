@@ -38,6 +38,10 @@ def create_choropleth_map(json_file, shapefile_path):
     }).reset_index()
     county_data['Poor Percentage'] = (county_data['Poor Status'] / county_data['BIN']) * 100
 
+    # Print county data for debugging
+    print("County data:")
+    print(county_data)
+
     # Load the shapefile
     print(f"Loading shapefile: {shapefile_path}")
     try:
@@ -49,12 +53,18 @@ def create_choropleth_map(json_file, shapefile_path):
     # Print column names of the shapefile
     print("Columns in the shapefile:", ny_counties.columns)
 
-    # Assuming the county name column in the shapefile is 'NAME'
-    # Adjust this if it's different in your shapefile
-    ny_counties['NAME'] = ny_counties['NAME'].str.upper()
-    
+    # Print unique county names in the shapefile
+    print("Unique county names in shapefile:", ny_counties['NAME'].unique())
+
+    # Print unique county names in the bridge data
+    print("Unique county names in bridge data:", county_data['County'].unique())
+
     # Merge shapefile with our data
     merged = ny_counties.merge(county_data, left_on='NAME', right_on='County', how='left')
+
+    # Print merged data for debugging
+    print("Merged data:")
+    print(merged[['NAME', 'County', 'Poor Percentage']])
 
     # Create the plot
     fig, ax = plt.subplots(1, 1, figsize=(15, 10))
