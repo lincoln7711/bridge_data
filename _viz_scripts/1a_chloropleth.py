@@ -41,12 +41,33 @@ def create_choropleth_map(json_file, shapefile_zip):
 
     # Extract the shapefile from the zip
     shapefile_path = os.path.join(script_dir, 'references', shapefile_zip)
-    with zipfile.ZipFile(shapefile_path, 'r') as zip_ref:
-        zip_ref.extractall(os.path.dirname(shapefile_path))
+    print(f"Extracting shapefile from: {shapefile_path}")
+    try:
+        with zipfile.ZipFile(shapefile_path, 'r') as zip_ref:
+            zip_ref.extractall(os.path.dirname(shapefile_path))
+    except FileNotFoundError:
+        print(f"Error: The shapefile zip {shapefile_path} was not found.")
+        return
+    except zipfile.BadZipFile:
+        print(f"Error: The file {shapefile_path} is not a valid zip file.")
+        return
+
+    # Find the .shp file in the extracted contents
+    shapefile_dir = os.path.dirname(shapefile_path)
+    shp_files = [f for f in os.listdir(shapefile_dir) if f.endswith('.shp')]
+    if not shp_files:
+        print(f"Error: No .shp file found in {shapefile_dir}")
+        return
+    shapefile_name = shp_files[0]
 
     # Load the shapefile
-    shapefile_name = shapefile_zip.replace('.zip', '')
-    ny_counties = gpd.read_file(os.path.join(script_dir, 'references', shapefile_name))
+    shapefile_full_path = os.path.join(shapefile_dir, shapefile_name)
+    print(f"Loading shapefile: {shapefile_full_path}")
+    try:
+        ny_counties = gpd.read_file(shapefile_full_path)
+    except Exception as e:
+        print(f"Error loading shapefile: {str(e)}")
+        return
 
     # Merge shapefile with our data
     ny_counties['NAME'] = ny_counties['NAME'].str.upper()
