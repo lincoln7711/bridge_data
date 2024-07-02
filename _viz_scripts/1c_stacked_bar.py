@@ -29,25 +29,38 @@ def create_stacked_bar_chart(json_file):
         'Poor Status': lambda x: (x == 'Y').sum()
     }).reset_index()
     county_data['Good Condition'] = county_data['BIN'] - county_data['Poor Status']
+    county_data['Good Percentage'] = (county_data['Good Condition'] / county_data['BIN']) * 100
+    county_data['Poor Percentage'] = (county_data['Poor Status'] / county_data['BIN']) * 100
 
     # Sort by total number of bridges
     county_data = county_data.sort_values('BIN', ascending=False)
 
     # Create the stacked bar chart
-    plt.figure(figsize=(15, 10))
-    plt.bar(county_data['County'], county_data['Good Condition'], label='Good Condition')
-    plt.bar(county_data['County'], county_data['Poor Status'], bottom=county_data['Good Condition'], label='Poor Condition')
+    fig, ax = plt.subplots(figsize=(15, 10))
+    bars_good = ax.bar(county_data['County'], county_data['Good Condition'], label='Good Condition')
+    bars_poor = ax.bar(county_data['County'], county_data['Poor Status'], bottom=county_data['Good Condition'], label='Poor Condition')
 
     # Customize the plot
-    plt.xlabel('County', fontsize=12)
-    plt.ylabel('Number of Bridges', fontsize=12)
-    plt.title('Bridge Conditions by County in New York State', fontsize=16)
-    plt.legend(loc='upper right')
+    ax.set_xlabel('County', fontsize=12)
+    ax.set_ylabel('Number of Bridges', fontsize=12)
+    ax.set_title('Bridge Conditions by County in New York State', fontsize=16)
+    ax.legend(loc='upper right')
     plt.xticks(rotation=90, ha='right')
+
+    # Function to add percentage labels
+    def add_percentage_labels(bars, percentages):
+        for bar, percentage in zip(bars, percentages):
+            height = bar.get_height()
+            ax.text(bar.get_x() + bar.get_width()/2, bar.get_y() + height/2,
+                    f'{percentage:.1f}%', ha='center', va='center', rotation=90, fontsize=8)
+
+    # Add percentage labels
+    add_percentage_labels(bars_good, county_data['Good Percentage'])
+    add_percentage_labels(bars_poor, county_data['Poor Percentage'])
 
     # Adjust layout and save
     plt.tight_layout()
-    output_path = os.path.join(output_dir, 'bridge_condition_stacked_bar.png')
+    output_path = os.path.join(output_dir, 'bridge_condition_stacked_bar_with_percentages.png')
     plt.savefig(output_path, dpi=300, bbox_inches='tight')
     plt.close()
 
