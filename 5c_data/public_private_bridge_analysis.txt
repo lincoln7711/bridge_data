@@ -1,0 +1,5 @@
+Public vs Private Bridge Ownership Analysis:
+Owner Type, Total Bridges, Poor Condition Bridges, Poor %
+Public, 17444, 1672, 9.58%
+Private, 87, 25, 28.74%
+Unknown, 1, 1, 100.00%
