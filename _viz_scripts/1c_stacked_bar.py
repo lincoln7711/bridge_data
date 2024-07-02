@@ -1,14 +1,27 @@
+import json
 import pandas as pd
 import matplotlib.pyplot as plt
 import os
 
-def create_stacked_bar_chart(csv_file):
-    # Create output folder in the main repository
-    if not os.path.exists('../1c_output'):
-        os.makedirs('../1c_output')
+def create_stacked_bar_chart(json_file):
+    # Get the directory of the script
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    
+    # Create output folder
+    output_dir = os.path.join(script_dir, '1c_output')
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
 
-    # Read the CSV file from the main repository
-    df = pd.read_csv(os.path.join('..', csv_file))
+    # Construct the full path to the JSON file
+    json_path = os.path.join(script_dir, 'references', json_file)
+
+    # Read the JSON file
+    print(f"Reading JSON file: {json_path}")
+    with open(json_path, 'r') as f:
+        data = json.load(f)
+
+    # Convert to DataFrame
+    df = pd.DataFrame(data)
 
     # Group by county and calculate totals
     county_data = df.groupby('County').agg({
@@ -32,13 +45,14 @@ def create_stacked_bar_chart(csv_file):
     plt.legend(loc='upper right')
     plt.xticks(rotation=90, ha='right')
 
-    # Adjust layout and save in the main repository
+    # Adjust layout and save
     plt.tight_layout()
-    plt.savefig('../1c_output/bridge_condition_stacked_bar.png', dpi=300, bbox_inches='tight')
+    output_path = os.path.join(output_dir, 'bridge_condition_stacked_bar.png')
+    plt.savefig(output_path, dpi=300, bbox_inches='tight')
     plt.close()
 
-    print("Stacked bar chart saved in 1c_output folder in the main repository.")
+    print(f"Stacked bar chart saved as: {output_path}")
 
 # Run the function
 if __name__ == "__main__":
-    create_stacked_bar_chart('Bridge_Conditions__NYS_Department_of_Transportation_20240702.csv')
+    create_stacked_bar_chart('bridge_conditions.json')
