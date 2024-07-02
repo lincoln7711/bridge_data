@@ -29,8 +29,7 @@ def create_stacked_bar_chart(json_file):
         'Poor Status': lambda x: (x == 'Y').sum()
     }).reset_index()
     county_data['Good Condition'] = county_data['BIN'] - county_data['Poor Status']
-    county_data['Good Percentage'] = (county_data['Good Condition'] / county_data['BIN']) * 100
-    county_data['Poor Percentage'] = (county_data['Poor Status'] / county_data['BIN']) * 100
+    county_data['Good Ratio'] = county_data['Good Condition'] / county_data['BIN']
 
     # Sort by total number of bridges
     county_data = county_data.sort_values('BIN', ascending=False)
@@ -44,23 +43,15 @@ def create_stacked_bar_chart(json_file):
     ax.set_xlabel('County', fontsize=12)
     ax.set_ylabel('Number of Bridges', fontsize=12)
     ax.set_title('Bridge Conditions by County in New York State', fontsize=16)
-    ax.legend(loc='upper right')
     plt.xticks(rotation=90, ha='right')
 
-    # Function to add percentage labels
-    def add_percentage_labels(bars, percentages):
-        for bar, percentage in zip(bars, percentages):
-            height = bar.get_height()
-            ax.text(bar.get_x() + bar.get_width()/2, bar.get_y() + height/2,
-                    f'{percentage:.1f}%', ha='center', va='center', rotation=90, fontsize=8)
-
-    # Add percentage labels
-    add_percentage_labels(bars_good, county_data['Good Percentage'])
-    add_percentage_labels(bars_poor, county_data['Poor Percentage'])
+    # Create legend with good condition ratios
+    legend_labels = [f"{county}: {good_ratio:.2f}" for county, good_ratio in zip(county_data['County'], county_data['Good Ratio'])]
+    ax.legend(bars_good, legend_labels, title='Good Condition Ratio', loc='upper right', bbox_to_anchor=(1.25, 1), fontsize=8)
 
     # Adjust layout and save
     plt.tight_layout()
-    output_path = os.path.join(output_dir, 'bridge_condition_stacked_bar_with_percentages.png')
+    output_path = os.path.join(output_dir, 'bridge_condition_stacked_bar_with_legend.png')
     plt.savefig(output_path, dpi=300, bbox_inches='tight')
     plt.close()
 
