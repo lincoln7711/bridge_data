@@ -8,7 +8,7 @@ def create_choropleth_map(json_file, shapefile_path):
     # Get the directory of the script
     script_dir = os.path.dirname(os.path.abspath(__file__))
     
-    # Create output folder
+    # Create 1a_output folder
     output_dir = os.path.join(script_dir, '1a_output')
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
@@ -18,15 +18,8 @@ def create_choropleth_map(json_file, shapefile_path):
 
     # Read the JSON file
     print(f"Reading JSON file: {json_path}")
-    try:
-        with open(json_path, 'r') as f:
-            data = json.load(f)
-    except FileNotFoundError:
-        print(f"Error: The file {json_path} was not found.")
-        return
-    except json.JSONDecodeError:
-        print(f"Error: The file {json_path} is not a valid JSON file.")
-        return
+    with open(json_path, 'r') as f:
+        data = json.load(f)
 
     # Convert to DataFrame
     df = pd.DataFrame(data)
@@ -38,33 +31,15 @@ def create_choropleth_map(json_file, shapefile_path):
     }).reset_index()
     county_data['Poor Percentage'] = (county_data['Poor Status'] / county_data['BIN']) * 100
 
-    # Print county data for debugging
-    print("County data:")
-    print(county_data)
-
     # Load the shapefile
     print(f"Loading shapefile: {shapefile_path}")
-    try:
-        ny_counties = gpd.read_file(shapefile_path)
-    except Exception as e:
-        print(f"Error loading shapefile: {str(e)}")
-        return
-
-    # Print column names of the shapefile
-    print("Columns in the shapefile:", ny_counties.columns)
-
-    # Print unique county names in the shapefile
-    print("Unique county names in shapefile:", ny_counties['NAME'].unique())
-
-    # Print unique county names in the bridge data
-    print("Unique county names in bridge data:", county_data['County'].unique())
+    ny_counties = gpd.read_file(shapefile_path)
 
     # Merge shapefile with our data
     merged = ny_counties.merge(county_data, left_on='NAME', right_on='County', how='left')
 
-    # Print merged data for debugging
-    print("Merged data:")
-    print(merged[['NAME', 'County', 'Poor Percentage']])
+    # Create a new column with county name and percentage
+    merged['County_Percentage'] = merged['NAME'] + ' (' + merged['Poor Percentage'].round(2).astype(str) + '%)'
 
     # Create the plot
     fig, ax = plt.subplots(1, 1, figsize=(15, 10))
@@ -72,12 +47,17 @@ def create_choropleth_map(json_file, shapefile_path):
                 legend_kwds={'label': 'Percentage of Poor Condition Bridges'},
                 cmap='YlOrRd', missing_kwds={'color': 'lightgrey'})
 
+    # Add labels with county name and percentage
+    for idx, row in merged.iterrows():
+        ax.annotate(row['County_Percentage'], xy=(row['geometry'].centroid.x, row['geometry'].centroid.y),
+                    xytext=(3, 3), textcoords="offset points", fontsize=6, ha='center', va='center')
+
     # Customize the plot
     ax.set_title('Percentage of Poor Condition Bridges by County in New York State', fontsize=16)
     ax.axis('off')
 
-    # Save the plot
-    output_path = os.path.join(output_dir, 'ny_bridge_condition_choropleth.png')
+    # Save the plot with a new filename
+    output_path = os.path.join(output_dir, 'ny_bridge_condition_choropleth_with_percentages.png')
     plt.savefig(output_path, dpi=300, bbox_inches='tight')
     plt.close()
 
