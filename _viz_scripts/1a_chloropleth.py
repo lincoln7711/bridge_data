@@ -10,7 +10,7 @@ def create_choropleth_map(json_file, shapefile_zip):
     script_dir = os.path.dirname(os.path.abspath(__file__))
     
     # Create output folder
-    output_dir = os.path.join(script_dir, 'output')
+    output_dir = os.path.join(script_dir, '1a_output')
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
 
