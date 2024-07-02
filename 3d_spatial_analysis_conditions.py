@@ -1,6 +1,6 @@
 import geopandas as gpd
 import matplotlib.pyplot as plt
-from shapely.geometry import Point
+from shapely.geometry import Point, Polygon
 import numpy as np
 from scipy import stats
 import os
@@ -28,17 +28,22 @@ def perform_spatial_analysis():
     kernel = stats.gaussian_kde(values)
     Z = np.reshape(kernel(positions).T, X.shape)
 
+    # Create a simplified New York State boundary
+    ny_boundary = Polygon([
+        (xmin, ymin), (xmax, ymin), (xmax, ymax), (xmin, ymax)
+    ])
+    ny_gdf = gpd.GeoDataFrame(geometry=[ny_boundary], crs=merged_gdf.crs)
+
     # Plot the kernel density
     fig, ax = plt.subplots(figsize=(12, 8))
     im = ax.imshow(np.rot90(Z), cmap=plt.cm.viridis, extent=[xmin, xmax, ymin, ymax])
     ax.plot(x, y, 'r.', markersize=2, alpha=0.5)
-    ax.set_title('Kernel Density of Poor Condition Bridges')
+    ax.set_title('Kernel Density of Poor Condition Bridges in New York State')
     ax.set_xlabel('Longitude')
     ax.set_ylabel('Latitude')
     plt.colorbar(im, ax=ax, label='Density')
     
-    # Add New York state boundary
-    ny_gdf = gpd.read_file(gpd.datasets.get_path('usa-states')).query("name == 'New York'")
+    # Add simplified New York state boundary
     ny_gdf.boundary.plot(ax=ax, color='black', linewidth=1)
 
     plt.tight_layout()
