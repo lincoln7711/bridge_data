@@ -1,0 +1,868 @@
+
+County: Albany
+Feature Carried Condition Correlation:
+87IX: Total: 9, Poor: 1, Poor %: 11.11%
+90I 90I11013014: Total: 4, Poor: 0, Poor %: 0.00%
+WASHINGTON AVENUE: Total: 4, Poor: 0, Poor %: 0.00%
+90I 90I11013020: Total: 3, Poor: 0, Poor %: 0.00%
+COUNTY ROAD 111: Total: 3, Poor: 1, Poor %: 33.33%
+Feature Crossed Condition Correlation:
+FOX CREEK: Total: 12, Poor: 2, Poor %: 16.67%
+HANNACROIS CREEK: Total: 11, Poor: 2, Poor %: 18.18%
+ONESQUETHAW CREEK: Total: 10, Poor: 1, Poor %: 10.00%
+87IX: Total: 9, Poor: 0, Poor %: 0.00%
+NORMANS KILL: Total: 9, Poor: 0, Poor %: 0.00%
+
+County: Allegany
+Feature Carried Condition Correlation:
+COUNTY ROAD 16: Total: 10, Poor: 0, Poor %: 0.00%
+COUNTY ROAD 10: Total: 7, Poor: 0, Poor %: 0.00%
+EAST VALLEY ROAD: Total: 5, Poor: 1, Poor %: 20.00%
+COUNTY ROAD 18: Total: 5, Poor: 0, Poor %: 0.00%
+COUNTY ROAD 19: Total: 5, Poor: 0, Poor %: 0.00%
+Feature Crossed Condition Correlation:
+GENESEE RIVER: Total: 19, Poor: 3, Poor %: 15.79%
+BLACK CREEK: Total: 14, Poor: 0, Poor %: 0.00%
+DYKE CREEK: Total: 13, Poor: 1, Poor %: 7.69%
+VANDERMARK CREEK: Total: 12, Poor: 0, Poor %: 0.00%
+ANGELICA CREEK: Total: 11, Poor: 1, Poor %: 9.09%
+
+County: Bronx
+Feature Carried Condition Correlation:
+GRAND CONCOURSE: Total: 14, Poor: 0, Poor %: 0.00%
+WESTCHESTER AVE: Total: 7, Poor: 1, Poor %: 14.29%
+95IX: Total: 5, Poor: 0, Poor %: 0.00%
+EAST TREMONT AVE: Total: 5, Poor: 0, Poor %: 0.00%
+GUN HILL ROAD: Total: 5, Poor: 0, Poor %: 0.00%
+Feature Crossed Condition Correlation:
+METRO NO COMMUTER: Total: 32, Poor: 4, Poor %: 12.50%
+BRONX RIVER: Total: 22, Poor: 0, Poor %: 0.00%
+AMTRAK/CSXT/P&W: Total: 21, Poor: 1, Poor %: 4.76%
+RELIEF: Total: 14, Poor: 1, Poor %: 7.14%
+METRO NORTH RR: Total: 4, Poor: 1, Poor %: 25.00%
+
+County: Broome
+Feature Carried Condition Correlation:
+COUNTY ROAD 28: Total: 6, Poor: 0, Poor %: 0.00%
+POWDERHOUSE ROAD: Total: 5, Poor: 0, Poor %: 0.00%
+81I 81I91013033: Total: 4, Poor: 0, Poor %: 0.00%
+MAIN STREET: Total: 4, Poor: 0, Poor %: 0.00%
+EAST WINDSOR ROAD: Total: 3, Poor: 0, Poor %: 0.00%
+Feature Crossed Condition Correlation:
+SUSQUEHANNA RIVER: Total: 13, Poor: 0, Poor %: 0.00%
+CASTLE CREEK: Total: 9, Poor: 1, Poor %: 11.11%
+OQUAGA CREEK: Total: 9, Poor: 0, Poor %: 0.00%
+PATTERSON CREEK: Total: 9, Poor: 0, Poor %: 0.00%
+TIOUGHNIOGA RIVER: Total: 8, Poor: 0, Poor %: 0.00%
+
+County: Cattaraugus
+Feature Carried Condition Correlation:
+COUNTY ROAD 12: Total: 8, Poor: 0, Poor %: 0.00%
+MOSHER HOLLOW RD: Total: 8, Poor: 0, Poor %: 0.00%
+COUNTY ROAD 21: Total: 7, Poor: 1, Poor %: 14.29%
+COUNTY ROAD 18: Total: 6, Poor: 0, Poor %: 0.00%
+FIVE MILE ROAD: Total: 5, Poor: 0, Poor %: 0.00%
+Feature Crossed Condition Correlation:
+ISCHUA CREEK: Total: 18, Poor: 2, Poor %: 11.11%
+CONEWANGO CREEK: Total: 13, Poor: 1, Poor %: 7.69%
+ELTON CREEK: Total: 13, Poor: 1, Poor %: 7.69%
+MUD CREEK: Total: 12, Poor: 1, Poor %: 8.33%
+CLEAR CREEK: Total: 12, Poor: 1, Poor %: 8.33%
+
+County: Cayuga
+Feature Carried Condition Correlation:
+90IX: Total: 5, Poor: 1, Poor %: 20.00%
+CREEK ROAD: Total: 4, Poor: 2, Poor %: 50.00%
+OLD STATE ROAD: Total: 3, Poor: 0, Poor %: 0.00%
+GENESEE STREET: Total: 2, Poor: 0, Poor %: 0.00%
+WASHINGTON ST: Total: 2, Poor: 0, Poor %: 0.00%
+Feature Crossed Condition Correlation:
+OWASCO OUTLET: Total: 18, Poor: 0, Poor %: 0.00%
+CRANE BROOK: Total: 15, Poor: 4, Poor %: 26.67%
+OWASCO INLET: Total: 9, Poor: 1, Poor %: 11.11%
+90IX: Total: 8, Poor: 2, Poor %: 25.00%
+STERLING CREEK: Total: 7, Poor: 2, Poor %: 28.57%
+
+County: Chautauqua
+Feature Carried Condition Correlation:
+COUNTY ROAD 77: Total: 6, Poor: 0, Poor %: 0.00%
+COUNTY ROAD 70: Total: 6, Poor: 0, Poor %: 0.00%
+90IX EB: Total: 6, Poor: 0, Poor %: 0.00%
+90IX: Total: 6, Poor: 0, Poor %: 0.00%
+90IX WB: Total: 5, Poor: 0, Poor %: 0.00%
+Feature Crossed Condition Correlation:
+90IX: Total: 27, Poor: 1, Poor %: 3.70%
+CANADAWAY CREEK: Total: 17, Poor: 2, Poor %: 11.76%
+FRENCH CREEK: Total: 15, Poor: 3, Poor %: 20.00%
+WALNUT CREEK: Total: 14, Poor: 0, Poor %: 0.00%
+CASSADAGA CREEK: Total: 14, Poor: 2, Poor %: 14.29%
+
+County: Chemung
+Feature Carried Condition Correlation:
+CR03 WYNCOOP CRK: Total: 6, Poor: 0, Poor %: 0.00%
+CLARK HOLLOW ROAD: Total: 5, Poor: 1, Poor %: 20.00%
+CR35 CHAMBERS RD: Total: 4, Poor: 0, Poor %: 0.00%
+CR01 BREESPORT RO: Total: 3, Poor: 0, Poor %: 0.00%
+BREED HOLLOW ROAD: Total: 3, Poor: 1, Poor %: 33.33%
+Feature Crossed Condition Correlation:
+NEWTOWN CREEK: Total: 19, Poor: 1, Poor %: 5.26%
+CHEMUNG RIVER: Total: 15, Poor: 1, Poor %: 6.67%
+WYNCOOP CREEK: Total: 12, Poor: 2, Poor %: 16.67%
+SING SING CREEK: Total: 9, Poor: 1, Poor %: 11.11%
+CATHARINE CREEK: Total: 9, Poor: 1, Poor %: 11.11%
+
+County: Chenango
+Feature Carried Condition Correlation:
+COUNTY ROAD 32: Total: 8, Poor: 1, Poor %: 12.50%
+LYON BROOK ROAD: Total: 4, Poor: 0, Poor %: 0.00%
+COUNTY ROAD 17: Total: 3, Poor: 0, Poor %: 0.00%
+HOGSBACK ROAD: Total: 3, Poor: 0, Poor %: 0.00%
+COUNTY ROAD 13: Total: 3, Poor: 0, Poor %: 0.00%
+Feature Crossed Condition Correlation:
+CHENANGO RIVER: Total: 15, Poor: 1, Poor %: 6.67%
+CANASAWACTA CREEK: Total: 10, Poor: 0, Poor %: 0.00%
+PLEASANT BROOK: Total: 10, Poor: 1, Poor %: 10.00%
+OTSELIC RIVER: Total: 9, Poor: 0, Poor %: 0.00%
+GENEGANTSLET CRK: Total: 6, Poor: 0, Poor %: 0.00%
+
+County: Clinton
+Feature Carried Condition Correlation:
+TRUE BROOK ROAD: Total: 4, Poor: 1, Poor %: 25.00%
+RYAN ROAD: Total: 3, Poor: 1, Poor %: 33.33%
+RABIDEAU ROAD: Total: 2, Poor: 0, Poor %: 0.00%
+87I 87I71051004: Total: 2, Poor: 0, Poor %: 0.00%
+87I 87I71051011: Total: 2, Poor: 0, Poor %: 0.00%
+Feature Crossed Condition Correlation:
+GREAT CHAZY RIVER: Total: 26, Poor: 8, Poor %: 30.77%
+SALMON RIVER: Total: 16, Poor: 0, Poor %: 0.00%
+SARANAC RIVER: Total: 15, Poor: 2, Poor %: 13.33%
+ENGLISH RIVER: Total: 8, Poor: 4, Poor %: 50.00%
+CORBEAU CREEK: Total: 6, Poor: 1, Poor %: 16.67%
+
+County: Columbia
+Feature Carried Condition Correlation:
+COUNTY ROAD 7: Total: 5, Poor: 2, Poor %: 40.00%
+COUNTY ROAD 9: Total: 5, Poor: 0, Poor %: 0.00%
+COUNTY ROAD 7A: Total: 4, Poor: 0, Poor %: 0.00%
+COUNTY ROAD 21: Total: 4, Poor: 1, Poor %: 25.00%
+FRISBEE STREET: Total: 3, Poor: 0, Poor %: 0.00%
+Feature Crossed Condition Correlation:
+ROELIFF JANSEN KL: Total: 17, Poor: 5, Poor %: 29.41%
+TAGHKANIC CREEK: Total: 17, Poor: 5, Poor %: 29.41%
+STONY KILL: Total: 15, Poor: 1, Poor %: 6.67%
+90IX: Total: 11, Poor: 2, Poor %: 18.18%
+AGAWAMUCK CREEK: Total: 11, Poor: 5, Poor %: 45.45%
+
+County: Cortland
+Feature Carried Condition Correlation:
+McGRAW MARATHON RD: Total: 3, Poor: 2, Poor %: 66.67%
+TEXAS VALLEY ROAD: Total: 3, Poor: 0, Poor %: 0.00%
+81I 81I32022002: Total: 2, Poor: 2, Poor %: 100.00%
+81I 81I32022004: Total: 2, Poor: 0, Poor %: 0.00%
+MADISON STREET: Total: 2, Poor: 0, Poor %: 0.00%
+Feature Crossed Condition Correlation:
+TIOUGHNIOGA RIVER: Total: 9, Poor: 2, Poor %: 22.22%
+VIRGIL CREEK: Total: 7, Poor: 1, Poor %: 14.29%
+DRY CREEK: Total: 6, Poor: 0, Poor %: 0.00%
+E B TIOUGHNIOGA R: Total: 6, Poor: 0, Poor %: 0.00%
+HUNTS CREEK: Total: 6, Poor: 3, Poor %: 50.00%
+
+County: Delaware
+Feature Carried Condition Correlation:
+COUNTY ROAD 28: Total: 6, Poor: 0, Poor %: 0.00%
+RIVER ROAD: Total: 5, Poor: 0, Poor %: 0.00%
+SANDS CREEK ROAD: Total: 5, Poor: 2, Poor %: 40.00%
+COUNTY ROAD 33: Total: 5, Poor: 0, Poor %: 0.00%
+HORTON BROOK ROAD: Total: 4, Poor: 1, Poor %: 25.00%
+Feature Crossed Condition Correlation:
+E BR DELAWARE RVR: Total: 18, Poor: 4, Poor %: 22.22%
+W BR DELAWARE RVR: Total: 16, Poor: 0, Poor %: 0.00%
+CR 17: Total: 14, Poor: 0, Poor %: 0.00%
+OULEOUT CREEK: Total: 12, Poor: 1, Poor %: 8.33%
+CADOSIA CREEK: Total: 12, Poor: 1, Poor %: 8.33%
+
+County: Dutchess
+Feature Carried Condition Correlation:
+COUNTY ROAD 21: Total: 8, Poor: 3, Poor %: 37.50%
+COUNTY ROAD 83: Total: 3, Poor: 0, Poor %: 0.00%
+COUNTY ROAD 7: Total: 3, Poor: 1, Poor %: 33.33%
+COUNTY ROAD 19: Total: 3, Poor: 1, Poor %: 33.33%
+MILL ROAD: Total: 3, Poor: 1, Poor %: 33.33%
+Feature Crossed Condition Correlation:
+FISHKILL CREEK: Total: 21, Poor: 5, Poor %: 23.81%
+WAPPINGER CREEK: Total: 20, Poor: 3, Poor %: 15.00%
+SPROUT CREEK: Total: 20, Poor: 0, Poor %: 0.00%
+FALL KILL CREEK: Total: 13, Poor: 2, Poor %: 15.38%
+CRUM ELBOW CREEK: Total: 12, Poor: 1, Poor %: 8.33%
+
+County: Erie
+Feature Carried Condition Correlation:
+190IX: Total: 27, Poor: 1, Poor %: 3.70%
+90IX: Total: 21, Poor: 1, Poor %: 4.76%
+GENESEE ROAD: Total: 5, Poor: 2, Poor %: 40.00%
+NEW OREGON ROAD: Total: 5, Poor: 0, Poor %: 0.00%
+YOUNGS ROAD: Total: 4, Poor: 1, Poor %: 25.00%
+Feature Crossed Condition Correlation:
+ELLICOTT CREEK: Total: 37, Poor: 8, Poor %: 21.62%
+90IX: Total: 34, Poor: 7, Poor %: 20.59%
+SCAJAQUADA CREEK: Total: 25, Poor: 1, Poor %: 4.00%
+190IX: Total: 22, Poor: 3, Poor %: 13.64%
+SMOKES CREEK: Total: 20, Poor: 0, Poor %: 0.00%
+
+County: Essex
+Feature Carried Condition Correlation:
+DUGWAY ROAD: Total: 2, Poor: 0, Poor %: 0.00%
+PORT DOUGLAS ROAD: Total: 2, Poor: 0, Poor %: 0.00%
+TROUT POND ROAD: Total: 2, Poor: 0, Poor %: 0.00%
+Route 185: Total: 2, Poor: 0, Poor %: 0.00%
+ELIZ-WADHAMS ROAD: Total: 2, Poor: 1, Poor %: 50.00%
+Feature Crossed Condition Correlation:
+BOUQUET RIVER: Total: 12, Poor: 2, Poor %: 16.67%
+PUTNAM CREEK: Total: 11, Poor: 1, Poor %: 9.09%
+BOQUET RIVER: Total: 9, Poor: 1, Poor %: 11.11%
+SPRUCE MILL BROOK: Total: 8, Poor: 1, Poor %: 12.50%
+SCHROON RIVER: Total: 8, Poor: 0, Poor %: 0.00%
+
+County: Franklin
+Feature Carried Condition Correlation:
+BLUE MOUNTAIN RD: Total: 3, Poor: 1, Poor %: 33.33%
+BRAINARDSVILLE RD: Total: 2, Poor: 0, Poor %: 0.00%
+CR 27, POND ROAD: Total: 2, Poor: 0, Poor %: 0.00%
+RIVER RD: Total: 2, Poor: 0, Poor %: 0.00%
+NYSDEC TRUCK ROAD: Total: 2, Poor: 0, Poor %: 0.00%
+Feature Crossed Condition Correlation:
+SALMON RIVER: Total: 19, Poor: 1, Poor %: 5.26%
+TROUT RIVER: Total: 12, Poor: 1, Poor %: 8.33%
+FARRINGTON BROOK: Total: 10, Poor: 4, Poor %: 40.00%
+LITTLE SALMON RVR: Total: 8, Poor: 0, Poor %: 0.00%
+LAWRENCE BROOK: Total: 8, Poor: 2, Poor %: 25.00%
+
+County: Fulton
+Feature Carried Condition Correlation:
+PISECO ROAD: Total: 4, Poor: 1, Poor %: 25.00%
+CAPE HORN ROAD: Total: 3, Poor: 1, Poor %: 33.33%
+PINNACLE ROAD: Total: 2, Poor: 0, Poor %: 0.00%
+COUNTY ROAD 110: Total: 2, Poor: 0, Poor %: 0.00%
+MUSSEY ROAD: Total: 2, Poor: 0, Poor %: 0.00%
+Feature Crossed Condition Correlation:
+CAYADUTTA CREEK: Total: 16, Poor: 1, Poor %: 6.25%
+CAROGA CREEK: Total: 11, Poor: 4, Poor %: 36.36%
+KENNYETTO CREEK: Total: 9, Poor: 1, Poor %: 11.11%
+AYERS CREEK: Total: 5, Poor: 0, Poor %: 0.00%
+EAST CANADA CREEK: Total: 3, Poor: 1, Poor %: 33.33%
+
+County: Genesee
+Feature Carried Condition Correlation:
+90IX: Total: 4, Poor: 0, Poor %: 0.00%
+GRISWOLD ROAD: Total: 3, Poor: 0, Poor %: 0.00%
+SUMNER ROAD: Total: 3, Poor: 0, Poor %: 0.00%
+LEWISTON ROAD: Total: 2, Poor: 0, Poor %: 0.00%
+OLD CREEK ROAD: Total: 2, Poor: 0, Poor %: 0.00%
+Feature Crossed Condition Correlation:
+BLACK CREEK: Total: 24, Poor: 5, Poor %: 20.83%
+TONAWANDA CREEK: Total: 18, Poor: 2, Poor %: 11.11%
+MURDER CREEK: Total: 16, Poor: 6, Poor %: 37.50%
+90IX: Total: 14, Poor: 0, Poor %: 0.00%
+OATKA CREEK: Total: 10, Poor: 1, Poor %: 10.00%
+
+County: Greene
+Feature Carried Condition Correlation:
+87IX: Total: 8, Poor: 0, Poor %: 0.00%
+SPRUCETON ROAD: Total: 4, Poor: 3, Poor %: 75.00%
+SUNSIDE ROAD: Total: 3, Poor: 2, Poor %: 66.67%
+23  23 13061277: Total: 2, Poor: 0, Poor %: 0.00%
+HEARTS CONTENT RD: Total: 2, Poor: 0, Poor %: 0.00%
+Feature Crossed Condition Correlation:
+BATAVIA KILL: Total: 15, Poor: 1, Poor %: 6.67%
+KAATERSKILL CREEK: Total: 15, Poor: 1, Poor %: 6.67%
+WEST KILL: Total: 13, Poor: 4, Poor %: 30.77%
+CATSKILL CREEK: Total: 12, Poor: 1, Poor %: 8.33%
+87IX: Total: 12, Poor: 3, Poor %: 25.00%
+
+County: Hamilton
+Feature Carried Condition Correlation:
+CR24 OLD PISECO ROAD: Total: 4, Poor: 3, Poor %: 75.00%
+CR4 BIG BROOK ROAD: Total: 3, Poor: 0, Poor %: 0.00%
+CEDAR RIVER ROAD: Total: 2, Poor: 0, Poor %: 0.00%
+CONSERV DEPT ROAD: Total: 2, Poor: 0, Poor %: 0.00%
+DEC ROAD: Total: 2, Poor: 0, Poor %: 0.00%
+Feature Crossed Condition Correlation:
+SACANDAGA RIVER: Total: 7, Poor: 1, Poor %: 14.29%
+BIG BROOK: Total: 4, Poor: 1, Poor %: 25.00%
+ELBOW CREEK: Total: 3, Poor: 0, Poor %: 0.00%
+COLD STREAM: Total: 2, Poor: 2, Poor %: 100.00%
+EAST STONY CREEK: Total: 2, Poor: 0, Poor %: 0.00%
+
+County: Herkimer
+Feature Carried Condition Correlation:
+90IX: Total: 8, Poor: 2, Poor %: 25.00%
+90IX  EB: Total: 4, Poor: 2, Poor %: 50.00%
+90IX  WB: Total: 4, Poor: 2, Poor %: 50.00%
+CR37 DYKE ROAD: Total: 3, Poor: 0, Poor %: 0.00%
+WEST MAIN STREET: Total: 3, Poor: 1, Poor %: 33.33%
+Feature Crossed Condition Correlation:
+WEST CANADA CREEK: Total: 13, Poor: 1, Poor %: 7.69%
+MOYER CREEK: Total: 12, Poor: 2, Poor %: 16.67%
+FULMER CREEK: Total: 11, Poor: 0, Poor %: 0.00%
+STEELE CREEK: Total: 11, Poor: 0, Poor %: 0.00%
+90IX: Total: 7, Poor: 0, Poor %: 0.00%
+
+County: Jefferson
+Feature Carried Condition Correlation:
+SANDY CREEK ROAD: Total: 9, Poor: 0, Poor %: 0.00%
+COUNTY ROAD 63: Total: 3, Poor: 0, Poor %: 0.00%
+781I: Total: 3, Poor: 0, Poor %: 0.00%
+81I 81I73051182: Total: 3, Poor: 0, Poor %: 0.00%
+MICHAEL ROAD: Total: 2, Poor: 0, Poor %: 0.00%
+Feature Crossed Condition Correlation:
+SANDY CREEK: Total: 22, Poor: 6, Poor %: 27.27%
+INDIAN RIVER: Total: 17, Poor: 2, Poor %: 11.76%
+MILL CREEK: Total: 14, Poor: 2, Poor %: 14.29%
+BLACK RIVER: Total: 12, Poor: 1, Poor %: 8.33%
+STONY CREEK: Total: 10, Poor: 2, Poor %: 20.00%
+
+County: Kings
+Feature Carried Condition Correlation:
+278I278IX2M23075: Total: 3, Poor: 0, Poor %: 0.00%
+278I278IX2M23085: Total: 3, Poor: 0, Poor %: 0.00%
+278I278IX2M24075: Total: 3, Poor: 0, Poor %: 0.00%
+FLATBUSH AVENUE: Total: 3, Poor: 1, Poor %: 33.33%
+UNION STREET: Total: 3, Poor: 2, Poor %: 66.67%
+Feature Crossed Condition Correlation:
+N Y & ATLANTIC/LI: Total: 26, Poor: 1, Poor %: 3.85%
+NYCTA SEA BEACH L: Total: 11, Poor: 1, Poor %: 9.09%
+NYCTA FRANKLIN LN: Total: 9, Poor: 0, Poor %: 0.00%
+NYCTA BRIGHTON LN: Total: 7, Poor: 3, Poor %: 42.86%
+NYCTA SEA BEACH: Total: 5, Poor: 0, Poor %: 0.00%
+
+County: Lewis
+Feature Carried Condition Correlation:
+COUNTY ROAD 29: Total: 4, Poor: 1, Poor %: 25.00%
+FISH CREEK ROAD: Total: 3, Poor: 0, Poor %: 0.00%
+LONG POND ROAD: Total: 3, Poor: 1, Poor %: 33.33%
+PINE GROVE ROAD: Total: 3, Poor: 0, Poor %: 0.00%
+RIVER ROAD: Total: 3, Poor: 2, Poor %: 66.67%
+Feature Crossed Condition Correlation:
+MILL CREEK: Total: 17, Poor: 4, Poor %: 23.53%
+BLACK RIVER: Total: 9, Poor: 2, Poor %: 22.22%
+SUGAR RIVER: Total: 8, Poor: 1, Poor %: 12.50%
+DEER RIVER: Total: 7, Poor: 3, Poor %: 42.86%
+BEAVER RIVER: Total: 7, Poor: 0, Poor %: 0.00%
+
+County: Livingston
+Feature Carried Condition Correlation:
+LINZY ROAD: Total: 3, Poor: 0, Poor %: 0.00%
+390I390I42021293: Total: 2, Poor: 0, Poor %: 0.00%
+390I390I42021129: Total: 2, Poor: 0, Poor %: 0.00%
+390I390I42021149: Total: 2, Poor: 0, Poor %: 0.00%
+PIONEER ROAD: Total: 2, Poor: 0, Poor %: 0.00%
+Feature Crossed Condition Correlation:
+KESHEQUA CREEK: Total: 20, Poor: 0, Poor %: 0.00%
+CANASERAGA CREEK: Total: 13, Poor: 0, Poor %: 0.00%
+MILL CREEK: Total: 7, Poor: 1, Poor %: 14.29%
+BRADNER CREEK: Total: 7, Poor: 1, Poor %: 14.29%
+GENESEE RIVER: Total: 5, Poor: 2, Poor %: 40.00%
+
+County: Madison
+Feature Carried Condition Correlation:
+90IX: Total: 5, Poor: 1, Poor %: 20.00%
+CREEK ROAD: Total: 3, Poor: 0, Poor %: 0.00%
+CR99 BEAVER CREEK RD: Total: 2, Poor: 0, Poor %: 0.00%
+MILL STREET: Total: 2, Poor: 0, Poor %: 0.00%
+CARPENTER ROAD: Total: 2, Poor: 0, Poor %: 0.00%
+Feature Crossed Condition Correlation:
+CHITTENANGO CREEK: Total: 19, Poor: 2, Poor %: 10.53%
+ONEIDA CREEK: Total: 17, Poor: 1, Poor %: 5.88%
+OLD ERIE CANAL: Total: 15, Poor: 5, Poor %: 33.33%
+90IX: Total: 11, Poor: 5, Poor %: 45.45%
+COWASELON CREEK: Total: 10, Poor: 3, Poor %: 30.00%
+
+County: Monroe
+Feature Carried Condition Correlation:
+90IX: Total: 7, Poor: 1, Poor %: 14.29%
+NORTH GREECE ROAD: Total: 6, Poor: 0, Poor %: 0.00%
+LONG POND ROAD: Total: 4, Poor: 0, Poor %: 0.00%
+260 X: Total: 4, Poor: 1, Poor %: 25.00%
+LAWRENCE ROAD: Total: 3, Poor: 0, Poor %: 0.00%
+Feature Crossed Condition Correlation:
+ERIE CANAL: Total: 40, Poor: 7, Poor %: 17.50%
+IRONDEQUOIT CREEK: Total: 26, Poor: 0, Poor %: 0.00%
+90IX: Total: 16, Poor: 4, Poor %: 25.00%
+GENESEE RIVER: Total: 15, Poor: 0, Poor %: 0.00%
+BLACK CREEK: Total: 15, Poor: 2, Poor %: 13.33%
+
+County: Montgomery
+Feature Carried Condition Correlation:
+90IX: Total: 17, Poor: 1, Poor %: 5.88%
+CR2 CRANES HOLLOW RD: Total: 7, Poor: 1, Poor %: 14.29%
+FLORIDA AVENUE: Total: 3, Poor: 0, Poor %: 0.00%
+CRESCENT AVENUE: Total: 2, Poor: 1, Poor %: 50.00%
+CR81 VANDEUSENVILLE RD: Total: 2, Poor: 0, Poor %: 0.00%
+Feature Crossed Condition Correlation:
+CANAJOHARIE CREEK: Total: 14, Poor: 3, Poor %: 21.43%
+N CHUCTANUNDA CK: Total: 11, Poor: 3, Poor %: 27.27%
+90IX: Total: 9, Poor: 0, Poor %: 0.00%
+FLAT CREEK: Total: 9, Poor: 0, Poor %: 0.00%
+EVAS KILL: Total: 8, Poor: 1, Poor %: 12.50%
+
+County: Nassau
+Feature Carried Condition Correlation:
+MERRICK ROAD: Total: 5, Poor: 0, Poor %: 0.00%
+PARK AVENUE: Total: 5, Poor: 0, Poor %: 0.00%
+495I EB TO NSP EB: Total: 3, Poor: 0, Poor %: 0.00%
+BABYLON TURNPIKE: Total: 3, Poor: 0, Poor %: 0.00%
+HEMPSTEAD AVENUE: Total: 3, Poor: 0, Poor %: 0.00%
+Feature Crossed Condition Correlation:
+EAST MEADOW BROOK: Total: 8, Poor: 0, Poor %: 0.00%
+LIRR PT JEFF BRCH: Total: 5, Poor: 0, Poor %: 0.00%
+FOSTERS BROOK: Total: 5, Poor: 0, Poor %: 0.00%
+DRAIN-FOREST C PK: Total: 4, Poor: 0, Poor %: 0.00%
+WANTAGH STATE PARKWAY SB: Total: 4, Poor: 0, Poor %: 0.00%
+
+County: New York
+Feature Carried Condition Correlation:
+WEST DRIVE: Total: 9, Poor: 0, Poor %: 0.00%
+EAST DRIVE: Total: 7, Poor: 1, Poor %: 14.29%
+25 X: Total: 6, Poor: 0, Poor %: 0.00%
+RIVERSIDE DRIVE: Total: 6, Poor: 0, Poor %: 0.00%
+WEST 33RD STREET: Total: 3, Poor: 0, Poor %: 0.00%
+Feature Crossed Condition Correlation:
+AMTRAK W SIDE CON: Total: 16, Poor: 3, Poor %: 18.75%
+AMTRAK W.SIDE CON: Total: 8, Poor: 0, Poor %: 0.00%
+495IX: Total: 7, Poor: 0, Poor %: 0.00%
+95IX: Total: 6, Poor: 0, Poor %: 0.00%
+RELIEF: Total: 5, Poor: 0, Poor %: 0.00%
+
+County: Niagara
+Feature Carried Condition Correlation:
+CARMEN ROAD: Total: 4, Poor: 1, Poor %: 25.00%
+HARTLAND ROAD: Total: 3, Poor: 1, Poor %: 33.33%
+QUAKER ROAD: Total: 3, Poor: 0, Poor %: 0.00%
+LOCKPORT ROAD: Total: 3, Poor: 0, Poor %: 0.00%
+TOWN LINE ROAD: Total: 3, Poor: 0, Poor %: 0.00%
+Feature Crossed Condition Correlation:
+ERIE CANAL: Total: 19, Poor: 4, Poor %: 21.05%
+EIGHTEEN MILE CRK: Total: 17, Poor: 0, Poor %: 0.00%
+MUD CREEK: Total: 13, Poor: 1, Poor %: 7.69%
+BERGHOLTZ CREEK: Total: 13, Poor: 2, Poor %: 15.38%
+GOLDEN HILL CREEK: Total: 9, Poor: 0, Poor %: 0.00%
+
+County: Oneida
+Feature Carried Condition Correlation:
+90IX: Total: 10, Poor: 2, Poor %: 20.00%
+MAIN STREET: Total: 4, Poor: 0, Poor %: 0.00%
+RIVER ROAD: Total: 4, Poor: 0, Poor %: 0.00%
+HAWKINSVILLE ROAD: Total: 3, Poor: 0, Poor %: 0.00%
+CR68 RIVER ROAD: Total: 3, Poor: 0, Poor %: 0.00%
+Feature Crossed Condition Correlation:
+SAUQUOIT CREEK: Total: 22, Poor: 2, Poor %: 9.09%
+ORISKANY CREEK: Total: 20, Poor: 0, Poor %: 0.00%
+90IX: Total: 20, Poor: 3, Poor %: 15.00%
+NINE MILE CREEK: Total: 19, Poor: 1, Poor %: 5.26%
+MOHAWK RIVER: Total: 18, Poor: 4, Poor %: 22.22%
+
+County: Onondaga
+Feature Carried Condition Correlation:
+90IX: Total: 9, Poor: 2, Poor %: 22.22%
+90IX  EB: Total: 3, Poor: 1, Poor %: 33.33%
+90IX  WB: Total: 3, Poor: 0, Poor %: 0.00%
+690I690I33012023: Total: 3, Poor: 2, Poor %: 66.67%
+81I 81I33032042: Total: 3, Poor: 0, Poor %: 0.00%
+Feature Crossed Condition Correlation:
+ONONDAGA CREEK: Total: 37, Poor: 0, Poor %: 0.00%
+90IX: Total: 29, Poor: 8, Poor %: 27.59%
+BUTTERNUT CREEK: Total: 25, Poor: 2, Poor %: 8.00%
+SKANEATELES CREEK: Total: 20, Poor: 1, Poor %: 5.00%
+LIMESTONE CREEK: Total: 19, Poor: 4, Poor %: 21.05%
+
+County: Ontario
+Feature Carried Condition Correlation:
+90IX: Total: 15, Poor: 2, Poor %: 13.33%
+90IX  EB: Total: 3, Poor: 1, Poor %: 33.33%
+90IX  WB: Total: 3, Poor: 1, Poor %: 33.33%
+COUNTY ROAD 37: Total: 3, Poor: 0, Poor %: 0.00%
+LOWER EGYPT ROAD: Total: 2, Poor: 1, Poor %: 50.00%
+Feature Crossed Condition Correlation:
+FLINT CREEK: Total: 18, Poor: 3, Poor %: 16.67%
+MUD CREEK: Total: 14, Poor: 0, Poor %: 0.00%
+CANANDAIGUA OUTLT: Total: 13, Poor: 0, Poor %: 0.00%
+90IX: Total: 11, Poor: 1, Poor %: 9.09%
+SUCKER BROOK: Total: 8, Poor: 0, Poor %: 0.00%
+
+County: Orange
+Feature Carried Condition Correlation:
+87IX: Total: 12, Poor: 2, Poor %: 16.67%
+GUYMARD TURNPIKE: Total: 3, Poor: 1, Poor %: 33.33%
+SOUTH STREET: Total: 3, Poor: 1, Poor %: 33.33%
+COUNTY ROAD 22: Total: 3, Poor: 0, Poor %: 0.00%
+COUNTY ROAD 105: Total: 3, Poor: 0, Poor %: 0.00%
+Feature Crossed Condition Correlation:
+87IX: Total: 18, Poor: 2, Poor %: 11.11%
+SHAWANGUNK KILL: Total: 16, Poor: 2, Poor %: 12.50%
+RUTGERS CREEK: Total: 14, Poor: 3, Poor %: 21.43%
+MNRR PJ LINE: Total: 13, Poor: 4, Poor %: 30.77%
+WALLKILL RIVER: Total: 13, Poor: 0, Poor %: 0.00%
+
+County: Orleans
+Feature Carried Condition Correlation:
+EAST KENT ROAD: Total: 4, Poor: 1, Poor %: 25.00%
+KENT ROAD: Total: 3, Poor: 0, Poor %: 0.00%
+NORWAY ROAD: Total: 3, Poor: 0, Poor %: 0.00%
+KNOWLESVILLE ROAD: Total: 3, Poor: 0, Poor %: 0.00%
+BUTTS ROAD: Total: 2, Poor: 0, Poor %: 0.00%
+Feature Crossed Condition Correlation:
+ERIE CANAL: Total: 23, Poor: 6, Poor %: 26.09%
+MARSH CREEK: Total: 14, Poor: 1, Poor %: 7.14%
+OAK ORCHARD CREEK: Total: 12, Poor: 2, Poor %: 16.67%
+JOHNSON CREEK: Total: 9, Poor: 0, Poor %: 0.00%
+OTTER CREEK: Total: 6, Poor: 0, Poor %: 0.00%
+
+County: Oswego
+Feature Carried Condition Correlation:
+COUNTY ROAD 12: Total: 3, Poor: 0, Poor %: 0.00%
+COUNTY ROAD 38: Total: 3, Poor: 1, Poor %: 33.33%
+COUNTY ROAD 48: Total: 2, Poor: 0, Poor %: 0.00%
+COUNTY ROAD 52: Total: 2, Poor: 0, Poor %: 0.00%
+PEKIN ROAD: Total: 2, Poor: 0, Poor %: 0.00%
+Feature Crossed Condition Correlation:
+SALMON RIVER: Total: 11, Poor: 0, Poor %: 0.00%
+CATFISH CREEK: Total: 11, Poor: 1, Poor %: 9.09%
+CSX TRANSPRTATION: Total: 9, Poor: 0, Poor %: 0.00%
+SAGE CREEK: Total: 9, Poor: 1, Poor %: 11.11%
+SCRIBA CREEK: Total: 8, Poor: 3, Poor %: 37.50%
+
+County: Otsego
+Feature Carried Condition Correlation:
+COUNTY ROAD 23: Total: 7, Poor: 0, Poor %: 0.00%
+COUNTY ROAD 19: Total: 5, Poor: 0, Poor %: 0.00%
+COUNTY ROAD 11: Total: 5, Poor: 1, Poor %: 20.00%
+COUNTY ROAD 3: Total: 3, Poor: 0, Poor %: 0.00%
+MILL ROAD: Total: 3, Poor: 1, Poor %: 33.33%
+Feature Crossed Condition Correlation:
+BUTTERNUT CREEK: Total: 18, Poor: 4, Poor %: 22.22%
+SUSQUEHANNA RIVER: Total: 18, Poor: 2, Poor %: 11.11%
+OTEGO CREEK: Total: 14, Poor: 0, Poor %: 0.00%
+SCHENEVUS CREEK: Total: 14, Poor: 4, Poor %: 28.57%
+WHARTON CREEK: Total: 11, Poor: 0, Poor %: 0.00%
+
+County: Putnam
+Feature Carried Condition Correlation:
+987G 987G84021052: Total: 2, Poor: 0, Poor %: 0.00%
+DREWVLLE RD CR 36: Total: 2, Poor: 1, Poor %: 50.00%
+84I 84I84031006: Total: 2, Poor: 0, Poor %: 0.00%
+BOWEN ROAD: Total: 2, Poor: 0, Poor %: 0.00%
+84I 84I84031033: Total: 2, Poor: 0, Poor %: 0.00%
+Feature Crossed Condition Correlation:
+E BR CROTON RIVER: Total: 7, Poor: 0, Poor %: 0.00%
+CLOVE CREEK: Total: 7, Poor: 1, Poor %: 14.29%
+STUMP POND STREAM: Total: 4, Poor: 0, Poor %: 0.00%
+CANOPUS CREEK: Total: 4, Poor: 2, Poor %: 50.00%
+PEEKSKLL HOLLW CK: Total: 3, Poor: 1, Poor %: 33.33%
+
+County: Queens
+Feature Carried Condition Correlation:
+25AX: Total: 9, Poor: 1, Poor %: 11.11%
+25 X: Total: 9, Poor: 1, Poor %: 11.11%
+ROOSEVELT AVENUE: Total: 5, Poor: 0, Poor %: 0.00%
+UNION TURNPIKE: Total: 5, Poor: 2, Poor %: 40.00%
+150TH STREET: Total: 4, Poor: 1, Poor %: 25.00%
+Feature Crossed Condition Correlation:
+CSX TRANS/CPR&P&W: Total: 13, Poor: 1, Poor %: 7.69%
+RELIEF: Total: 9, Poor: 0, Poor %: 0.00%
+LONG ISLAND-PW BR: Total: 6, Poor: 0, Poor %: 0.00%
+JFK RELIEF: Total: 5, Poor: 0, Poor %: 0.00%
+BOAT BASIN ROAD: Total: 4, Poor: 0, Poor %: 0.00%
+
+County: Rensselaer
+Feature Carried Condition Correlation:
+90I 90I14022030: Total: 3, Poor: 0, Poor %: 0.00%
+DUNHAM HOLLOW RD: Total: 3, Poor: 1, Poor %: 33.33%
+BURDEN LAKE ROAD: Total: 3, Poor: 0, Poor %: 0.00%
+90I 90I14022010: Total: 2, Poor: 0, Poor %: 0.00%
+90I 90I14022053: Total: 2, Poor: 0, Poor %: 0.00%
+Feature Crossed Condition Correlation:
+POESTEN KILL: Total: 18, Poor: 0, Poor %: 0.00%
+MILL CREEK: Total: 13, Poor: 2, Poor %: 15.38%
+LITTLE HOOSIC RIV: Total: 12, Poor: 4, Poor %: 33.33%
+WYNANTS KILL: Total: 11, Poor: 3, Poor %: 27.27%
+KINDERHOOK CREEK: Total: 10, Poor: 2, Poor %: 20.00%
+
+County: Richmond
+Feature Carried Condition Correlation:
+278IX: Total: 9, Poor: 0, Poor %: 0.00%
+440 X: Total: 7, Poor: 0, Poor %: 0.00%
+278I278I02021011: Total: 4, Poor: 1, Poor %: 25.00%
+440 440 06011015: Total: 3, Poor: 0, Poor %: 0.00%
+TOMPKINS AVENUE: Total: 3, Poor: 0, Poor %: 0.00%
+Feature Crossed Condition Correlation:
+SIRT SOUTH SHORE: Total: 27, Poor: 0, Poor %: 0.00%
+B&O RR- ABANDONED: Total: 8, Poor: 0, Poor %: 0.00%
+ARTHUR KILL ROAD: Total: 4, Poor: 0, Poor %: 0.00%
+440 440 X6M11014: Total: 4, Poor: 0, Poor %: 0.00%
+FOREST AVE: Total: 3, Poor: 0, Poor %: 0.00%
+
+County: Rockland
+Feature Carried Condition Correlation:
+87IX: Total: 9, Poor: 3, Poor %: 33.33%
+287IX: Total: 5, Poor: 1, Poor %: 20.00%
+ORANGEBURG ROAD: Total: 4, Poor: 0, Poor %: 0.00%
+987CX: Total: 3, Poor: 0, Poor %: 0.00%
+FOURTH STREET: Total: 3, Poor: 0, Poor %: 0.00%
+Feature Crossed Condition Correlation:
+87IX: Total: 23, Poor: 5, Poor %: 21.74%
+MINISCEONGO CREEK: Total: 16, Poor: 2, Poor %: 12.50%
+SPARKILL CREEK: Total: 11, Poor: 0, Poor %: 0.00%
+PASCACK BROOK: Total: 10, Poor: 0, Poor %: 0.00%
+HACKENSACK RIVER: Total: 10, Poor: 0, Poor %: 0.00%
+
+County: Saratoga
+Feature Carried Condition Correlation:
+HANS CREEK ROAD: Total: 5, Poor: 0, Poor %: 0.00%
+NORTH SHORE ROAD: Total: 3, Poor: 1, Poor %: 33.33%
+SPIER FALLS ROAD: Total: 3, Poor: 0, Poor %: 0.00%
+NELSON AVE EXT: Total: 3, Poor: 2, Poor %: 66.67%
+NPS ROUTE 10: Total: 3, Poor: 1, Poor %: 33.33%
+Feature Crossed Condition Correlation:
+KAYADEROSSERAS CK: Total: 20, Poor: 0, Poor %: 0.00%
+DELAWARE & HUDSON: Total: 13, Poor: 0, Poor %: 0.00%
+SNOOK KILL: Total: 12, Poor: 0, Poor %: 0.00%
+FISH CREEK: Total: 10, Poor: 1, Poor %: 10.00%
+MOURNING KILL: Total: 8, Poor: 0, Poor %: 0.00%
+
+County: Schenectady
+Feature Carried Condition Correlation:
+90IX: Total: 6, Poor: 0, Poor %: 0.00%
+88I 88I16081017: Total: 2, Poor: 0, Poor %: 0.00%
+88I 88I16081071: Total: 2, Poor: 0, Poor %: 0.00%
+88I 88I16081072: Total: 2, Poor: 0, Poor %: 0.00%
+88I 88I16081125: Total: 2, Poor: 0, Poor %: 0.00%
+Feature Crossed Condition Correlation:
+NORMANS KILL: Total: 9, Poor: 1, Poor %: 11.11%
+90IX: Total: 9, Poor: 0, Poor %: 0.00%
+CSX TRANS/ AMTRAK: Total: 7, Poor: 2, Poor %: 28.57%
+ALPLAUS KILL: Total: 4, Poor: 0, Poor %: 0.00%
+SANDSEA KILL: Total: 4, Poor: 0, Poor %: 0.00%
+
+County: Schoharie
+Feature Carried Condition Correlation:
+HAUVERVILLE ROAD: Total: 4, Poor: 0, Poor %: 0.00%
+COUNTY ROAD 2: Total: 3, Poor: 0, Poor %: 0.00%
+COUNTY RD 19A: Total: 3, Poor: 0, Poor %: 0.00%
+COUNTY ROAD 4: Total: 3, Poor: 0, Poor %: 0.00%
+HUNTERSLAND ROAD: Total: 3, Poor: 1, Poor %: 33.33%
+Feature Crossed Condition Correlation:
+COBLESKILL CREEK: Total: 21, Poor: 3, Poor %: 14.29%
+MILL CREEK: Total: 10, Poor: 2, Poor %: 20.00%
+WEST CREEK: Total: 9, Poor: 2, Poor %: 22.22%
+SCHOHARIE CREEK: Total: 8, Poor: 1, Poor %: 12.50%
+LAKE CREEK: Total: 8, Poor: 0, Poor %: 0.00%
+
+County: Schuyler
+Feature Carried Condition Correlation:
+COUNTY ROAD 16: Total: 6, Poor: 2, Poor %: 33.33%
+COUNTY ROAD 6: Total: 4, Poor: 0, Poor %: 0.00%
+COUNTY ROAD 13: Total: 3, Poor: 0, Poor %: 0.00%
+COUNTY ROAD 14: Total: 2, Poor: 0, Poor %: 0.00%
+MILL STREET: Total: 2, Poor: 0, Poor %: 0.00%
+Feature Crossed Condition Correlation:
+TAUGHANNOCK CREEK: Total: 9, Poor: 1, Poor %: 11.11%
+CAYUTA CREEK: Total: 7, Poor: 0, Poor %: 0.00%
+TRIB MEADS CREEK: Total: 7, Poor: 2, Poor %: 28.57%
+CATLIN MILL CREEK: Total: 5, Poor: 0, Poor %: 0.00%
+GLEN CREEK: Total: 4, Poor: 0, Poor %: 0.00%
+
+County: Seneca
+Feature Carried Condition Correlation:
+UPPER LAKE ROAD: Total: 2, Poor: 0, Poor %: 0.00%
+WYERS POINT ROAD: Total: 2, Poor: 1, Poor %: 50.00%
+90IX: Total: 2, Poor: 1, Poor %: 50.00%
+96  96 35031296: Total: 2, Poor: 0, Poor %: 0.00%
+89  89 35021006: Total: 1, Poor: 0, Poor %: 0.00%
+Feature Crossed Condition Correlation:
+90IX: Total: 11, Poor: 1, Poor %: 9.09%
+MILL CREEK: Total: 6, Poor: 1, Poor %: 16.67%
+SENECA RIVER: Total: 5, Poor: 0, Poor %: 0.00%
+CAYUGA-SENECA CNL: Total: 4, Poor: 0, Poor %: 0.00%
+KENDIG CREEK: Total: 4, Poor: 1, Poor %: 25.00%
+
+County: Steuben
+Feature Carried Condition Correlation:
+COUNTY ROAD 70A: Total: 10, Poor: 0, Poor %: 0.00%
+COUNTY ROAD 28: Total: 10, Poor: 0, Poor %: 0.00%
+COUNTY ROAD 119: Total: 8, Poor: 1, Poor %: 12.50%
+COUNTY ROAD 6: Total: 6, Poor: 0, Poor %: 0.00%
+COUNTY ROAD 7: Total: 6, Poor: 0, Poor %: 0.00%
+Feature Crossed Condition Correlation:
+COHOCTON RIVER: Total: 39, Poor: 3, Poor %: 7.69%
+CANISTEO RIVER: Total: 31, Poor: 3, Poor %: 9.68%
+TUSCARORA CREEK: Total: 15, Poor: 1, Poor %: 6.67%
+NORFOLK SOUTHERN: Total: 15, Poor: 0, Poor %: 0.00%
+BIG CREEK: Total: 11, Poor: 0, Poor %: 0.00%
+
+County: St Lawrence
+Feature Carried Condition Correlation:
+COUNTY ROAD 27: Total: 5, Poor: 0, Poor %: 0.00%
+RIVER ROAD: Total: 4, Poor: 0, Poor %: 0.00%
+COUNTY ROAD 35: Total: 4, Poor: 0, Poor %: 0.00%
+MAIN STREET: Total: 3, Poor: 0, Poor %: 0.00%
+COUNTY ROAD 17: Total: 3, Poor: 0, Poor %: 0.00%
+Feature Crossed Condition Correlation:
+OSWEGATCHIE RIVER: Total: 34, Poor: 2, Poor %: 5.88%
+TROUT BROOK: Total: 26, Poor: 0, Poor %: 0.00%
+RAQUETTE RIVER: Total: 19, Poor: 2, Poor %: 10.53%
+GRASSE RIVER: Total: 16, Poor: 2, Poor %: 12.50%
+LITTLE RIVER: Total: 11, Poor: 0, Poor %: 0.00%
+
+County: Suffolk
+Feature Carried Condition Correlation:
+NEW HIGHWAY: Total: 5, Poor: 0, Poor %: 0.00%
+CROSS RIVER DR: Total: 5, Poor: 0, Poor %: 0.00%
+GREAT NECK ROAD: Total: 3, Poor: 0, Poor %: 0.00%
+WELLWOOD AVENUE: Total: 3, Poor: 0, Poor %: 0.00%
+NICOLLS ROAD NB: Total: 3, Poor: 0, Poor %: 0.00%
+Feature Crossed Condition Correlation:
+CARLLS RIVER: Total: 6, Poor: 0, Poor %: 0.00%
+CARMANS RIVER: Total: 5, Poor: 0, Poor %: 0.00%
+HOLBROOK ROAD: Total: 4, Poor: 0, Poor %: 0.00%
+CR 97-NICOLLS RD: Total: 4, Poor: 0, Poor %: 0.00%
+LONG ISLAND-MK BR: Total: 4, Poor: 1, Poor %: 25.00%
+
+County: Sullivan
+Feature Carried Condition Correlation:
+MOUNTAINDALE ROAD: Total: 6, Poor: 1, Poor %: 16.67%
+NORTH BRANCH ROAD: Total: 4, Poor: 0, Poor %: 0.00%
+GROOVILLE ROAD: Total: 4, Poor: 0, Poor %: 0.00%
+RESORTS WORLD DRIVE: Total: 4, Poor: 0, Poor %: 0.00%
+COUNTY ROAD 55: Total: 3, Poor: 1, Poor %: 33.33%
+Feature Crossed Condition Correlation:
+WILLOWEMOC CREEK: Total: 18, Poor: 2, Poor %: 11.11%
+SANDBURG CREEK: Total: 14, Poor: 3, Poor %: 21.43%
+E BR CALLICOON CK: Total: 12, Poor: 3, Poor %: 25.00%
+NEVERSINK RIVER: Total: 9, Poor: 3, Poor %: 33.33%
+HALFWAY BROOK: Total: 9, Poor: 3, Poor %: 33.33%
+
+County: Tioga
+Feature Carried Condition Correlation:
+WEST CREEK ROAD: Total: 5, Poor: 0, Poor %: 0.00%
+PENNSYLVANIA AVE: Total: 4, Poor: 0, Poor %: 0.00%
+EAST RIVER ROAD: Total: 3, Poor: 0, Poor %: 0.00%
+GASKILL ROAD: Total: 3, Poor: 0, Poor %: 0.00%
+VALLEY ROAD: Total: 3, Poor: 0, Poor %: 0.00%
+Feature Crossed Condition Correlation:
+CATATONK CREEK: Total: 13, Poor: 0, Poor %: 0.00%
+CAYUTA CREEK: Total: 9, Poor: 0, Poor %: 0.00%
+DEAN CREEK: Total: 8, Poor: 1, Poor %: 12.50%
+PIPE CREEK: Total: 8, Poor: 0, Poor %: 0.00%
+APALACHIN CREEK: Total: 7, Poor: 1, Poor %: 14.29%
+
+County: Tompkins
+Feature Carried Condition Correlation:
+SALMON CREEK ROAD: Total: 4, Poor: 1, Poor %: 25.00%
+CENTRAL CHAPEL RD: Total: 3, Poor: 1, Poor %: 33.33%
+OLD SEVNTY SIX RD: Total: 3, Poor: 1, Poor %: 33.33%
+FALL CREEK ROAD: Total: 3, Poor: 0, Poor %: 0.00%
+MILL STREET: Total: 3, Poor: 2, Poor %: 66.67%
+Feature Crossed Condition Correlation:
+FALL CREEK: Total: 29, Poor: 5, Poor %: 17.24%
+CASCADILLA CREEK: Total: 17, Poor: 2, Poor %: 11.76%
+SIXMILE CREEK: Total: 10, Poor: 0, Poor %: 0.00%
+CAYUGA INLET: Total: 9, Poor: 1, Poor %: 11.11%
+OWASCO INLET: Total: 9, Poor: 1, Poor %: 11.11%
+
+County: Ulster
+Feature Carried Condition Correlation:
+87IX: Total: 11, Poor: 3, Poor %: 27.27%
+COUNTY ROAD 47: Total: 7, Poor: 3, Poor %: 42.86%
+PEEKAMOOSE ROAD: Total: 5, Poor: 3, Poor %: 60.00%
+DRY BROOK ROAD: Total: 5, Poor: 0, Poor %: 0.00%
+DENNING ROAD: Total: 4, Poor: 3, Poor %: 75.00%
+Feature Crossed Condition Correlation:
+ESOPUS CREEK: Total: 24, Poor: 5, Poor %: 20.83%
+RONDOUT CREEK: Total: 22, Poor: 7, Poor %: 31.82%
+87IX: Total: 21, Poor: 3, Poor %: 14.29%
+SAW KILL: Total: 15, Poor: 1, Poor %: 6.67%
+PLATTEKILL CREEK: Total: 13, Poor: 4, Poor %: 30.77%
+
+County: Warren
+Feature Carried Condition Correlation:
+PADANARUM ROAD: Total: 2, Poor: 0, Poor %: 0.00%
+87I 87I17101352: Total: 2, Poor: 0, Poor %: 0.00%
+VALENTINE ROAD: Total: 2, Poor: 0, Poor %: 0.00%
+CR26 PALISADES RD: Total: 2, Poor: 1, Poor %: 50.00%
+87I 87I17101102: Total: 2, Poor: 0, Poor %: 0.00%
+Feature Crossed Condition Correlation:
+SCHROON RIVER: Total: 10, Poor: 4, Poor %: 40.00%
+MILL CREEK: Total: 9, Poor: 1, Poor %: 11.11%
+STONY CREEK: Total: 6, Poor: 0, Poor %: 0.00%
+NORTHWEST BAY BRK: Total: 5, Poor: 1, Poor %: 20.00%
+CHESTER CREEK: Total: 5, Poor: 0, Poor %: 0.00%
+
+County: Washington
+Feature Carried Condition Correlation:
+CR 113, RIVER ROAD: Total: 4, Poor: 2, Poor %: 50.00%
+WEST ROAD: Total: 2, Poor: 0, Poor %: 0.00%
+CR 74, RAIL ROAD: Total: 2, Poor: 1, Poor %: 50.00%
+SOUTH BAY ROAD: Total: 2, Poor: 0, Poor %: 0.00%
+COUNTY ROAD 113: Total: 2, Poor: 1, Poor %: 50.00%
+Feature Crossed Condition Correlation:
+BATTEN KILL: Total: 14, Poor: 3, Poor %: 21.43%
+CHAMPLAIN CANAL: Total: 14, Poor: 4, Poor %: 28.57%
+BLACK CREEK: Total: 14, Poor: 2, Poor %: 14.29%
+MOSES KILL: Total: 11, Poor: 0, Poor %: 0.00%
+WHITE CREEK: Total: 11, Poor: 1, Poor %: 9.09%
+
+County: Wayne
+Feature Carried Condition Correlation:
+RIDGE ROAD: Total: 3, Poor: 0, Poor %: 0.00%
+104 104 47041017: Total: 2, Poor: 0, Poor %: 0.00%
+HOGBACK ROAD: Total: 2, Poor: 0, Poor %: 0.00%
+Canandaigua Road: Total: 2, Poor: 0, Poor %: 0.00%
+31  31 37061062: Total: 1, Poor: 0, Poor %: 0.00%
+Feature Crossed Condition Correlation:
+ERIE CANAL: Total: 19, Poor: 7, Poor %: 36.84%
+GANARGUA CREEK: Total: 15, Poor: 2, Poor %: 13.33%
+SALMON CREEK: Total: 13, Poor: 3, Poor %: 23.08%
+RED CREEK: Total: 12, Poor: 0, Poor %: 0.00%
+CSX TRANS/AMTRAK: Total: 7, Poor: 1, Poor %: 14.29%
+
+County: Westchester
+Feature Carried Condition Correlation:
+95IX: Total: 18, Poor: 0, Poor %: 0.00%
+907GX: Total: 14, Poor: 1, Poor %: 7.14%
+987DX: Total: 13, Poor: 1, Poor %: 7.69%
+87IX: Total: 9, Poor: 0, Poor %: 0.00%
+987FX: Total: 5, Poor: 0, Poor %: 0.00%
+Feature Crossed Condition Correlation:
+SAW MILL RIVER: Total: 40, Poor: 3, Poor %: 7.50%
+BRONX RIVER: Total: 31, Poor: 1, Poor %: 3.23%
+MAMARONECK RIVER: Total: 30, Poor: 2, Poor %: 6.67%
+BLIND BROOK: Total: 21, Poor: 2, Poor %: 9.52%
+95IX: Total: 21, Poor: 2, Poor %: 9.52%
+
+County: Wyoming
+Feature Carried Condition Correlation:
+STATE PARK ROAD: Total: 4, Poor: 0, Poor %: 0.00%
+MICHIGAN ROAD: Total: 3, Poor: 0, Poor %: 0.00%
+W MIDDLEBURY ROAD: Total: 3, Poor: 0, Poor %: 0.00%
+CENTERLINE ROAD: Total: 3, Poor: 0, Poor %: 0.00%
+HARDYS ROAD: Total: 2, Poor: 0, Poor %: 0.00%
+Feature Crossed Condition Correlation:
+OATKA CREEK: Total: 15, Poor: 1, Poor %: 6.67%
+TONAWANDA CREEK: Total: 13, Poor: 1, Poor %: 7.69%
+CAYUGA CREEK: Total: 10, Poor: 1, Poor %: 10.00%
+CATTARAUGUS CREEK: Total: 9, Poor: 0, Poor %: 0.00%
+EAST KOY CREEK: Total: 9, Poor: 2, Poor %: 22.22%
+
+County: Yates
+Feature Carried Condition Correlation:
+COUNTY ROAD 18: Total: 2, Poor: 0, Poor %: 0.00%
+COUNTY ROAD 24: Total: 2, Poor: 0, Poor %: 0.00%
+14A 14A66041057: Total: 1, Poor: 0, Poor %: 0.00%
+230 230 66031035: Total: 1, Poor: 0, Poor %: 0.00%
+54  54 66021006: Total: 1, Poor: 0, Poor %: 0.00%
+Feature Crossed Condition Correlation:
+WEST RIVER: Total: 9, Poor: 1, Poor %: 11.11%
+BIG STREAM: Total: 7, Poor: 0, Poor %: 0.00%
+KEUKA LAKE OUTLET: Total: 7, Poor: 0, Poor %: 0.00%
+SUGAR CREEK: Total: 5, Poor: 0, Poor %: 0.00%
+KASHONG CREEK: Total: 4, Poor: 0, Poor %: 0.00%
