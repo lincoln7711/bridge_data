@@ -1,10 +1,11 @@
-import pandas as pd
+import json
 import geopandas as gpd
 import matplotlib.pyplot as plt
-import os
+import pandas as pd
 import requests
 import zipfile
 import io
+import os
 
 def download_ny_counties_shapefile():
     url = "https://www2.census.gov/geo/tiger/TIGER2019/COUNTY/tl_2019_36_county.zip"
@@ -13,14 +14,18 @@ def download_ny_counties_shapefile():
     z.extractall("ny_counties_shapefile")
     return gpd.read_file("ny_counties_shapefile/tl_2019_36_county.shp")
 
-def create_choropleth_map(csv_file):
-    # Create output folder in the main repository
-    if not os.path.exists('../1a_output'):
-        os.makedirs('../1a_output')
+def create_choropleth_map(json_file):
+    # Create output folder
+    if not os.path.exists('output'):
+        os.makedirs('output')
 
-    # Read the CSV file
-    print(f"Reading CSV file from: {csv_file}")
-    df = pd.read_csv(csv_file)
+    # Read the JSON file
+    print(f"Reading JSON file: {json_file}")
+    with open(json_file, 'r') as f:
+        data = json.load(f)
+
+    # Convert to DataFrame
+    df = pd.DataFrame(data)
 
     # Group by county and calculate poor bridge percentage
     county_data = df.groupby('County').agg({
@@ -46,8 +51,8 @@ def create_choropleth_map(csv_file):
     ax.set_title('Percentage of Poor Condition Bridges by County in New York State', fontsize=16)
     ax.axis('off')
 
-    # Save the plot in the main repository
-    output_path = os.path.join('..', '1a_output', 'ny_bridge_condition_choropleth.png')
+    # Save the plot
+    output_path = 'output/ny_bridge_condition_choropleth.png'
     plt.savefig(output_path, dpi=300, bbox_inches='tight')
     plt.close()
 
@@ -55,4 +60,4 @@ def create_choropleth_map(csv_file):
 
 # Run the function
 if __name__ == "__main__":
-    create_choropleth_map('Bridge_Conditions__NYS_Department_of_Transportation_20240702.csv')
+    create_choropleth_map('bridge_conditions.json')
