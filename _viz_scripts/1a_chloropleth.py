@@ -1,18 +1,9 @@
 import json
-import geopandas as gpd
 import matplotlib.pyplot as plt
 import pandas as pd
 import os
-import requests
-import zipfile
-import io
-
-def download_ny_counties_shapefile():
-    url = "https://www2.census.gov/geo/tiger/TIGER2019/COUNTY/tl_2019_36_county.zip"
-    response = requests.get(url)
-    z = zipfile.ZipFile(io.BytesIO(response.content))
-    z.extractall("ny_counties_shapefile")
-    return gpd.read_file("ny_counties_shapefile/tl_2019_36_county.shp")
+from matplotlib.patches import Polygon
+from matplotlib.collections import PatchCollection
 
 def create_choropleth_map(json_file):
     # Get the directory of the script
@@ -48,22 +39,39 @@ def create_choropleth_map(json_file):
     }).reset_index()
     county_data['Poor Percentage'] = (county_data['Poor Status'] / county_data['BIN']) * 100
 
-    # Download and load New York county shapefile
-    print("Downloading New York county shapefile...")
-    ny_counties = download_ny_counties_shapefile()
+    # Create a simplified map
+    fig, ax = plt.subplots(figsize=(15, 10))
 
-    # Merge shapefile with our data
-    merged = ny_counties.merge(county_data, left_on='NAME', right_on='County', how='left')
+    # Create dummy polygons for each county
+    polygons = []
+    for i, county in enumerate(county_data['County']):
+        x = i % 8  # 8 columns
+        y = i // 8
+        poly = Polygon([(x, y), (x+1, y), (x+1, y+1), (x, y+1)])
+        polygons.append(poly)
 
-    # Create the plot
-    fig, ax = plt.subplots(1, 1, figsize=(15, 10))
-    merged.plot(column='Poor Percentage', ax=ax, legend=True, 
-                legend_kwds={'label': 'Percentage of Poor Condition Bridges'},
-                cmap='YlOrRd', missing_kwds={'color': 'lightgrey'})
+    # Create a PatchCollection with the polygons
+    p = PatchCollection(polygons, cmap='YlOrRd')
+    p.set_array(county_data['Poor Percentage'])
+    ax.add_collection(p)
 
-    # Customize the plot
-    ax.set_title('Percentage of Poor Condition Bridges by County in New York State', fontsize=16)
+    # Add county labels
+    for i, county in enumerate(county_data['County']):
+        x = i % 8 + 0.5
+        y = i // 8 + 0.5
+        ax.text(x, y, county, ha='center', va='center', fontsize=8)
+
+    # Set the limits and remove axes
+    ax.set_xlim(0, 8)
+    ax.set_ylim(0, len(county_data) // 8 + 1)
     ax.axis('off')
+
+    # Add a colorbar
+    cbar = plt.colorbar(p, ax=ax)
+    cbar.set_label('Percentage of Poor Condition Bridges')
+
+    # Set the title
+    plt.title('Percentage of Poor Condition Bridges by County in New York State', fontsize=16)
 
     # Save the plot
     output_path = os.path.join(output_dir, 'ny_bridge_condition_choropleth.png')
