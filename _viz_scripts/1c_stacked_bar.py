@@ -34,18 +34,18 @@ def create_stacked_bar_chart_with_table(json_file):
     county_data = county_data.sort_values('BIN', ascending=False)
 
     # Create the figure with two subplots
-    fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(20, 10), gridspec_kw={'width_ratios': [3, 1]})
+    fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(24, 16), gridspec_kw={'width_ratios': [3, 1]})
 
     # Create the stacked bar chart
     bars_good = ax1.bar(county_data['County'], county_data['Good Condition'], label='Good Condition')
     bars_poor = ax1.bar(county_data['County'], county_data['Poor Status'], bottom=county_data['Good Condition'], label='Poor Condition')
 
     # Customize the plot
-    ax1.set_xlabel('County', fontsize=12)
-    ax1.set_ylabel('Number of Bridges', fontsize=12)
-    ax1.set_title('Bridge Conditions by County in New York State', fontsize=16)
-    ax1.legend(loc='upper right')
-    plt.setp(ax1.get_xticklabels(), rotation=90, ha='right')
+    ax1.set_xlabel('County', fontsize=14)
+    ax1.set_ylabel('Number of Bridges', fontsize=14)
+    ax1.set_title('Bridge Conditions by County in New York State', fontsize=18)
+    ax1.legend(loc='upper right', fontsize=12)
+    plt.setp(ax1.get_xticklabels(), rotation=90, ha='right', fontsize=10)
 
     # Create the table with good condition ratios
     table_data = county_data[['County', 'Good Condition', 'BIN']].copy()
@@ -53,11 +53,14 @@ def create_stacked_bar_chart_with_table(json_file):
     table_data = table_data[['County', 'Ratio']]
 
     ax2.axis('off')
-    table = ax2.table(cellText=table_data.values, colLabels=table_data.columns, cellLoc='center', loc='center')
+    table = ax2.table(cellText=table_data.values, colLabels=table_data.columns, 
+                      cellLoc='center', loc='center', cellLoc='left')
     table.auto_set_font_size(False)
-    table.set_fontsize(8)
-    table.scale(1, 1.5)
-    ax2.set_title('Ratio of Bridges in Good Condition', fontsize=14)
+    table.set_fontsize(10)
+    table.scale(1, 2)  # Increase vertical scale to give more room
+
+    # Add title to the table
+    ax2.set_title('Ratio of Bridges in Good Condition', fontsize=16, pad=20)
 
     # Adjust layout and save
     plt.tight_layout()
