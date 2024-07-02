@@ -1,11 +1,11 @@
 import json
+import geopandas as gpd
 import matplotlib.pyplot as plt
 import pandas as pd
 import os
-from matplotlib.patches import Polygon
-from matplotlib.collections import PatchCollection
+import zipfile
 
-def create_choropleth_map(json_file):
+def create_choropleth_map(json_file, shapefile_zip):
     # Get the directory of the script
     script_dir = os.path.dirname(os.path.abspath(__file__))
     
@@ -39,39 +39,27 @@ def create_choropleth_map(json_file):
     }).reset_index()
     county_data['Poor Percentage'] = (county_data['Poor Status'] / county_data['BIN']) * 100
 
-    # Create a simplified map
-    fig, ax = plt.subplots(figsize=(15, 10))
+    # Extract the shapefile from the zip
+    with zipfile.ZipFile(shapefile_zip, 'r') as zip_ref:
+        zip_ref.extractall(os.path.dirname(shapefile_zip))
 
-    # Create dummy polygons for each county
-    polygons = []
-    for i, county in enumerate(county_data['County']):
-        x = i % 8  # 8 columns
-        y = i // 8
-        poly = Polygon([(x, y), (x+1, y), (x+1, y+1), (x, y+1)])
-        polygons.append(poly)
+    # Load the shapefile
+    shapefile_path = shapefile_zip.replace('.zip', '')
+    ny_counties = gpd.read_file(shapefile_path)
 
-    # Create a PatchCollection with the polygons
-    p = PatchCollection(polygons, cmap='YlOrRd')
-    p.set_array(county_data['Poor Percentage'])
-    ax.add_collection(p)
+    # Merge shapefile with our data
+    ny_counties['NAME'] = ny_counties['NAME'].str.upper()
+    merged = ny_counties.merge(county_data, left_on='NAME', right_on='County', how='left')
 
-    # Add county labels
-    for i, county in enumerate(county_data['County']):
-        x = i % 8 + 0.5
-        y = i // 8 + 0.5
-        ax.text(x, y, county, ha='center', va='center', fontsize=8)
+    # Create the plot
+    fig, ax = plt.subplots(1, 1, figsize=(15, 10))
+    merged.plot(column='Poor Percentage', ax=ax, legend=True, 
+                legend_kwds={'label': 'Percentage of Poor Condition Bridges'},
+                cmap='YlOrRd', missing_kwds={'color': 'lightgrey'})
 
-    # Set the limits and remove axes
-    ax.set_xlim(0, 8)
-    ax.set_ylim(0, len(county_data) // 8 + 1)
+    # Customize the plot
+    ax.set_title('Percentage of Poor Condition Bridges by County in New York State', fontsize=16)
     ax.axis('off')
-
-    # Add a colorbar
-    cbar = plt.colorbar(p, ax=ax)
-    cbar.set_label('Percentage of Poor Condition Bridges')
-
-    # Set the title
-    plt.title('Percentage of Poor Condition Bridges by County in New York State', fontsize=16)
 
     # Save the plot
     output_path = os.path.join(output_dir, 'ny_bridge_condition_choropleth.png')
@@ -82,4 +70,6 @@ def create_choropleth_map(json_file):
 
 # Run the function
 if __name__ == "__main__":
-    create_choropleth_map('bridge_conditions.json')
+    json_file = 'bridge_conditions.json'
+    shapefile_zip = 'references/NYS_Civil_Boundaries.shp.zip'
+    create_choropleth_map(json_file, shapefile_zip)
