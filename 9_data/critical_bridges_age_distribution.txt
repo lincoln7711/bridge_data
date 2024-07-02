@@ -1,0 +1,18 @@
+Age Distribution of Critical Bridges:
+
+0-9 years: 22
+10-19 years: 57
+20-29 years: 77
+30-39 years: 103
+40-49 years: 52
+50-59 years: 74
+60-69 years: 102
+70-79 years: 63
+80-89 years: 50
+90-99 years: 48
+100-109 years: 28
+110-119 years: 40
+120-129 years: 9
+130-139 years: 6
+140-149 years: 1
+160-169 years: 1
