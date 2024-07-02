@@ -47,20 +47,21 @@ def create_stacked_bar_chart_with_table(json_file):
     ax1.legend(loc='upper right', fontsize=12)
     plt.setp(ax1.get_xticklabels(), rotation=90, ha='right', fontsize=10)
 
-    # Create the table with good condition ratios
+  # Create the table with good condition ratios
     table_data = county_data[['County', 'Good Condition', 'BIN']].copy()
     table_data['Ratio'] = table_data.apply(lambda row: f"{row['Good Condition']}/{row['BIN']}", axis=1)
     table_data = table_data[['County', 'Ratio']]
 
     ax2.axis('off')
     table = ax2.table(cellText=table_data.values, colLabels=table_data.columns, 
-                      cellLoc='center', loc='center', cellLoc='left')
+                    cellLoc='left', loc='center')
     table.auto_set_font_size(False)
     table.set_fontsize(10)
     table.scale(1, 2)  # Increase vertical scale to give more room
 
+
     # Add title to the table
-    ax2.set_title('Ratio of Bridges in Good Condition', fontsize=16, pad=20)
+   # ax2.set_title('Ratio of Bridges in Good Condition', fontsize=16, pad=20)
 
     # Adjust layout and save
     plt.tight_layout()
