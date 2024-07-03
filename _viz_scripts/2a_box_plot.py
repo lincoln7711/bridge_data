@@ -4,9 +4,10 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 # Set up file paths
-project_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+current_dir = os.path.dirname(os.path.abspath(__file__))
+project_dir = os.path.dirname(current_dir)
 data_file = os.path.join(project_dir, '2_data', 'bridges_by_decade.txt')
-output_dir = os.path.join(project_dir, '2a_output')
+output_dir = os.path.join(current_dir, '2a_output')
 
 # Create output directory if it doesn't exist
 os.makedirs(output_dir, exist_ok=True)
