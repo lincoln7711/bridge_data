@@ -12,11 +12,25 @@ output_dir = os.path.join(current_dir, '2a_output')
 # Create output directory if it doesn't exist
 os.makedirs(output_dir, exist_ok=True)
 
-# Load the data
-df = pd.read_csv(data_file, sep=':', header=None, names=['Decade', 'Data'])
-df[['Total', 'Poor', 'Percentage']] = df['Data'].str.extract(r'Total: (\d+), Poor: (\d+), Percentage: ([\d.]+)%')
-df = df.drop('Data', axis=1)
-df[['Total', 'Poor', 'Percentage']] = df[['Total', 'Poor', 'Percentage']].astype(float)
+# Read the file content
+with open(data_file, 'r') as file:
+    lines = file.readlines()
+
+# Process the data
+data = []
+for line in lines[1:]:  # Skip the header line
+    parts = line.strip().split(':')
+    if len(parts) == 2:
+        decade = parts[0].strip()
+        values = parts[1].strip().split(',')
+        if len(values) == 3:
+            total = int(values[0].split(':')[1].strip())
+            poor = int(values[1].split(':')[1].strip())
+            percentage = float(values[2].split(':')[1].strip().rstrip('%'))
+            data.append({'Decade': decade, 'Total': total, 'Poor': poor, 'Percentage': percentage})
+
+# Create DataFrame
+df = pd.DataFrame(data)
 
 # Create the box plot
 plt.figure(figsize=(12, 6))
